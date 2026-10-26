@@ -1,0 +1,24 @@
+# Godot 4 4.x files
+.godot/
+*.translation
+*.import
+
+# Node / MCP
+node_modules/
+npm-debug.log
+
+# User saves and credentials
+*.save
+user://*
+ai_credentials.json
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Export output and private signing material
+build/
+*.keystore
+*.jks
+.godot/export_credentials.cfg

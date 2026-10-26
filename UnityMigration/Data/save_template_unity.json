@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "source_format": "godot_genesis_save_v1",
+  "equipped_appearance": "ivory_queen",
+  "completed_chapters": [],
+  "counts": [
+    {
+      "id": "hope_fluctuation",
+      "value": 0
+    },
+    {
+      "id": "first_intention",
+      "value": 0
+    },
+    {
+      "id": "primordial_breath",
+      "value": 0
+    },
+    {
+      "id": "yin",
+      "value": 0
+    },
+    {
+      "id": "yang",
+      "value": 0
+    },
+    {
+      "id": "yin_yang",
+      "value": 0
+    },
+    {
+      "id": "element_wood",
+      "value": 0
+    },
+    {
+      "id": "element_fire",
+      "value": 0
+    },
+    {
+      "id": "element_earth",
+      "value": 0
+    },
+    {
+      "id": "element_metal",
+      "value": 0
+    },
+    {
+      "id": "element_water",
+      "value": 0
+    },
+    {
+      "id": "elemental_harmony",
+      "value": 0
+    },
+    {
+      "id": "time_seed",
+      "value": 0
+    },
+    {
+      "id": "time_flow",
+      "value": 0
+    },
+    {
+      "id": "space_point",
+      "value": 0
+    },
+    {
+      "id": "space_dimensions",
+      "value": 0
+    },
+    {
+      "id": "spacetime",
+      "value": 0
+    },
+    {
+      "id": "causality",
+      "value": 0
+    },
+    {
+      "id": "quantum_foam",
+      "value": 0
+    },
+    {
+      "id": "quark_filament",
+      "value": 0
+    },
+    {
+      "id": "electron_song",
+      "value": 0
+    },
+    {
+      "id": "hadron_forge",
+      "value": 0
+    },
+    {
+      "id": "molecular_bond",
+      "value": 0
+    },
+    {
+      "id": "cosmic_dust",
+      "value": 0
+    },
+    {
+      "id": "gravity_song",
+      "value": 0
+    },
+    {
+      "id": "protostar_core",
+      "value": 0
+    },
+    {
+      "id": "stellar_nursery",
+      "value": 0
+    },
+    {
+      "id": "world_crust",
+      "value": 0
+    },
+    {
+      "id": "ocean_dream",
+      "value": 0
+    },
+    {
+      "id": "sky_veil",
+      "value": 0
+    },
+    {
+      "id": "gaia_biosphere",
+      "value": 0
+    },
+    {
+      "id": "lunar_tides",
+      "value": 0
+    },
+    {
+      "id": "season_wheel",
+      "value": 0
+    },
+    {
+      "id": "soul_dawn",
+      "value": 0
+    },
+    {
+      "id": "constellation",
+      "value": 0
+    },
+    {
+      "id": "black_hole_anchor",
+      "value": 0
+    },
+    {
+      "id": "white_hole_fountain",
+      "value": 0
+    },
+    {
+      "id": "wormhole_nexus",
+      "value": 0
+    },
+    {
+      "id": "parallel_universe",
+      "value": 0
+    },
+    {
+      "id": "timeline_tree",
+      "value": 0
+    },
+    {
+      "id": "multiverse_loom",
+      "value": 0
+    },
+    {
+      "id": "law_weave",
+      "value": 0
+    },
+    {
+      "id": "infinite_universes",
+      "value": 0
+    },
+    {
+      "id": "universe_superposition",
+      "value": 0
+    },
+    {
+      "id": "independent_clocks",
+      "value": 0
+    },
+    {
+      "id": "beyond_distance",
+      "value": 0
+    },
+    {
+      "id": "lawful_dissonance",
+      "value": 0
+    },
+    {
+      "id": "confluence_resonance",
+      "value": 0
+    },
+    {
+      "id": "uncollapsed_possibility",
+      "value": 0
+    },
+    {
+      "id": "confluence_concord",
+      "value": 0
+    },
+    {
+      "id": "omniverse",
+      "value": 0
+    },
+    {
+      "id": "dao_seed",
+      "value": 0
+    },
+    {
+      "id": "dao_paths",
+      "value": 0
+    },
+    {
+      "id": "dao_weave",
+      "value": 0
+    },
+    {
+      "id": "dao_dimensions",
+      "value": 0
+    },
+    {
+      "id": "reality",
+      "value": 0
+    },
+    {
+      "id": "life_memory",
+      "value": 0
+    },
+    {
+      "id": "shared_breath",
+      "value": 0
+    },
+    {
+      "id": "inner_witness",
+      "value": 0
+    },
+    {
+      "id": "veiled_sight",
+      "value": 0
+    },
+    {
+      "id": "all_seeing",
+      "value": 0
+    },
+    {
+      "id": "inner_presence",
+      "value": 0
+    },
+    {
+      "id": "shared_presence",
+      "value": 0
+    },
+    {
+      "id": "omnipresence",
+      "value": 0
+    },
+    {
+      "id": "creative_will",
+      "value": 0
+    },
+    {
+      "id": "boundless_potential",
+      "value": 0
+    },
+    {
+      "id": "omnipotence",
+      "value": 0
+    },
+    {
+      "id": "all_knowing",
+      "value": 0
+    },
+    {
+      "id": "compassionate_whole",
+      "value": 0
+    },
+    {
+      "id": "divine_life",
+      "value": 0
+    },
+    {
+      "id": "omniall",
+      "value": 0
+    },
+    {
+      "id": "hope_return",
+      "value": 0
+    },
+    {
+      "id": "angel_awakening",
+      "value": 0
+    },
+    {
+      "id": "angel_covenant",
+      "value": 0
+    },
+    {
+      "id": "angel_realm",
+      "value": 0
+    },
+    {
+      "id": "demon_awakening",
+      "value": 0
+    },
+    {
+      "id": "demon_covenant",
+      "value": 0
+    },
+    {
+      "id": "demon_realm",
+      "value": 0
+    },
+    {
+      "id": "sylvan_awakening",
+      "value": 0
+    },
+    {
+      "id": "sylvan_covenant",
+      "value": 0
+    },
+    {
+      "id": "elf_fairy_realm",
+      "value": 0
+    },
+    {
+      "id": "god_awakening",
+      "value": 0
+    },
+    {
+      "id": "god_covenant",
+      "value": 0
+    },
+    {
+      "id": "gods_realm",
+      "value": 0
+    },
+    {
+      "id": "shadow_awakening",
+      "value": 0
+    },
+    {
+      "id": "shadow_covenant",
+      "value": 0
+    },
+    {
+      "id": "shadow_realm",
+      "value": 0
+    },
+    {
+      "id": "realm_envoys",
+      "value": 0
+    },
+    {
+      "id": "realm_bridges",
+      "value": 0
+    },
+    {
+      "id": "life_realms_concord",
+      "value": 0
+    },
+    {
+      "id": "emotion_joy",
+      "value": 0
+    },
+    {
+      "id": "emotion_sorrow",
+      "value": 0
+    },
+    {
+      "id": "emotion_wonder",
+      "value": 0
+    },
+    {
+      "id": "emotion_tenderness",
+      "value": 0
+    },
+    {
+      "id": "emotion_courage",
+      "value": 0
+    },
+    {
+      "id": "emotion_anger",
+      "value": 0
+    },
+    {
+      "id": "emotion_compassion",
+      "value": 0
+    },
+    {
+      "id": "emotion_serenity",
+      "value": 0
+    },
+    {
+      "id": "emotion_celebration",
+      "value": 0
+    },
+    {
+      "id": "universal_heart",
+      "value": 0
+    },
+    {
+      "id": "human_earth_life",
+      "value": 0
+    },
+    {
+      "id": "soul_resonance",
+      "value": 0
+    },
+    {
+      "id": "angelic_presence",
+      "value": 0
+    },
+    {
+      "id": "many_realm_presence",
+      "value": 0
+    },
+    {
+      "id": "grounded_connection",
+      "value": 0
+    },
+    {
+      "id": "embodied_soul_dimension",
+      "value": 0
+    }
+  ],
+  "relic_levels": [
+    {
+      "id": "relic_chronos",
+      "value": 0
+    },
+    {
+      "id": "relic_seraph_grace",
+      "value": 0
+    },
+    {
+      "id": "relic_wormhole_loom",
+      "value": 0
+    }
+  ],
+  "genesis_seeds": 0,
+  "goddess_stage": 0,
+  "quanta": 0.0,
+  "lifetime_quanta": 0.0,
+  "current_run_quanta": 0.0,
+  "timestamp": 0.0
+}

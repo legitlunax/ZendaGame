@@ -1,0 +1,1727 @@
+{
+  "bulk_cases": [
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 5.0
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 101.5185911902636
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 39143748.35667594
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 35,
+        "can_afford": true,
+        "cost": 4405.8507807463975
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 5.75
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 116.74637986880316
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 45015310.61017733
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 34,
+        "can_afford": true,
+        "cost": 4400.850780746399
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 143.12588095560696
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 2905.9875594957202
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 1120496693.4907672
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 13,
+        "can_afford": true,
+        "cost": 4916.6484511663975
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 164.594763098948
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 3341.885693420078
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 1288571197.5143821
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 12,
+        "can_afford": true,
+        "cost": 4773.52257021079
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 5418.287207919762
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 110011.37680244826
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 42418414198.20149
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 5418.287207919762
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "hope_fluctuation",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 16.0
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 329.6566365132388
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 159352542.201564
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 35,
+        "can_afford": true,
+        "cost": 15151.903540647374
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 18.447999999999997
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 380.09410189976427
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 183733481.15840328
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 34,
+        "can_afford": true,
+        "cost": 15135.903540647376
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 0.5,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 487.5547116302872
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 10045.35289701391
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 4855817672.539795
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 12,
+        "can_afford": true,
+        "cost": 14404.087843606369
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 12.0,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 562.1505825097211
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 11582.291890257036
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 5598757776.438383
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 11,
+        "can_afford": true,
+        "cost": 13916.53313197608
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 25.0,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 19750.829838501173
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 406937.0083066008
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 196709059084.72925
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 16000.0,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 19750.829838501173
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "first_intention",
+      "generator_qps": 100.0,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 7.136238463529821e+15
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 2.2581513086599488e+17
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 6.537724692782323e+25
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 25,
+        "can_afford": true,
+        "cost": 6.408996079195583e+18
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 8.848935694776978e+15
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 178405961588245.53,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 2.8001076227383363e+17
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 178405961588245.53,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 8.106778619050081e+25
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 178405961588245.53,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 24,
+        "can_afford": true,
+        "cost": 6.401859840732054e+18
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 178405961588245.53,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 1.2462058850568305e+18
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 4.281743078117893e+15,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 3.943424066589912e+19
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 4.281743078117893e+15,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 1.141687042643575e+28
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 4.281743078117893e+15,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 4,
+        "can_afford": true,
+        "cost": 7.083713400781278e+18
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 4.281743078117893e+15,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 1.54529529747047e+18
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 8.920298079412277e+15,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 4.889845842571491e+19
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 8.920298079412277e+15,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 1.4156919328780333e+28
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 8.920298079412277e+15,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 3,
+        "can_afford": true,
+        "cost": 5.837507515724448e+18
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 8.920298079412277e+15,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 3.3462132306649324e+20
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 3.5681192317649108e+16,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.058856962880088e+22
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 3.5681192317649108e+16,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 3.065567522334748e+30
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 3.5681192317649108e+16,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 7.136238463529821e+18,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 3.3462132306649324e+20
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "gaia_biosphere",
+      "generator_qps": 3.5681192317649108e+16,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 3.7576681324381623e+37
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 1.6014992676086375e+39
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 3.1055061786913837e+49
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 21,
+        "can_afford": true,
+        "cost": 3.0820961314090195e+40
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 4.88496857216961e+37
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 9.394170331095407e+35,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 2.0819490478912286e+39
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 9.394170331095407e+35,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 4.037158032298797e+49
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 9.394170331095407e+35,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 20,
+        "can_afford": true,
+        "cost": 3.078338463276581e+40
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 9.394170331095407e+35,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.039665157098649e+40
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 2.2546008794628975e+37,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 8.692950362119554e+41
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 2.2546008794628975e+37,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 1.6856711461960442e+52
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 2.2546008794628975e+37,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.039665157098649e+40
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 2.2546008794628975e+37,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.651564704228243e+40
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 4.697085165547703e+37,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.1300835470755418e+42
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 4.697085165547703e+37,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 2.191372490054857e+52
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 4.697085165547703e+37,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.651564704228243e+40
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 4.697085165547703e+37,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 1.871052773398347e+43
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 1.878834066219081e+38,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 7.974332859220038e+44
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 1.878834066219081e+38,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 1.5463222785126665e+55
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 1.878834066219081e+38,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 3.7576681324381625e+40,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 1.871052773398347e+43
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "angel_covenant",
+      "generator_qps": 1.878834066219081e+38,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 5.114672824837775e+50
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 2.1798478456160728e+52
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 4.226995971890822e+62
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 21,
+        "can_afford": true,
+        "cost": 4.1951318666949275e+53
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 6.6490746722891075e+50
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 1.278668206209444e+49,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 2.8338021993008945e+52
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 1.278668206209444e+49,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 5.495094763458069e+62
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 1.278668206209444e+49,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 20,
+        "can_afford": true,
+        "cost": 4.19001719387009e+53
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 1.278668206209444e+49,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.776248349534792e+53
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 3.0688036949026655e+50,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.1832230898993117e+55
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 3.0688036949026655e+50,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 2.2944166699116913e+65
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 3.0688036949026655e+50,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.776248349534792e+53
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 3.0688036949026655e+50,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 3.6091228543952286e+53
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 6.39334103104722e+50,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.5381900168691047e+55
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 6.39334103104722e+50,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 2.9827416708851975e+65
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 6.39334103104722e+50,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 3.6091228543952286e+53
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 6.39334103104722e+50,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 2.54674506546391e+56
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 2.557336412418888e+51,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.0854099439803267e+58
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 2.557336412418888e+51,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 2.1047448198194808e+68
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 2.557336412418888e+51,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.114672824837775e+53,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 2.54674506546391e+56
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "universal_heart",
+      "generator_qps": 2.557336412418888e+51,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 5.4918381281045495e+53
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 2.3405938017942738e+55
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 4.538702364898709e+65
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 21,
+        "can_afford": true,
+        "cost": 4.504488542465539e+56
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 0.0,
+      "global_multiplier": 1.0,
+      "owned": 0
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 7.139389566535913e+53
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 1.3729595320261373e+52,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": true,
+        "cost": 3.0427719423325554e+55
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 1.3729595320261373e+52,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 5.90031307436832e+65
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 1.3729595320261373e+52,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 20,
+        "can_afford": true,
+        "cost": 4.498996704337435e+56
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 1.3729595320261373e+52,
+      "global_multiplier": 1.0,
+      "owned": 1
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.9809739667064795e+56
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 3.2951028768627293e+53,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.2704761187474042e+58
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 3.2951028768627293e+53,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 2.4636111401669873e+68
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 3.2951028768627293e+53,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 2.9809739667064795e+56
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 3.2951028768627293e+53,
+      "global_multiplier": 1.0,
+      "owned": 24
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 3.8752661567184223e+56
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 6.864797660130687e+53,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.6516189543716248e+58
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 6.864797660130687e+53,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 3.202694482217082e+68
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 6.864797660130687e+53,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": true,
+        "cost": 3.8752661567184223e+56
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 6.864797660130687e+53,
+      "global_multiplier": 1.0,
+      "owned": 25
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 2.73454669185422e+59
+      },
+      "buy_mode": 1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 2.7459190640522747e+54,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 10,
+        "can_afford": false,
+        "cost": 1.1654500530371746e+61
+      },
+      "buy_mode": 10,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 2.7459190640522747e+54,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 100,
+        "can_afford": false,
+        "cost": 2.259952541887522e+71
+      },
+      "buy_mode": 100,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 2.7459190640522747e+54,
+      "global_multiplier": 1.0,
+      "owned": 50
+    },
+    {
+      "balance": 5.49183812810455e+56,
+      "bulk_result": {
+        "amount": 1,
+        "can_afford": false,
+        "cost": 2.73454669185422e+59
+      },
+      "buy_mode": -1,
+      "discount": 1.0,
+      "generator_id": "embodied_soul_dimension",
+      "generator_qps": 2.7459190640522747e+54,
+      "global_multiplier": 1.0,
+      "owned": 50
+    }
+  ],
+  "number_format_cases": [
+    {
+      "expected": "0",
+      "input": 0.0
+    },
+    {
+      "expected": "1",
+      "input": 1.0
+    },
+    {
+      "expected": "1.1",
+      "input": 1.06
+    },
+    {
+      "expected": "9.9",
+      "input": 9.9
+    },
+    {
+      "expected": "10",
+      "input": 10.5
+    },
+    {
+      "expected": "999",
+      "input": 999.0
+    },
+    {
+      "expected": "1.00 K",
+      "input": 1000.0
+    },
+    {
+      "expected": "1.00 T",
+      "input": 1000000000000.0
+    },
+    {
+      "expected": "1.00 Vg",
+      "input": 1e+63
+    },
+    {
+      "expected": "1.00e70",
+      "input": 1e+70
+    }
+  ],
+  "relative_tolerance": 1e-06
+}

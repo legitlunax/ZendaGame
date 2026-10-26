@@ -1,0 +1,57 @@
+# Cline Rules: Godot 4 & GenesisIdleRPG
+
+## 1. Environment & Fast-Path Tools
+- **Godot Console Executable**: `E:\Godot\Godot_v4.7.2-stable_win64_console.exe`
+- **Godot GUI Executable**: `E:\Godot\Godot_v4.7.2-stable_win64.exe`
+- **Main Project Directory**: `E:\Godot\GenesisIdleRPG`
+- **Godot MCP Server**: Built and active at `E:\Godot\godot-mcp\build\index.js`
+- **Sub-Second Syntax & Scene Verification**:
+  ```cmd
+  E:\Godot\check_project.bat
+  ```
+  Or directly:
+  ```cmd
+  "E:\Godot\Godot_v4.7.2-stable_win64_console.exe" --headless --path "E:\Godot\GenesisIdleRPG" --editor --quit
+  ```
+  Always run this verification after making code or scene changes! A successful exit code is `0`.
+
+## 2. Godot MCP Server Capabilities
+You have access to the `godot` MCP tools:
+- `launch_editor`: Open Godot editor targeting `E:\Godot\GenesisIdleRPG`.
+- `run_project`: Run Godot project in debug mode to test gameplay.
+- `get_debug_output`: Retrieve engine logs and runtime errors.
+- `stop_project`: Stop any running Godot game instance.
+- `get_godot_version`: Query the active Godot version.
+- `list_projects`: Inspect project directories.
+- `get_project_info`: Inspect autoloads, main scenes, and project configurations.
+- `create_scene`, `add_node`, `load_sprite`, `save_scene`: Programmatically manipulate scenes.
+
+## 3. GDScript 4.x Coding Standards (NON-NEGOTIABLE)
+1. **Strict Static Typing**:
+   - Always declare parameter and return types: `func calculate_gain(delta: float) -> float:`.
+   - Explicitly type variables, especially when math functions return Variants:
+     ```gdscript
+     # CORRECT:
+     var max_n: float = floor(log(1.0 + x) / log(r))
+     # WRONG (causes warning-as-error parse failure):
+     var max_n := floor(log(1.0 + x) / log(r))
+     ```
+2. **Modern Godot 4 Syntax Only**:
+   - Annotations: `@export`, `@onready`, `@tool`, `@rpc` (Never Godot 3 `export var` or `onready var`).
+   - Signals: `signal state_updated` -> `state_updated.emit()` -> `state_updated.connect(_on_state_updated)`.
+   - Coroutines: `await get_tree().create_timer(1.0).timeout` (Never `yield`).
+   - Super calls: `super._ready()` (Never `._ready()`).
+   - Lambdas: Multiline lambdas must be properly indented or end with a trailing newline.
+3. **Encoding & File Hygiene**:
+   - Never save `.gd` or `.godot` or `.tscn` files with UTF-8 BOM (`EF BB BF`). Use clean UTF-8 without BOM.
+   - Use tabs for GDScript indentation (Godot standard).
+
+## 4. Architecture Fast-Map
+- `GenesisIdleRPG/project.godot`: Core project configuration & Autoload definitions (`DB`, `Game`).
+- `GenesisIdleRPG/scenes/Main.tscn`: Main gameplay scene and UI root.
+- `GenesisIdleRPG/scripts/Database.gd`: Autoloaded `DB`. Static tables of generators, relics, miracles, and formatting.
+- `GenesisIdleRPG/scripts/GameManager.gd`: Autoloaded `Game`. State holder, ticks, math calculations, and persistence.
+- `GenesisIdleRPG/scripts/CosmicVisualizer.gd`: 2D canvas drawing stars, black holes, and visual FX.
+- `GenesisIdleRPG/scripts/Main.gd`: UI view controller binding `Game` state to buttons and labels.
+- `GenesisIdleRPG/scripts/ai/AIService.gd`: Built-in runtime client for ChatGPT and MiniMax APIs.
+- `GenesisIdleRPG/scripts/ai/AIConfig.gd`: Safe credential manager for API keys (reads environment or local config).

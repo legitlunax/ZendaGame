@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "legacy_filename": "genesis_save_v1.json",
+  "fields": [
+    {"name": "quanta", "type": "double", "default": 0, "meaning": "Spendable balance"},
+    {"name": "lifetime_quanta", "type": "double", "default": 0, "meaning": "All accepted gains across Blooms"},
+    {"name": "current_run_quanta", "type": "double", "default": 0, "meaning": "All accepted gains in current run; never subtract purchases"},
+    {"name": "genesis_seeds", "type": "int64", "default": 0, "meaning": "Current unspent seed balance"},
+    {"name": "goddess_stage", "type": "int", "default": 0, "minimum": 0, "maximum": 5},
+    {"name": "counts", "type": "object<string,int64>", "default": {}, "meaning": "Known generator IDs; missing zero"},
+    {"name": "relic_levels", "type": "object<string,int64>", "default": {}, "meaning": "Known relic IDs; missing zero"},
+    {"name": "completed_chapters", "type": "array<string>", "default": [], "meaning": "Permanent memories; derive emotion/design permissions from these"},
+    {"name": "equipped_appearance", "type": "string", "default": "ivory_queen", "meaning": "Known unlocked design only"},
+    {"name": "timestamp", "type": "double", "unit": "Unix UTC seconds", "meaning": "Last save; fixture zero must not generate offline rewards"}
+  ],
+  "not_saved": ["buy_multiplier_mode", "miracle_cooldowns", "chrono_buff_timer", "autosave_timer", "emotion", "portrait_view", "audio_mute", "demo_era"],
+  "converter_output": {
+    "schema_version": 1,
+    "source_format": "godot_genesis_save_v1",
+    "counts_and_relic_levels": "Arrays of objects with id:string and value:int64 instead of dictionaries; other field names retained",
+    "offline_rewards_applied": false
+  }
+}

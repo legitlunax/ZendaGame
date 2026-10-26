@@ -1,0 +1,14 @@
+{
+  "bulk_fixture_cases": 120,
+  "chapters": 107,
+  "credentials_copied": false,
+  "demo_presets": 18,
+  "dimensions": 29,
+  "emotions": 10,
+  "generators": 106,
+  "glb_export_error": 0,
+  "glb_warning": "Static procedural geometry only. ShaderMaterials do not reproduce the Godot silk shader in Unity. No Skeleton3D, skin weights, or authored clips exist.",
+  "player_save_copied": false,
+  "pose_samples": 60,
+  "wardrobe_designs": 6
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "discoveries": 106,
+  "chapters": 107,
+  "dimensions": 29,
+  "demo_snapshots": 18,
+  "bulk_parity_cases": 120,
+  "pose_samples": 60,
+  "glb_meshes": 223,
+  "unity_editor_tested": false,
+  "live_player_save_included": false,
+  "asset_hashes_verified": 126
+}

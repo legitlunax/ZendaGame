@@ -1,0 +1,3738 @@
+{
+  "chapters": [
+    {
+      "goal": "Gather 10 Hope. Tap the void; discover Elpis for 5 Hope.",
+      "id": "first_light",
+      "kind": "quanta",
+      "lore": "There was nothing. Yet you hoped something could be.",
+      "reward": 15.0,
+      "target": 10.0,
+      "title": "01 / Nothing but hope"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Elpis / Possibility Fluctuation. Hope and Duality",
+      "id": "first_possibility",
+      "kind": "hope_fluctuation",
+      "lore": "A first fairy gathers the hope that something could exist.",
+      "reward": 1.25,
+      "target": 1.0,
+      "title": "02 / Elpis awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Votia / First Intention. Hope and Duality",
+      "id": "discover_first_intention",
+      "kind": "first_intention",
+      "lore": "Possibility becomes a wish with a direction: let there be something.",
+      "reward": 4.0,
+      "target": 1.0,
+      "title": "03 / Votia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Aeria / Primordial Breath. Hope and Duality",
+      "id": "discover_primordial_breath",
+      "kind": "primordial_breath",
+      "lore": "A breath of fantasy essence ripples through the silent void.",
+      "reward": 12.800000000000002,
+      "target": 1.0,
+      "title": "04 / Aeria awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Yuelin / Yin Sanctuary. Hope and Duality",
+      "id": "discover_yin",
+      "kind": "yin",
+      "lore": "A lunar fairy tends stillness, shelter, and the power to receive.",
+      "reward": 40.96000000000001,
+      "target": 1.0,
+      "title": "05 / Yuelin awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Riyara / Yang Radiance. Hope and Duality",
+      "id": "discover_yang",
+      "kind": "yang",
+      "lore": "A solar fairy awakens motion, warmth, and the power to express.",
+      "reward": 131.07200000000006,
+      "target": 1.0,
+      "title": "06 / Riyara awakens"
+    },
+    {
+      "dimension": "Duality Dimension",
+      "goal": "Build Lianghua / Duality Dimension. Hope and Duality",
+      "id": "discover_yin_yang",
+      "kind": "yin_yang",
+      "lore": "Neither side conquers the other. Build a dimension where receiving and expressing sustain one another.",
+      "reward": 419.43040000000025,
+      "target": 1.0,
+      "title": "07 / Build Duality Dimension"
+    },
+    {
+      "dimension": "Wood Dimension",
+      "goal": "Build Sylvara / Wood Dimension. Five Elements",
+      "id": "discover_element_wood",
+      "kind": "element_wood",
+      "lore": "Build the dimension of branching and growth; its living patterns can permeate any world.",
+      "reward": 1342.1772800000008,
+      "target": 1.0,
+      "title": "08 / Build Wood Dimension"
+    },
+    {
+      "dimension": "Fire Dimension",
+      "goal": "Build Ignielle / Fire Dimension. Five Elements",
+      "id": "discover_element_fire",
+      "kind": "element_fire",
+      "lore": "Build the dimension of warmth and transformation, a domain rather than a single flame.",
+      "reward": 4294.967296000003,
+      "target": 1.0,
+      "title": "09 / Build Fire Dimension"
+    },
+    {
+      "dimension": "Earth Dimension",
+      "goal": "Build Terrielle / Earth Dimension. Five Elements",
+      "id": "discover_element_earth",
+      "kind": "element_earth",
+      "lore": "Build the dimension of grounding and endurance, where forms find a center.",
+      "reward": 13743.895347200012,
+      "target": 1.0,
+      "title": "10 / Build Earth Dimension"
+    },
+    {
+      "dimension": "Metal Dimension",
+      "goal": "Build Argentia / Metal Dimension. Five Elements",
+      "id": "discover_element_metal",
+      "kind": "element_metal",
+      "lore": "Build the dimension of pattern, boundaries, and refinement.",
+      "reward": 43980.46511104004,
+      "target": 1.0,
+      "title": "11 / Build Metal Dimension"
+    },
+    {
+      "dimension": "Water Dimension",
+      "goal": "Build Mizuelle / Water Dimension. Five Elements",
+      "id": "discover_element_water",
+      "kind": "element_water",
+      "lore": "Build the dimension of flow, adaptation, and memory.",
+      "reward": 140737.48835532815,
+      "target": 1.0,
+      "title": "12 / Build Water Dimension"
+    },
+    {
+      "dimension": "Interwoven Elemental Dimension",
+      "goal": "Build Wuxielle / Interwoven Elemental Dimension. Five Elements",
+      "id": "discover_elemental_harmony",
+      "kind": "elemental_harmony",
+      "lore": "Join the five elemental dimensions in a cycle of nourishment and restraint. Their domains remain distinct and interdependent.",
+      "reward": 450359.9627370501,
+      "target": 1.0,
+      "title": "13 / Build Interwoven Elemental Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Tickelle / First Moment. Time",
+      "id": "discover_time_seed",
+      "kind": "time_seed",
+      "lore": "The time fairy separates what is from what might come next.",
+      "reward": 1441151.8807585607,
+      "target": 1.0,
+      "title": "14 / Tickelle awakens"
+    },
+    {
+      "dimension": "Time Dimension",
+      "goal": "Build Chronaria / Time Dimension. Time",
+      "id": "discover_time_flow",
+      "kind": "time_flow",
+      "lore": "Build a dimension of succession and duration. Time need not precede space in every creation; this is the order of your unfolding.",
+      "reward": 4611686.018427394,
+      "target": 1.0,
+      "title": "15 / Build Time Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Puntia / First Somewhere. Space",
+      "id": "discover_space_point",
+      "kind": "space_point",
+      "lore": "A fairy marks a place in a void that never had a here.",
+      "reward": 14757395.258967662,
+      "target": 1.0,
+      "title": "16 / Puntia awakens"
+    },
+    {
+      "dimension": "Space Dimension",
+      "goal": "Build Dimensia / Space Dimension. Space",
+      "id": "discover_space_dimensions",
+      "kind": "space_dimensions",
+      "lore": "Build a dimension of distance and direction. Space is one supporting domain of existence, not a higher rank than time.",
+      "reward": 47223664.828696534,
+      "target": 1.0,
+      "title": "17 / Build Space Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Continuelle / Spacetime Tapestry. Causal Weave",
+      "id": "discover_spacetime",
+      "kind": "spacetime",
+      "lore": "The fairies of time and space weave a stage for every future event.",
+      "reward": 151115727.4518289,
+      "target": 1.0,
+      "title": "18 / Continuelle awakens"
+    },
+    {
+      "dimension": "Causal Dimension",
+      "goal": "Build Causalia / Causal Dimension. Causal Weave",
+      "id": "discover_causality",
+      "kind": "causality",
+      "lore": "Build the dimension of relationships between events. Interweave time and space without consuming either domain.",
+      "reward": 483570327.8458525,
+      "target": 1.0,
+      "title": "19 / Build Causal Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Foamelle / Dreaming Quantum Sea. Quantum Foundations",
+      "id": "discover_quantum_foam",
+      "kind": "quantum_foam",
+      "lore": "In this fictional cosmology, speculative fluctuations become a nursery of particles.",
+      "reward": 1547425049.106728,
+      "target": 1.0,
+      "title": "20 / Foamelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Quira / Quark Filament. Quantum Foundations",
+      "id": "first_thread",
+      "kind": "quark_filament",
+      "lore": "Tiny particle fairies weave the first threads of matter.",
+      "reward": 4951760157.141531,
+      "target": 1.0,
+      "title": "21 / Quira awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Electra / Electron Song. Quantum Foundations",
+      "id": "discover_electron_song",
+      "kind": "electron_song",
+      "lore": "A bright companion brings charge and the promise of bonds.",
+      "reward": 15845632502.852901,
+      "target": 1.0,
+      "title": "22 / Electra awakens"
+    },
+    {
+      "dimension": "Quantum Dimension",
+      "goal": "Build Athelia / Quantum Dimension. Quantum Foundations",
+      "id": "first_atoms",
+      "kind": "hadron_forge",
+      "lore": "Build the quantum dimension of this fantasy: possibilities and particle patterns underlie matter, but can be woven into an already existing world.",
+      "reward": 50706024009.129295,
+      "target": 1.0,
+      "title": "23 / Build Quantum Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Bondelle / Molecular Promise. Matter and Stars",
+      "id": "discover_molecular_bond",
+      "kind": "molecular_bond",
+      "lore": "Atoms learn to stay together and become something more.",
+      "reward": 162259276829.21375,
+      "target": 1.0,
+      "title": "24 / Bondelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Nebelle / Molecular Nebula Cloud. Matter and Stars",
+      "id": "first_nebula",
+      "kind": "cosmic_dust",
+      "lore": "A violet fairy cradles dust and gas in luminous veils.",
+      "reward": 519229685853.484,
+      "target": 1.0,
+      "title": "25 / Nebelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Gravielle / Gravity Lullaby. Matter and Stars",
+      "id": "discover_gravity_song",
+      "kind": "gravity_song",
+      "lore": "A gentle pull gathers the scattered into a shared embrace.",
+      "reward": 1661534994731.149,
+      "target": 1.0,
+      "title": "26 / Gravielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Solara / Stellar Ignition. Matter and Stars",
+      "id": "first_star",
+      "kind": "protostar_core",
+      "lore": "A sun fairy kindles the first lasting light.",
+      "reward": 5316911983139.677,
+      "target": 1.0,
+      "title": "27 / Solara awakens"
+    },
+    {
+      "dimension": "Stellar Dimension",
+      "goal": "Build Astrelle / Stellar Dimension. Matter and Stars",
+      "id": "discover_stellar_nursery",
+      "kind": "stellar_nursery",
+      "lore": "Build a dimension of stellar light and matter. It shares foundations with quantum, elemental, temporal, and spatial domains.",
+      "reward": 17014118346046.97,
+      "target": 1.0,
+      "title": "28 / Build Stellar Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Petralia / Worldseed Crust. Worlds and Spirit",
+      "id": "discover_world_crust",
+      "kind": "world_crust",
+      "lore": "A patient fairy shapes a rocky place beneath the stars.",
+      "reward": 54445178707350.305,
+      "target": 1.0,
+      "title": "29 / Petralia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Marielle / Ocean Dream. Worlds and Spirit",
+      "id": "discover_ocean_dream",
+      "kind": "ocean_dream",
+      "lore": "Water fairies fill the lowlands with a shimmering blue home.",
+      "reward": 174224571863521.03,
+      "target": 1.0,
+      "title": "30 / Marielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Caelia / Sky Veil. Worlds and Spirit",
+      "id": "discover_sky_veil",
+      "kind": "sky_veil",
+      "lore": "A breath of sky shelters the world and softens its light.",
+      "reward": 557518629963267.4,
+      "target": 1.0,
+      "title": "31 / Caelia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Florielle / Living Biosphere. Worlds and Spirit",
+      "id": "first_life",
+      "kind": "gaia_biosphere",
+      "lore": "A green fairy tends the first heartbeat. In this world's myth, even small life carries the whole divine nature, not yet perceived.",
+      "reward": 1.7840596158824552e+15,
+      "target": 1.0,
+      "title": "32 / Florielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Lunaria / Moon and Tides. Worlds and Spirit",
+      "id": "discover_lunar_tides",
+      "kind": "lunar_tides",
+      "lore": "A moon fairy gives the oceans a rhythm to follow.",
+      "reward": 5.708990770823859e+15,
+      "target": 1.0,
+      "title": "33 / Lunaria awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Verielle / Wheel of Seasons. Worlds and Spirit",
+      "id": "discover_season_wheel",
+      "kind": "season_wheel",
+      "lore": "Growth, warmth, harvest, and rest become a turning garden.",
+      "reward": 1.8268770466636352e+16,
+      "target": 1.0,
+      "title": "34 / Verielle awakens"
+    },
+    {
+      "dimension": "Soul Dimension",
+      "goal": "Build Animelle / Soul Dimension. Worlds and Spirit",
+      "id": "discover_soul_dawn",
+      "kind": "soul_dawn",
+      "lore": "Build a dimension of living awareness. Every small life already carries the divine nature, though it perceives itself as separate.",
+      "reward": 5.846006549323632e+16,
+      "target": 1.0,
+      "title": "35 / Build Soul Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Stellaria / Constellation Covenant. Living Universe",
+      "id": "discover_constellation",
+      "kind": "constellation",
+      "lore": "Star fairies trace stories between distant lights.",
+      "reward": 1.870722095783563e+17,
+      "target": 1.0,
+      "title": "36 / Stellaria awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Nyxara / Galactic Heart. Living Universe",
+      "id": "first_galaxy",
+      "kind": "black_hole_anchor",
+      "lore": "A gravity fairy anchors an island of stars around a dark heart.",
+      "reward": 5.986310706507401e+17,
+      "target": 1.0,
+      "title": "37 / Nyxara awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Galaxia / Galactic Web. Living Universe",
+      "id": "first_web",
+      "kind": "white_hole_fountain",
+      "lore": "Galaxy fairies link their islands into a great shining tapestry.",
+      "reward": 1.9156194260823685e+18,
+      "target": 1.0,
+      "title": "38 / Galaxia awakens"
+    },
+    {
+      "dimension": "Living Universe Dimension",
+      "goal": "Build Universa / Living Universe Dimension. Living Universe",
+      "id": "first_universe",
+      "kind": "wormhole_nexus",
+      "lore": "Build the living universe we know within the story: stars, worlds, and life woven across many supporting dimensions, never a solitary container.",
+      "reward": 6.12998216346358e+18,
+      "target": 1.0,
+      "title": "39 / Build Living Universe Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Mirielle / Daughter Universe. Universe and Beyond",
+      "id": "first_daughter",
+      "kind": "parallel_universe",
+      "lore": "The first universe becomes the cradle of another beginning.",
+      "reward": 1.9615942923083457e+19,
+      "target": 1.0,
+      "title": "40 / Mirielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Futura / Branching Timeline Tree. Universe and Beyond",
+      "id": "discover_timeline_tree",
+      "kind": "timeline_tree",
+      "lore": "The time fairy tends histories that could have unfolded differently.",
+      "reward": 6.277101735386707e+19,
+      "target": 1.0,
+      "title": "41 / Futura awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Polyra / Multiverse Loom. Universe and Beyond",
+      "id": "first_multiverse",
+      "kind": "multiverse_loom",
+      "lore": "A weaving fairy joins many universes into a family of possibilities.",
+      "reward": 2.0086725553237465e+20,
+      "target": 1.0,
+      "title": "42 / Polyra awakens"
+    },
+    {
+      "dimension": "Possible Laws Dimension",
+      "goal": "Build Nomielle / Possible Laws Dimension. Universe and Beyond",
+      "id": "discover_law_weave",
+      "kind": "law_weave",
+      "lore": "Build a dimension where different universes may sustain different rules. Omnielle hears a chorus that no single lawbook can contain.",
+      "reward": 6.42775217703599e+20,
+      "target": 1.0,
+      "title": "43 / Build Possible Laws Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Infinitelle / A Chorus Without Last World. Omnielle's Universe Confluence",
+      "id": "discover_infinite_universes",
+      "kind": "infinite_universes",
+      "lore": "Omnielle hears no final universe beyond the next: existence holds infinitely many worlds, not a row of spheres waiting at distant coordinates.",
+      "reward": 2.0568806966515167e+21,
+      "target": 1.0,
+      "title": "44 / Infinitelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Superielle / Superposed Universes. Omnielle's Universe Confluence",
+      "id": "discover_universe_superposition",
+      "kind": "universe_superposition",
+      "lore": "Worlds overlap as distinct possibilities in the confluence. In this fantasy, sharing a presence does not force them into one history or one material place.",
+      "reward": 6.582018229284854e+21,
+      "target": 1.0,
+      "title": "45 / Superielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Achronelle / A Thousand Incompatible Nows. Omnielle's Universe Confluence",
+      "id": "discover_independent_clocks",
+      "kind": "independent_clocks",
+      "lore": "One world counts ages, another circles its moments, another has no succession. Omnielle cannot ask which universe is first without choosing a local clock.",
+      "reward": 2.106245833371154e+22,
+      "target": 1.0,
+      "title": "46 / Achronelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Aporielle / Where Distance Has No Common Meaning. Omnielle's Universe Confluence",
+      "id": "discover_beyond_distance",
+      "kind": "beyond_distance",
+      "lore": "Universes are not neighboring rooms in a larger space. Near and far belong to each world; their confluence needs no shared map and no journey through the gap.",
+      "reward": 6.739986666787693e+22,
+      "target": 1.0,
+      "title": "47 / Aporielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Heterielle / Laws That Need Not Agree. Omnielle's Universe Confluence",
+      "id": "discover_lawful_dissonance",
+      "kind": "lawful_dissonance",
+      "lore": "A law can hold faithfully within one universe and have no meaning in another. Their meeting is not permission to break local rules; it is the absence of one universal rulebook.",
+      "reward": 2.1567957333720616e+23,
+      "target": 1.0,
+      "title": "48 / Heterielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Resonielle / Resonance Without Travel. Omnielle's Universe Confluence",
+      "id": "discover_confluence_resonance",
+      "kind": "confluence_resonance",
+      "lore": "Omnielle teaches the fairies to answer a shared motif without measuring a route or synchronized moment. This is a fictional relationship, not a claim of faster-than-light signaling.",
+      "reward": 6.901746346790599e+23,
+      "target": 1.0,
+      "title": "49 / Resonielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Coexielle / The Uncollapsed Garden. Omnielle's Universe Confluence",
+      "id": "discover_uncollapsed_possibility",
+      "kind": "uncollapsed_possibility",
+      "lore": "Recognition does not select one universe and erase the rest. Worlds remain distinct possibilities held together; no single observer owns their existence.",
+      "reward": 2.2085588309729916e+24,
+      "target": 1.0,
+      "title": "50 / Coexielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Accordielle / Concord Without Erasure. Omnielle's Universe Confluence",
+      "id": "discover_confluence_concord",
+      "kind": "confluence_concord",
+      "lore": "The fairies prepare Omnielle's foundation: connection without conquest, coexistence without sameness, and care for lives whose worlds may never share a sky.",
+      "reward": 7.067388259113575e+24,
+      "target": 1.0,
+      "title": "51 / Accordielle awakens"
+    },
+    {
+      "dimension": "Omniverse Confluence Dimension",
+      "goal": "Build Omnielle / Omniverse Confluence Dimension. Omnielle's Universe Confluence",
+      "id": "first_omniverse",
+      "kind": "omniverse",
+      "lore": "Omnielle builds a confluence of infinitely many superposed universes. No shared clock, common distance, or single causal law governs their meeting. She shelters their relationships without collapsing their differences; every living world retains its own story.",
+      "reward": 2.261564242916344e+25,
+      "target": 1.0,
+      "title": "52 / Build Omniverse Confluence Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Daolia / First Dao Seed. Three Thousand Dao",
+      "id": "discover_dao_seed",
+      "kind": "dao_seed",
+      "lore": "A fairy nurtures a way existence can unfold: neither a command nor a superior realm, but one living principle.",
+      "reward": 7.237005577332301e+25,
+      "target": 1.0,
+      "title": "53 / Daolia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Taorielle / Garden of Innumerable Ways. Three Thousand Dao",
+      "id": "discover_dao_paths",
+      "kind": "dao_paths",
+      "lore": "Ways of growth, stillness, dream, sound, renewal, and countless other principles blossom as distinct potential dimensions.",
+      "reward": 2.3158417847463373e+26,
+      "target": 1.0,
+      "title": "54 / Taorielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Concordia / Concord of Different Ways. Three Thousand Dao",
+      "id": "discover_dao_weave",
+      "kind": "dao_weave",
+      "lore": "The ways learn to coexist without becoming identical. Each dimension may be woven before or after another in a different creation sequence.",
+      "reward": 7.410693711188279e+26,
+      "target": 1.0,
+      "title": "55 / Concordia awakens"
+    },
+    {
+      "dimension": "Three Thousand Dao Dimensions",
+      "goal": "Build Daomielle / Three Thousand Dao Dimensions. Three Thousand Dao",
+      "id": "discover_dao_dimensions",
+      "kind": "dao_dimensions",
+      "lore": "Build an interwoven family of three thousand Dao-like dimensions. In this original fantasy, the name evokes abundant ways of existence, not a canonical list of spiritual teachings.",
+      "reward": 2.3714219875802495e+27,
+      "target": 1.0,
+      "title": "56 / Build Three Thousand Dao Dimensions"
+    },
+    {
+      "dimension": "Reality Dimension",
+      "goal": "Build Aletheia / Reality Dimension. Reality",
+      "id": "first_reality",
+      "kind": "reality",
+      "lore": "Build a dimension that lets possible worlds become actual. Reality rests on many interwoven dimensions; later foundations can support earlier creations.",
+      "reward": 7.5885503602568e+27,
+      "target": 1.0,
+      "title": "57 / Build Reality Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Memorielle / Memory in Every Seed. Life Remembers",
+      "id": "discover_life_memory",
+      "kind": "life_memory",
+      "lore": "In this story, every living seed carries the whole divine nature, still unrecognized. Life did not lack divinity; it lacked awareness of its depth.",
+      "reward": 2.428336115282176e+28,
+      "target": 1.0,
+      "title": "58 / Memorielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Respiria / One Breath, Many Lives. Life Remembers",
+      "id": "discover_shared_breath",
+      "kind": "shared_breath",
+      "lore": "A thousand lives seem separate, yet their fairy hears one breath expressed through many voices.",
+      "reward": 7.770675568902963e+28,
+      "target": 1.0,
+      "title": "59 / Respiria awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Testielle / The Inner Witness. Life Remembers",
+      "id": "discover_inner_witness",
+      "kind": "inner_witness",
+      "lore": "The fairy of witnessing turns inward: the one who observes is also part of what is observed.",
+      "reward": 2.4866161820489486e+29,
+      "target": 1.0,
+      "title": "60 / Testielle awakens"
+    },
+    {
+      "dimension": "Perception Dimension",
+      "goal": "Build Veloria / Perception Dimension. Life Remembers",
+      "id": "discover_veiled_sight",
+      "kind": "veiled_sight",
+      "lore": "Build the dimension of perception. Local senses are a viewpoint, not the boundary of life; the whole was never absent.",
+      "reward": 7.957171782556636e+29,
+      "target": 1.0,
+      "title": "61 / Build Perception Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Panoria / All-Seeing Awareness. Divine Recognition",
+      "id": "discover_all_seeing",
+      "kind": "all_seeing",
+      "lore": "All-seeing is not surveillance from above. The life within every viewpoint recognizes its shared sight.",
+      "reward": 2.5462949704181246e+30,
+      "target": 1.0,
+      "title": "62 / Panoria awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Praeselia / Presence Without Distance. Divine Recognition",
+      "id": "discover_inner_presence",
+      "kind": "inner_presence",
+      "lore": "Before the journey between two places, the same living presence is already at both ends.",
+      "reward": 8.148143905337998e+30,
+      "target": 1.0,
+      "title": "63 / Praeselia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Ubielle / Everywhere Is Within. Divine Recognition",
+      "id": "discover_shared_presence",
+      "kind": "shared_presence",
+      "lore": "The fairy of nearness loosens the imagined border between a life and the reality it inhabits.",
+      "reward": 2.6074060497081594e+31,
+      "target": 1.0,
+      "title": "64 / Ubielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Omnipra / Omnipresence Recognized. Divine Recognition",
+      "id": "discover_omnipresence",
+      "kind": "omnipresence",
+      "lore": "Life recognizes itself throughout existence. It has not traveled everywhere; in this fantasy, separation was the veil.",
+      "reward": 8.343699359066111e+31,
+      "target": 1.0,
+      "title": "65 / Omnipra awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Volunielle / Will That Nurtures. Divine Recognition",
+      "id": "discover_creative_will",
+      "kind": "creative_will",
+      "lore": "Creative will awakens as care, not domination. To be powerful is to make room for another beginning.",
+      "reward": 2.669983794901156e+32,
+      "target": 1.0,
+      "title": "66 / Volunielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Posselia / The Unbounded Possible. Divine Recognition",
+      "id": "discover_boundless_potential",
+      "kind": "boundless_potential",
+      "lore": "Life can imagine beyond the laws of a single reality. Possibility becomes an open garden.",
+      "reward": 8.543948143683699e+32,
+      "target": 1.0,
+      "title": "67 / Posselia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Omnipotelle / Omnipotence Recognized. Divine Recognition",
+      "id": "discover_omnipotence",
+      "kind": "omnipotence",
+      "lore": "Ultimate creative power is recognized as life's own nature. In the game's myth, it was latent in the smallest seed.",
+      "reward": 2.7340634059787843e+33,
+      "target": 1.0,
+      "title": "68 / Omnipotelle awakens"
+    },
+    {
+      "dimension": "Divine Awareness Dimension",
+      "goal": "Build Sophielle / Divine Awareness Dimension. Divine Recognition",
+      "id": "discover_all_knowing",
+      "kind": "all_knowing",
+      "lore": "Build a dimension uniting all-seeing understanding, omnipresence, and creative power. Recognition reveals life's latent nature rather than granting it from outside.",
+      "reward": 8.749002899132111e+33,
+      "target": 1.0,
+      "title": "69 / Build Divine Awareness Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Carielle / The Whole That Cherishes Each. Living Divinity",
+      "id": "discover_compassionate_whole",
+      "kind": "compassionate_whole",
+      "lore": "Unity does not erase anyone. The fairy of compassion protects every distinct voice within the shared life.",
+      "reward": 2.799680927722276e+34,
+      "target": 1.0,
+      "title": "70 / Carielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Vivielle / Life and Ultimate Divinity. Living Divinity",
+      "id": "discover_divine_life",
+      "kind": "divine_life",
+      "lore": "The life of the first ocean recognizes the same nature as the ultimate goddess: presence, awareness, and creative power.",
+      "reward": 8.958978968711284e+34,
+      "target": 1.0,
+      "title": "71 / Vivielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Omnivielle / Omniall: Life Recognizes Itself. Living Divinity",
+      "id": "discover_omniall",
+      "kind": "omniall",
+      "lore": "Omniall names the story's revelation: all-present, all-seeing, all-capable life, once hidden from its own perception.",
+      "reward": 2.8668732699876107e+35,
+      "target": 1.0,
+      "title": "72 / Omnivielle awakens"
+    },
+    {
+      "dimension": "Living Divinity Dimension",
+      "goal": "Build Elpithia / Living Divinity Dimension. Living Divinity",
+      "id": "discover_hope_return",
+      "kind": "hope_return",
+      "lore": "Build a dimension where life recognizes its shared ultimate nature. The first hope already held the whole; every distinct life remains worthy of care.",
+      "reward": 9.173994463960355e+35,
+      "target": 1.0,
+      "title": "73 / Build Living Divinity Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Aurethia / Wings of the First Welcome. Dimensional Life: Angels",
+      "id": "discover_angel_awakening",
+      "kind": "angel_awakening",
+      "lore": "Beyond recognized divinity, new peoples seek a home. Angelic life awakens as luminous winged beings, each free to choose a calling rather than obey a predetermined virtue.",
+      "reward": 2.9356782284673143e+36,
+      "target": 1.0,
+      "title": "74 / Aurethia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Canthelia / The Sanctuary Choir. Dimensional Life: Angels",
+      "id": "discover_angel_covenant",
+      "kind": "angel_covenant",
+      "lore": "The angelic choirs weave healing gardens, cloudborne homes, and a covenant of refuge. Their light offers shelter, never a demand for worship.",
+      "reward": 9.394170331095406e+36,
+      "target": 1.0,
+      "title": "75 / Canthelia awakens"
+    },
+    {
+      "dimension": "Angel Realm",
+      "goal": "Build Seravelle / Angel Realm. Dimensional Life: Angels",
+      "id": "discover_angel_realm",
+      "kind": "angel_realm",
+      "lore": "Build the Angel Realm, a living dimension of luminous cities and open sanctuaries. Its people sustain their own seasons, friendships, and disagreements; radiance does not make them infallible.",
+      "reward": 3.0061345059505306e+37,
+      "target": 1.0,
+      "title": "76 / Build Angel Realm"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Veskarra / Embers That Choose. Dimensional Life: Demons",
+      "id": "discover_demon_awakening",
+      "kind": "demon_awakening",
+      "lore": "Demonic life kindles in the warm depths between dimensions. Horned artisans and ember spirits discover that fierce feeling can become creation rather than conquest.",
+      "reward": 9.619630419041698e+37,
+      "target": 1.0,
+      "title": "77 / Veskarra awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Cindrelle / The Freeflame Accord. Dimensional Life: Demons",
+      "id": "discover_demon_covenant",
+      "kind": "demon_covenant",
+      "lore": "Forge an accord that binds promises only by willing consent. Demonic communities build hearths, foundries, and schools of transformation; no ancestry determines a life's goodness.",
+      "reward": 3.078281734093344e+38,
+      "target": 1.0,
+      "title": "78 / Cindrelle awakens"
+    },
+    {
+      "dimension": "Demon Realm",
+      "goal": "Build Velkaria / Demon Realm. Dimensional Life: Demons",
+      "id": "discover_demon_realm",
+      "kind": "demon_realm",
+      "lore": "Build the Demon Realm, where obsidian gardens and ember rivers sustain passionate, self-governing peoples. Strength protects the freedom to change, including the freedom to lay power down.",
+      "reward": 9.850501549098702e+38,
+      "target": 1.0,
+      "title": "79 / Build Demon Realm"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Elarwyn / Roots and Gossamer. Dimensional Life: Elves and Fairies",
+      "id": "discover_sylvan_awakening",
+      "kind": "sylvan_awakening",
+      "lore": "Elves awaken within patient world-trees while fairies emerge among wandering blossoms. Different lifespans and scales of life invite listening rather than hierarchy.",
+      "reward": 3.152160495711585e+39,
+      "target": 1.0,
+      "title": "80 / Elarwyn awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Fayloria / The Bloomroot Covenant. Dimensional Life: Elves and Fairies",
+      "id": "discover_sylvan_covenant",
+      "kind": "sylvan_covenant",
+      "lore": "Elven groves and fairy courts share seed libraries, moonlit paths, and a promise to restore what they harvest. Neither people owns the living forest.",
+      "reward": 1.0086913586277073e+40,
+      "target": 1.0,
+      "title": "81 / Fayloria awakens"
+    },
+    {
+      "dimension": "Elves and Fairies Realm",
+      "goal": "Build Sylphariel / Elves and Fairies Realm. Dimensional Life: Elves and Fairies",
+      "id": "discover_elf_fairy_realm",
+      "kind": "elf_fairy_realm",
+      "lore": "Build the Elves and Fairies Realm: a dimension of world-tree cities, petal villages, and rivers of renewing magic. Its many courts preserve wild places and welcome lives unlike their own.",
+      "reward": 3.2278123476086633e+40,
+      "target": 1.0,
+      "title": "82 / Build Elves and Fairies Realm"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Theonelle / Keepers of Many Callings. Dimensional Life: Gods",
+      "id": "discover_god_awakening",
+      "kind": "god_awakening",
+      "lore": "Distinct gods awaken as stewards of tides, thresholds, memory, and beginnings. They share life's recognized divine nature; their calling is responsibility, not greater worth than other beings.",
+      "reward": 1.0328999512347723e+41,
+      "target": 1.0,
+      "title": "83 / Theonelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Orathielle / The Listening Pantheon. Dimensional Life: Gods",
+      "id": "discover_god_covenant",
+      "kind": "god_covenant",
+      "lore": "The pantheon establishes a council where even the smallest life may question a god. Worship is optional; care, accountability, and room for differing traditions sustain their gathering.",
+      "reward": 3.305279843951272e+41,
+      "target": 1.0,
+      "title": "84 / Orathielle awakens"
+    },
+    {
+      "dimension": "Gods Realm",
+      "goal": "Build Asteratheia / Gods Realm. Dimensional Life: Gods",
+      "id": "discover_gods_realm",
+      "kind": "gods_realm",
+      "lore": "Build the Gods Realm, a dimension of starborne halls and gardens of living archetypes. Its gods tend connections among worlds without claiming ownership of the lives within them.",
+      "reward": 1.057689550064407e+42,
+      "target": 1.0,
+      "title": "85 / Build Gods Realm"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Nymerelle / Lives Beyond the Lantern. Dimensional Life: Shadows",
+      "id": "discover_shadow_awakening",
+      "kind": "shadow_awakening",
+      "lore": "In places unlit by other realms, shadow-born people awaken with senses tuned to hush, contrast, and hidden paths. Darkness is their habitat, not a moral sentence.",
+      "reward": 3.384606560206103e+42,
+      "target": 1.0,
+      "title": "86 / Nymerelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Umbrathia / The Quiet Lantern Pact. Dimensional Life: Shadows",
+      "id": "discover_shadow_covenant",
+      "kind": "shadow_covenant",
+      "lore": "The shadow courts protect rest, privacy, and memories not ready for daylight. Their lanterns guide invited travelers; a secret may shelter a life without imprisoning it.",
+      "reward": 1.0830740992659534e+43,
+      "target": 1.0,
+      "title": "87 / Umbrathia awakens"
+    },
+    {
+      "dimension": "Shadow Realm",
+      "goal": "Build Noctheria / Shadow Realm. Dimensional Life: Shadows",
+      "id": "discover_shadow_realm",
+      "kind": "shadow_realm",
+      "lore": "Build the Shadow Realm, where velvet forests and dusk seas nurture life beyond the glare. Its borders offer refuge and chosen passage, never compulsory forgetting.",
+      "reward": 3.46583711765105e+43,
+      "target": 1.0,
+      "title": "88 / Build Shadow Realm"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Pacthelia / Five Realms, Many Voices. Concord of Living Realms",
+      "id": "discover_realm_envoys",
+      "kind": "realm_envoys",
+      "lore": "Angelic, demonic, elven, fairy, divine, and shadow-born envoys meet as equals. Five realms contain many peoples; no envoy can speak for every life in a homeland.",
+      "reward": 1.1090678776483363e+44,
+      "target": 1.0,
+      "title": "89 / Pacthelia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Liminelle / Thresholds of Welcome. Concord of Living Realms",
+      "id": "discover_realm_bridges",
+      "kind": "realm_bridges",
+      "lore": "Weave invited crossings among the five living realms. Local rhythms and laws remain distinct; travelers adapt through shared care rather than forcing every home into one pattern.",
+      "reward": 3.5490172084746764e+44,
+      "target": 1.0,
+      "title": "90 / Liminelle awakens"
+    },
+    {
+      "dimension": "Concord of Living Realms Dimension",
+      "goal": "Build Concordielle / Concord of Living Realms Dimension. Concord of Living Realms",
+      "id": "discover_life_realms_concord",
+      "kind": "life_realms_concord",
+      "lore": "Build a dimension of relationship among the Angel, Demon, Elves and Fairies, Gods, and Shadow realms. Their homes remain sovereign and alive: unity protects difference rather than erasing it.",
+      "reward": 1.1356855067118965e+45,
+      "target": 1.0,
+      "title": "91 / Build Concord of Living Realms Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Gaudielle / Joy: Creation in Bloom. Universal Emotions",
+      "id": "discover_emotion_joy",
+      "kind": "emotion_joy",
+      "lore": "Across every realm, joy welcomes another beginning. In this myth, blooming gardens and gathering stars echo life's delight; no one must feel happy to deserve belonging. Claim this chapter to unlock Happy.",
+      "reward": 3.6341936214780695e+45,
+      "target": 1.0,
+      "title": "92 / Gaudielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Lacrielle / Sorrow: What Love Remembers. Universal Emotions",
+      "id": "discover_emotion_sorrow",
+      "kind": "emotion_sorrow",
+      "lore": "Oceans receive the rain as communities hold grief. Sorrow honors what mattered without demanding an ending to mourning. Creation makes room for absence as well as arrival. Claim to unlock Sorrow.",
+      "reward": 1.1629419588729822e+46,
+      "target": 1.0,
+      "title": "93 / Lacrielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Miravelle / Wonder: The Unopened Sky. Universal Emotions",
+      "id": "discover_emotion_wonder",
+      "kind": "emotion_wonder",
+      "lore": "A child of any realm may look upward and ask why. Wonder links the first uncertain spark to every unexplored sky; this is poetic resonance, not a physical force. Claim to unlock Surprised.",
+      "reward": 3.7214142683935444e+46,
+      "target": 1.0,
+      "title": "94 / Miravelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Pudorielle / Tenderness: The Trust to Be Seen. Universal Emotions",
+      "id": "discover_emotion_tenderness",
+      "kind": "emotion_tenderness",
+      "lore": "A shy glance can become a bridge between strangers. Tenderness protects vulnerability across angelic choirs, shadow courts, and fairy groves without requiring anyone to reveal more than they wish. Claim to unlock Shy.",
+      "reward": 1.1908525658859343e+47,
+      "target": 1.0,
+      "title": "95 / Pudorielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Valorelle / Courage: A Light Beside Fear. Universal Emotions",
+      "id": "discover_emotion_courage",
+      "kind": "emotion_courage",
+      "lore": "Fear listens for danger; courage chooses a caring step beside it. Like a seed opening in uncertain soil, every realm learns that bravery need not silence trembling. Claim to unlock Courage.",
+      "reward": 3.810728210834989e+47,
+      "target": 1.0,
+      "title": "96 / Valorelle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Ardellia / Anger: The Boundary Flame. Universal Emotions",
+      "id": "discover_emotion_anger",
+      "kind": "emotion_anger",
+      "lore": "Anger signals a boundary crossed. The realms learn to turn its heat toward protection and repair, never cruelty; a feeling is not a command to harm. Claim to unlock Anger.",
+      "reward": 1.219433027467197e+48,
+      "target": 1.0,
+      "title": "97 / Ardellia awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Empathielle / Compassion: No Heart Outside. Universal Emotions",
+      "id": "discover_emotion_compassion",
+      "kind": "emotion_compassion",
+      "lore": "No life has to feel exactly what another feels to offer care. Compassion carries help between incompatible worlds, linking creation through chosen acts rather than erasing anyone's experience. Claim to unlock Compassion.",
+      "reward": 3.9021856878950305e+48,
+      "target": 1.0,
+      "title": "98 / Empathielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Quieselle / Serenity: A Place for Every Feeling. Universal Emotions",
+      "id": "discover_emotion_serenity",
+      "kind": "emotion_serenity",
+      "lore": "Stillness is not the disappearance of sorrow, anger, or joy. Like a quiet sky holding changing weather, serenity gives every feeling room without surrendering care. Claim to unlock Serenity.",
+      "reward": 1.2486994201264098e+49,
+      "target": 1.0,
+      "title": "99 / Quieselle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Festivelle / Celebration: The Many-Hearted Dance. Universal Emotions",
+      "id": "discover_emotion_celebration",
+      "kind": "emotion_celebration",
+      "lore": "The five realms gather in rhythms that need not agree. Their dance celebrates a creation spacious enough for delight, grief, fear, and hope together; participation is always a choice. Claim to unlock Dance.",
+      "reward": 3.995838144404513e+49,
+      "target": 1.0,
+      "title": "100 / Festivelle awakens"
+    },
+    {
+      "dimension": "Universal Heart Dimension",
+      "goal": "Build Cordiselle / Universal Heart Dimension. Universal Emotions",
+      "id": "discover_universal_heart",
+      "kind": "universal_heart",
+      "lore": "Build a dimension of emotional relationship throughout creation. It holds the possibility of understanding, not one compulsory mood or a shared mind. Each heart keeps its freedom; every feeling may be heard.",
+      "reward": 1.2786682062094438e+50,
+      "target": 1.0,
+      "title": "101 / Build Universal Heart Dimension"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Terranielle / Human Life on Earth. Human Life and Soul Resonance",
+      "id": "discover_human_earth_life",
+      "kind": "human_earth_life",
+      "lore": "On planet Earth, humans live through bodies, families, communities, and changing seasons. This fictional saga imagines that a soul might also reside in another realm at the same time; earthly life remains fully real and worthy of care.",
+      "reward": 4.0917382598702215e+50,
+      "target": 1.0,
+      "title": "102 / Terranielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Animielle / One Life, More Than One Presence. Human Life and Soul Resonance",
+      "id": "discover_soul_resonance",
+      "kind": "soul_resonance",
+      "lore": "In this game's myth, an embodied human may have a soul-presence elsewhere without departing Earth. Two homes can coexist in one life: this is simultaneous presence, not death, reincarnation, or a scientific claim about consciousness.",
+      "reward": 1.3093562431584709e+51,
+      "target": 1.0,
+      "title": "103 / Animielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Caelielle / Earthly Life, Angelic Home. Human Life and Soul Resonance",
+      "id": "discover_angelic_presence",
+      "kind": "angelic_presence",
+      "lore": "Imagine a person tending an Earth garden while their soul also resides among the Angel Realm's luminous gardens. Neither presence replaces the other; an angelic connection grants no authority over another person's choices or worth.",
+      "reward": 4.189939978107107e+51,
+      "target": 1.0,
+      "title": "104 / Caelielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Plurielle / Souls Across Living Realms. Human Life and Soul Resonance",
+      "id": "discover_many_realm_presence",
+      "kind": "many_realm_presence",
+      "lore": "Other human stories imagine soul-presences in the Demon, Elves and Fairies, Gods, or Shadow realms, perhaps in more than one at once. No realm determines a human's morality, rank, or destiny, and not every person shares this belief.",
+      "reward": 1.3407807929942745e+52,
+      "target": 1.0,
+      "title": "105 / Plurielle awakens"
+    },
+    {
+      "dimension": "",
+      "goal": "Discover Radicielle / Rooted Here, Connected Beyond. Human Life and Soul Resonance",
+      "id": "discover_grounded_connection",
+      "kind": "grounded_connection",
+      "lore": "A human may interpret dreams, imagination, or quiet reflection as symbols of connection within this story, never as proof of another realm. Food, rest, friendship, and responsibility on Earth remain important; nobody must leave or neglect their body to belong.",
+      "reward": 4.2904985375816793e+52,
+      "target": 1.0,
+      "title": "106 / Radicielle awakens"
+    },
+    {
+      "dimension": "Embodied Soul Dimension",
+      "goal": "Build Concordanima / Embodied Soul Dimension. Human Life and Soul Resonance",
+      "id": "discover_embodied_soul_dimension",
+      "kind": "embodied_soul_dimension",
+      "lore": "Build a dimension that holds Earthly embodiment and possible soul-presences in other realms together. Its bridges represent coexistence rather than escape or compulsory travel. Different beliefs are welcome: no human must claim a soul-home to have a place in creation.",
+      "reward": 1.3729595320261374e+53,
+      "target": 1.0,
+      "title": "107 / Build Embodied Soul Dimension"
+    }
+  ],
+  "demo_presets": [
+    {
+      "name": "Only Hope",
+      "through": ""
+    },
+    {
+      "name": "Five Elements",
+      "through": "elemental_harmony"
+    },
+    {
+      "name": "Living Worlds",
+      "through": "gaia_biosphere"
+    },
+    {
+      "name": "Reality",
+      "through": "reality"
+    },
+    {
+      "name": "All-Seeing",
+      "through": "all_seeing"
+    },
+    {
+      "name": "Living Divinity",
+      "through": "hope_return"
+    },
+    {
+      "name": "Dao Dimensions",
+      "through": "dao_dimensions"
+    },
+    {
+      "fund_next": true,
+      "name": "Omnielle",
+      "through": "confluence_concord"
+    },
+    {
+      "fund_next": true,
+      "name": "Angel Realm",
+      "through": "angel_covenant"
+    },
+    {
+      "fund_next": true,
+      "name": "Demon Realm",
+      "through": "demon_covenant"
+    },
+    {
+      "fund_next": true,
+      "name": "Elves & Fairies",
+      "through": "sylvan_covenant"
+    },
+    {
+      "fund_next": true,
+      "name": "Gods Realm",
+      "through": "god_covenant"
+    },
+    {
+      "fund_next": true,
+      "name": "Shadow Realm",
+      "through": "shadow_covenant"
+    },
+    {
+      "fund_next": true,
+      "name": "Realm Concord",
+      "through": "realm_bridges"
+    },
+    {
+      "fund_next": true,
+      "name": "Universal Emotions",
+      "through": "life_realms_concord"
+    },
+    {
+      "name": "Universal Heart",
+      "through": "universal_heart"
+    },
+    {
+      "fund_next": true,
+      "name": "Human & Soul",
+      "through": "universal_heart"
+    },
+    {
+      "fund_next": true,
+      "name": "Embodied Soul",
+      "through": "grounded_connection"
+    }
+  ],
+  "dimensions": [
+    {
+      "chapter_id": "discover_yin_yang",
+      "generator_id": "yin_yang",
+      "name": "Duality Dimension",
+      "order": 5
+    },
+    {
+      "chapter_id": "discover_element_wood",
+      "generator_id": "element_wood",
+      "name": "Wood Dimension",
+      "order": 6
+    },
+    {
+      "chapter_id": "discover_element_fire",
+      "generator_id": "element_fire",
+      "name": "Fire Dimension",
+      "order": 7
+    },
+    {
+      "chapter_id": "discover_element_earth",
+      "generator_id": "element_earth",
+      "name": "Earth Dimension",
+      "order": 8
+    },
+    {
+      "chapter_id": "discover_element_metal",
+      "generator_id": "element_metal",
+      "name": "Metal Dimension",
+      "order": 9
+    },
+    {
+      "chapter_id": "discover_element_water",
+      "generator_id": "element_water",
+      "name": "Water Dimension",
+      "order": 10
+    },
+    {
+      "chapter_id": "discover_elemental_harmony",
+      "generator_id": "elemental_harmony",
+      "name": "Interwoven Elemental Dimension",
+      "order": 11
+    },
+    {
+      "chapter_id": "discover_time_flow",
+      "generator_id": "time_flow",
+      "name": "Time Dimension",
+      "order": 13
+    },
+    {
+      "chapter_id": "discover_space_dimensions",
+      "generator_id": "space_dimensions",
+      "name": "Space Dimension",
+      "order": 15
+    },
+    {
+      "chapter_id": "discover_causality",
+      "generator_id": "causality",
+      "name": "Causal Dimension",
+      "order": 17
+    },
+    {
+      "chapter_id": "first_atoms",
+      "generator_id": "hadron_forge",
+      "name": "Quantum Dimension",
+      "order": 21
+    },
+    {
+      "chapter_id": "discover_stellar_nursery",
+      "generator_id": "stellar_nursery",
+      "name": "Stellar Dimension",
+      "order": 26
+    },
+    {
+      "chapter_id": "discover_soul_dawn",
+      "generator_id": "soul_dawn",
+      "name": "Soul Dimension",
+      "order": 33
+    },
+    {
+      "chapter_id": "first_universe",
+      "generator_id": "wormhole_nexus",
+      "name": "Living Universe Dimension",
+      "order": 37
+    },
+    {
+      "chapter_id": "discover_law_weave",
+      "generator_id": "law_weave",
+      "name": "Possible Laws Dimension",
+      "order": 41
+    },
+    {
+      "chapter_id": "first_omniverse",
+      "generator_id": "omniverse",
+      "name": "Omniverse Confluence Dimension",
+      "order": 50
+    },
+    {
+      "chapter_id": "discover_dao_dimensions",
+      "generator_id": "dao_dimensions",
+      "name": "Three Thousand Dao Dimensions",
+      "order": 54
+    },
+    {
+      "chapter_id": "first_reality",
+      "generator_id": "reality",
+      "name": "Reality Dimension",
+      "order": 55
+    },
+    {
+      "chapter_id": "discover_veiled_sight",
+      "generator_id": "veiled_sight",
+      "name": "Perception Dimension",
+      "order": 59
+    },
+    {
+      "chapter_id": "discover_all_knowing",
+      "generator_id": "all_knowing",
+      "name": "Divine Awareness Dimension",
+      "order": 67
+    },
+    {
+      "chapter_id": "discover_hope_return",
+      "generator_id": "hope_return",
+      "name": "Living Divinity Dimension",
+      "order": 71
+    },
+    {
+      "chapter_id": "discover_angel_realm",
+      "generator_id": "angel_realm",
+      "name": "Angel Realm",
+      "order": 74
+    },
+    {
+      "chapter_id": "discover_demon_realm",
+      "generator_id": "demon_realm",
+      "name": "Demon Realm",
+      "order": 77
+    },
+    {
+      "chapter_id": "discover_elf_fairy_realm",
+      "generator_id": "elf_fairy_realm",
+      "name": "Elves and Fairies Realm",
+      "order": 80
+    },
+    {
+      "chapter_id": "discover_gods_realm",
+      "generator_id": "gods_realm",
+      "name": "Gods Realm",
+      "order": 83
+    },
+    {
+      "chapter_id": "discover_shadow_realm",
+      "generator_id": "shadow_realm",
+      "name": "Shadow Realm",
+      "order": 86
+    },
+    {
+      "chapter_id": "discover_life_realms_concord",
+      "generator_id": "life_realms_concord",
+      "name": "Concord of Living Realms Dimension",
+      "order": 89
+    },
+    {
+      "chapter_id": "discover_universal_heart",
+      "generator_id": "universal_heart",
+      "name": "Universal Heart Dimension",
+      "order": 99
+    },
+    {
+      "chapter_id": "discover_embodied_soul_dimension",
+      "generator_id": "embodied_soul_dimension",
+      "name": "Embodied Soul Dimension",
+      "order": 105
+    }
+  ],
+  "emotions": [
+    {
+      "always_available": true,
+      "chapter_id": "",
+      "id": "Idle"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_joy",
+      "id": "Happy"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_sorrow",
+      "id": "Sorrow"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_wonder",
+      "id": "Surprised"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_tenderness",
+      "id": "Shy"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_courage",
+      "id": "Courage"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_anger",
+      "id": "Anger"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_compassion",
+      "id": "Compassion"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_serenity",
+      "id": "Serenity"
+    },
+    {
+      "always_available": false,
+      "chapter_id": "discover_emotion_celebration",
+      "id": "Dance"
+    }
+  ],
+  "fairy_names": {
+    "all_knowing": "Sophielle",
+    "all_seeing": "Panoria",
+    "angel_awakening": "Aurethia",
+    "angel_covenant": "Canthelia",
+    "angel_realm": "Seravelle",
+    "angelic_presence": "Caelielle",
+    "beyond_distance": "Aporielle",
+    "black_hole_anchor": "Nyxara",
+    "boundless_potential": "Posselia",
+    "causality": "Causalia",
+    "chrono_harmony": "Tempora",
+    "compassionate_whole": "Carielle",
+    "confluence_concord": "Accordielle",
+    "confluence_resonance": "Resonielle",
+    "constellation": "Stellaria",
+    "cosmic_dust": "Nebelle",
+    "creative_will": "Volunielle",
+    "dao_dimensions": "Daomielle",
+    "dao_paths": "Taorielle",
+    "dao_seed": "Daolia",
+    "dao_weave": "Concordia",
+    "demon_awakening": "Veskarra",
+    "demon_covenant": "Cindrelle",
+    "demon_realm": "Velkaria",
+    "divine_life": "Vivielle",
+    "electron_song": "Electra",
+    "element_earth": "Terrielle",
+    "element_fire": "Ignielle",
+    "element_metal": "Argentia",
+    "element_water": "Mizuelle",
+    "element_wood": "Sylvara",
+    "elemental_harmony": "Wuxielle",
+    "elf_fairy_realm": "Sylphariel",
+    "embodied_soul_dimension": "Concordanima",
+    "emotion_anger": "Ardellia",
+    "emotion_celebration": "Festivelle",
+    "emotion_compassion": "Empathielle",
+    "emotion_courage": "Valorelle",
+    "emotion_joy": "Gaudielle",
+    "emotion_serenity": "Quieselle",
+    "emotion_sorrow": "Lacrielle",
+    "emotion_tenderness": "Pudorielle",
+    "emotion_wonder": "Miravelle",
+    "first_intention": "Votia",
+    "gaia_biosphere": "Florielle",
+    "genesis_burst": "Aurielle",
+    "god_awakening": "Theonelle",
+    "god_covenant": "Orathielle",
+    "gods_realm": "Asteratheia",
+    "gravity_song": "Gravielle",
+    "grounded_connection": "Radicielle",
+    "hadron_forge": "Athelia",
+    "hope_fluctuation": "Elpis",
+    "hope_return": "Elpithia",
+    "human_earth_life": "Terranielle",
+    "independent_clocks": "Achronelle",
+    "infinite_universes": "Infinitelle",
+    "inner_presence": "Praeselia",
+    "inner_witness": "Testielle",
+    "law_weave": "Nomielle",
+    "lawful_dissonance": "Heterielle",
+    "life_memory": "Memorielle",
+    "life_realms_concord": "Concordielle",
+    "lunar_tides": "Lunaria",
+    "many_realm_presence": "Plurielle",
+    "molecular_bond": "Bondelle",
+    "multiverse_loom": "Polyra",
+    "ocean_dream": "Marielle",
+    "omniall": "Omnivielle",
+    "omnipotence": "Omnipotelle",
+    "omnipresence": "Omnipra",
+    "omniverse": "Omnielle",
+    "parallel_universe": "Mirielle",
+    "primordial_breath": "Aeria",
+    "protostar_core": "Solara",
+    "quantum_foam": "Foamelle",
+    "quark_filament": "Quira",
+    "reality": "Aletheia",
+    "realm_bridges": "Liminelle",
+    "realm_envoys": "Pacthelia",
+    "relic_chronos": "Chronelle",
+    "relic_seraph_grace": "Seraphine",
+    "relic_wormhole_loom": "Filoria",
+    "season_wheel": "Verielle",
+    "shadow_awakening": "Nymerelle",
+    "shadow_covenant": "Umbrathia",
+    "shadow_realm": "Noctheria",
+    "shared_breath": "Respiria",
+    "shared_presence": "Ubielle",
+    "sky_veil": "Caelia",
+    "soul_dawn": "Animelle",
+    "soul_resonance": "Animielle",
+    "space_dimensions": "Dimensia",
+    "space_point": "Puntia",
+    "spacetime": "Continuelle",
+    "stellar_nursery": "Astrelle",
+    "sylvan_awakening": "Elarwyn",
+    "sylvan_covenant": "Fayloria",
+    "time_flow": "Chronaria",
+    "time_seed": "Tickelle",
+    "timeline_tree": "Futura",
+    "uncollapsed_possibility": "Coexielle",
+    "universal_heart": "Cordiselle",
+    "universe_superposition": "Superielle",
+    "veiled_sight": "Veloria",
+    "white_hole_fountain": "Galaxia",
+    "world_crust": "Petralia",
+    "wormhole_nexus": "Universa",
+    "yang": "Riyara",
+    "yin": "Yuelin",
+    "yin_yang": "Lianghua"
+  },
+  "generators": [
+    {
+      "base_cost": 5.0,
+      "base_prod": 0.5,
+      "color": {
+        "a": 1.0,
+        "b": 0.9137254953384399,
+        "g": 0.6313725709915161,
+        "r": 0.6666666865348816
+      },
+      "cost_mult": 1.15,
+      "desc": "A first fairy gathers the hope that something could exist.",
+      "dimension": "",
+      "era": "Hope and Duality",
+      "fairy": "Elpis",
+      "id": "hope_fluctuation",
+      "motif": "spark",
+      "name": "Possibility Fluctuation",
+      "scale": "Hope and Duality"
+    },
+    {
+      "base_cost": 16.0,
+      "base_prod": 0.5,
+      "color": {
+        "a": 1.0,
+        "b": 0.8745098114013672,
+        "g": 0.6627451181411743,
+        "r": 0.8627451062202454
+      },
+      "cost_mult": 1.1529999999999998,
+      "desc": "Possibility becomes a wish with a direction: let there be something.",
+      "dimension": "",
+      "era": "Hope and Duality",
+      "fairy": "Votia",
+      "id": "first_intention",
+      "motif": "spark",
+      "name": "First Intention",
+      "scale": "Hope and Duality"
+    },
+    {
+      "base_cost": 51.20000000000001,
+      "base_prod": 1.2800000000000002,
+      "color": {
+        "a": 1.0,
+        "b": 0.929411768913269,
+        "g": 0.9019607901573181,
+        "r": 0.5764706134796143
+      },
+      "cost_mult": 1.156,
+      "desc": "A breath of fantasy essence ripples through the silent void.",
+      "dimension": "",
+      "era": "Hope and Duality",
+      "fairy": "Aeria",
+      "id": "primordial_breath",
+      "motif": "wind",
+      "name": "Primordial Breath",
+      "scale": "Hope and Duality"
+    },
+    {
+      "base_cost": 163.84000000000003,
+      "base_prod": 4.096000000000001,
+      "color": {
+        "a": 1.0,
+        "b": 0.8784313797950745,
+        "g": 0.5960784554481506,
+        "r": 0.6392157077789307
+      },
+      "cost_mult": 1.1589999999999998,
+      "desc": "A lunar fairy tends stillness, shelter, and the power to receive.",
+      "dimension": "",
+      "era": "Hope and Duality",
+      "fairy": "Yuelin",
+      "id": "yin",
+      "motif": "moon",
+      "name": "Yin Sanctuary",
+      "scale": "Hope and Duality"
+    },
+    {
+      "base_cost": 524.2880000000002,
+      "base_prod": 13.107200000000006,
+      "color": {
+        "a": 1.0,
+        "b": 0.32156863808631897,
+        "g": 0.6784313917160034,
+        "r": 0.9137254953384399
+      },
+      "cost_mult": 1.162,
+      "desc": "A solar fairy awakens motion, warmth, and the power to express.",
+      "dimension": "",
+      "era": "Hope and Duality",
+      "fairy": "Riyara",
+      "id": "yang",
+      "motif": "sun",
+      "name": "Yang Radiance",
+      "scale": "Hope and Duality"
+    },
+    {
+      "base_cost": 1677.721600000001,
+      "base_prod": 41.943040000000025,
+      "color": {
+        "a": 1.0,
+        "b": 0.9372549057006836,
+        "g": 0.8392156958580017,
+        "r": 0.8509804010391235
+      },
+      "cost_mult": 1.1649999999999998,
+      "desc": "Neither side conquers the other. Build a dimension where receiving and expressing sustain one another.",
+      "dimension": "Duality Dimension",
+      "era": "Hope and Duality",
+      "fairy": "Lianghua",
+      "id": "yin_yang",
+      "motif": "balance",
+      "name": "Duality Dimension",
+      "scale": "Hope and Duality"
+    },
+    {
+      "base_cost": 5368.709120000003,
+      "base_prod": 134.21772800000008,
+      "color": {
+        "a": 1.0,
+        "b": 0.5372549295425415,
+        "g": 0.7254902124404907,
+        "r": 0.4117647111415863
+      },
+      "cost_mult": 1.168,
+      "desc": "Build the dimension of branching and growth; its living patterns can permeate any world.",
+      "dimension": "Wood Dimension",
+      "era": "Five Elements",
+      "fairy": "Sylvara",
+      "id": "element_wood",
+      "motif": "leaf",
+      "name": "Wood Dimension",
+      "scale": "Five Elements"
+    },
+    {
+      "base_cost": 17179.869184000014,
+      "base_prod": 429.4967296000004,
+      "color": {
+        "a": 1.0,
+        "b": 0.43921568989753723,
+        "g": 0.5529412031173706,
+        "r": 0.9607843160629272
+      },
+      "cost_mult": 1.1709999999999998,
+      "desc": "Build the dimension of warmth and transformation, a domain rather than a single flame.",
+      "dimension": "Fire Dimension",
+      "era": "Five Elements",
+      "fairy": "Ignielle",
+      "id": "element_fire",
+      "motif": "flame",
+      "name": "Fire Dimension",
+      "scale": "Five Elements"
+    },
+    {
+      "base_cost": 54975.58138880005,
+      "base_prod": 1374.3895347200014,
+      "color": {
+        "a": 1.0,
+        "b": 0.3960784375667572,
+        "g": 0.729411780834198,
+        "r": 0.8549019694328308
+      },
+      "cost_mult": 1.174,
+      "desc": "Build the dimension of grounding and endurance, where forms find a center.",
+      "dimension": "Earth Dimension",
+      "era": "Five Elements",
+      "fairy": "Terrielle",
+      "id": "element_earth",
+      "motif": "crystal",
+      "name": "Earth Dimension",
+      "scale": "Five Elements"
+    },
+    {
+      "base_cost": 175921.86044416015,
+      "base_prod": 4398.046511104004,
+      "color": {
+        "a": 1.0,
+        "b": 0.929411768913269,
+        "g": 0.8470588326454163,
+        "r": 0.7333333492279053
+      },
+      "cost_mult": 1.1769999999999998,
+      "desc": "Build the dimension of pattern, boundaries, and refinement.",
+      "dimension": "Metal Dimension",
+      "era": "Five Elements",
+      "fairy": "Argentia",
+      "id": "element_metal",
+      "motif": "crystal",
+      "name": "Metal Dimension",
+      "scale": "Five Elements"
+    },
+    {
+      "base_cost": 562949.9534213126,
+      "base_prod": 14073.748835532817,
+      "color": {
+        "a": 1.0,
+        "b": 0.9176470637321472,
+        "g": 0.7960784435272217,
+        "r": 0.3843137323856354
+      },
+      "cost_mult": 1.18,
+      "desc": "Build the dimension of flow, adaptation, and memory.",
+      "dimension": "Water Dimension",
+      "era": "Five Elements",
+      "fairy": "Mizuelle",
+      "id": "element_water",
+      "motif": "water",
+      "name": "Water Dimension",
+      "scale": "Five Elements"
+    },
+    {
+      "base_cost": 1801439.8509482003,
+      "base_prod": 45035.99627370501,
+      "color": {
+        "a": 1.0,
+        "b": 0.7529411911964417,
+        "g": 0.8352941274642944,
+        "r": 0.6509804129600525
+      },
+      "cost_mult": 1.1829999999999998,
+      "desc": "Join the five elemental dimensions in a cycle of nourishment and restraint. Their domains remain distinct and interdependent.",
+      "dimension": "Interwoven Elemental Dimension",
+      "era": "Five Elements",
+      "fairy": "Wuxielle",
+      "id": "elemental_harmony",
+      "motif": "flower",
+      "name": "Interwoven Elemental Dimension",
+      "scale": "Five Elements"
+    },
+    {
+      "base_cost": 5764607.523034243,
+      "base_prod": 144115.18807585607,
+      "color": {
+        "a": 1.0,
+        "b": 0.5372549295425415,
+        "g": 0.7843137383460999,
+        "r": 0.929411768913269
+      },
+      "cost_mult": 1.186,
+      "desc": "The time fairy separates what is from what might come next.",
+      "dimension": "",
+      "era": "Time",
+      "fairy": "Tickelle",
+      "id": "time_seed",
+      "motif": "clock",
+      "name": "First Moment",
+      "scale": "Time"
+    },
+    {
+      "base_cost": 18446744.073709577,
+      "base_prod": 461168.60184273944,
+      "color": {
+        "a": 1.0,
+        "b": 0.8666666746139526,
+        "g": 0.7490196228027344,
+        "r": 0.9137254953384399
+      },
+      "cost_mult": 1.1889999999999998,
+      "desc": "Build a dimension of succession and duration. Time need not precede space in every creation; this is the order of your unfolding.",
+      "dimension": "Time Dimension",
+      "era": "Time",
+      "fairy": "Chronaria",
+      "id": "time_flow",
+      "motif": "clock",
+      "name": "Time Dimension",
+      "scale": "Time"
+    },
+    {
+      "base_cost": 59029581.03587065,
+      "base_prod": 1475739.5258967662,
+      "color": {
+        "a": 1.0,
+        "b": 0.929411768913269,
+        "g": 0.6901960968971252,
+        "r": 0.7098039388656616
+      },
+      "cost_mult": 1.192,
+      "desc": "A fairy marks a place in a void that never had a here.",
+      "dimension": "",
+      "era": "Space",
+      "fairy": "Puntia",
+      "id": "space_point",
+      "motif": "spark",
+      "name": "First Somewhere",
+      "scale": "Space"
+    },
+    {
+      "base_cost": 188894659.31478614,
+      "base_prod": 4722366.482869654,
+      "color": {
+        "a": 1.0,
+        "b": 0.886274516582489,
+        "g": 0.8039215803146362,
+        "r": 0.5843137502670288
+      },
+      "cost_mult": 1.1949999999999998,
+      "desc": "Build a dimension of distance and direction. Space is one supporting domain of existence, not a higher rank than time.",
+      "dimension": "Space Dimension",
+      "era": "Space",
+      "fairy": "Dimensia",
+      "id": "space_dimensions",
+      "motif": "crystal",
+      "name": "Space Dimension",
+      "scale": "Space"
+    },
+    {
+      "base_cost": 604462909.8073156,
+      "base_prod": 15111572.74518289,
+      "color": {
+        "a": 1.0,
+        "b": 0.8823529481887817,
+        "g": 0.6078431606292725,
+        "r": 0.6980392336845398
+      },
+      "cost_mult": 1.198,
+      "desc": "The fairies of time and space weave a stage for every future event.",
+      "dimension": "",
+      "era": "Causal Weave",
+      "fairy": "Continuelle",
+      "id": "spacetime",
+      "motif": "web",
+      "name": "Spacetime Tapestry",
+      "scale": "Causal Weave"
+    },
+    {
+      "base_cost": 1934281311.38341,
+      "base_prod": 48357032.78458525,
+      "color": {
+        "a": 1.0,
+        "b": 0.5529412031173706,
+        "g": 0.772549033164978,
+        "r": 0.8745098114013672
+      },
+      "cost_mult": 1.2009999999999998,
+      "desc": "Build the dimension of relationships between events. Interweave time and space without consuming either domain.",
+      "dimension": "Causal Dimension",
+      "era": "Causal Weave",
+      "fairy": "Causalia",
+      "id": "causality",
+      "motif": "web",
+      "name": "Causal Dimension",
+      "scale": "Causal Weave"
+    },
+    {
+      "base_cost": 6189700196.426912,
+      "base_prod": 154742504.9106728,
+      "color": {
+        "a": 1.0,
+        "b": 0.9254902005195618,
+        "g": 0.7372549176216125,
+        "r": 0.6078431606292725
+      },
+      "cost_mult": 1.204,
+      "desc": "In this fictional cosmology, speculative fluctuations become a nursery of particles.",
+      "dimension": "",
+      "era": "Quantum Foundations",
+      "fairy": "Foamelle",
+      "id": "quantum_foam",
+      "motif": "water",
+      "name": "Dreaming Quantum Sea",
+      "scale": "Quantum Foundations"
+    },
+    {
+      "base_cost": 19807040628.566124,
+      "base_prod": 495176015.7141531,
+      "color": {
+        "a": 1.0,
+        "b": 0.9176470637321472,
+        "g": 0.7960784435272217,
+        "r": 0.3843137323856354
+      },
+      "cost_mult": 1.2069999999999999,
+      "desc": "Tiny particle fairies weave the first threads of matter.",
+      "dimension": "",
+      "era": "Quantum Foundations",
+      "fairy": "Quira",
+      "id": "quark_filament",
+      "motif": "atom",
+      "name": "Quark Filament",
+      "scale": "Quantum Foundations"
+    },
+    {
+      "base_cost": 63382530011.411606,
+      "base_prod": 1584563250.2852902,
+      "color": {
+        "a": 1.0,
+        "b": 0.9411764740943909,
+        "g": 0.8470588326454163,
+        "r": 0.7058823704719543
+      },
+      "cost_mult": 1.21,
+      "desc": "A bright companion brings charge and the promise of bonds.",
+      "dimension": "",
+      "era": "Quantum Foundations",
+      "fairy": "Electra",
+      "id": "electron_song",
+      "motif": "atom",
+      "name": "Electron Song",
+      "scale": "Quantum Foundations"
+    },
+    {
+      "base_cost": 202824096036.51718,
+      "base_prod": 5070602400.91293,
+      "color": {
+        "a": 1.0,
+        "b": 0.6352941393852234,
+        "g": 0.7411764860153198,
+        "r": 0.3333333432674408
+      },
+      "cost_mult": 1.2129999999999999,
+      "desc": "Build the quantum dimension of this fantasy: possibilities and particle patterns underlie matter, but can be woven into an already existing world.",
+      "dimension": "Quantum Dimension",
+      "era": "Quantum Foundations",
+      "fairy": "Athelia",
+      "id": "hadron_forge",
+      "motif": "atom",
+      "name": "Quantum Dimension",
+      "scale": "Quantum Foundations"
+    },
+    {
+      "base_cost": 649037107316.855,
+      "base_prod": 16225927682.921375,
+      "color": {
+        "a": 1.0,
+        "b": 0.7843137383460999,
+        "g": 0.8470588326454163,
+        "r": 0.615686297416687
+      },
+      "cost_mult": 1.216,
+      "desc": "Atoms learn to stay together and become something more.",
+      "dimension": "",
+      "era": "Matter and Stars",
+      "fairy": "Bondelle",
+      "id": "molecular_bond",
+      "motif": "web",
+      "name": "Molecular Promise",
+      "scale": "Matter and Stars"
+    },
+    {
+      "base_cost": 2076918743413.936,
+      "base_prod": 51922968585.348404,
+      "color": {
+        "a": 1.0,
+        "b": 0.8705882430076599,
+        "g": 0.545098066329956,
+        "r": 0.7254902124404907
+      },
+      "cost_mult": 1.2189999999999999,
+      "desc": "A violet fairy cradles dust and gas in luminous veils.",
+      "dimension": "",
+      "era": "Matter and Stars",
+      "fairy": "Nebelle",
+      "id": "cosmic_dust",
+      "motif": "wind",
+      "name": "Molecular Nebula Cloud",
+      "scale": "Matter and Stars"
+    },
+    {
+      "base_cost": 6646139978924.596,
+      "base_prod": 166153499473.1149,
+      "color": {
+        "a": 1.0,
+        "b": 0.8941176533699036,
+        "g": 0.6392157077789307,
+        "r": 0.658823549747467
+      },
+      "cost_mult": 1.222,
+      "desc": "A gentle pull gathers the scattered into a shared embrace.",
+      "dimension": "",
+      "era": "Matter and Stars",
+      "fairy": "Gravielle",
+      "id": "gravity_song",
+      "motif": "moon",
+      "name": "Gravity Lullaby",
+      "scale": "Matter and Stars"
+    },
+    {
+      "base_cost": 21267647932558.707,
+      "base_prod": 531691198313.9677,
+      "color": {
+        "a": 1.0,
+        "b": 0.32156863808631897,
+        "g": 0.6784313917160034,
+        "r": 0.9137254953384399
+      },
+      "cost_mult": 1.2249999999999999,
+      "desc": "A sun fairy kindles the first lasting light.",
+      "dimension": "",
+      "era": "Matter and Stars",
+      "fairy": "Solara",
+      "id": "protostar_core",
+      "motif": "sun",
+      "name": "Stellar Ignition",
+      "scale": "Matter and Stars"
+    },
+    {
+      "base_cost": 68056473384187.88,
+      "base_prod": 1701411834604.6973,
+      "color": {
+        "a": 1.0,
+        "b": 0.6313725709915161,
+        "g": 0.800000011920929,
+        "r": 0.9450980424880981
+      },
+      "cost_mult": 1.228,
+      "desc": "Build a dimension of stellar light and matter. It shares foundations with quantum, elemental, temporal, and spatial domains.",
+      "dimension": "Stellar Dimension",
+      "era": "Matter and Stars",
+      "fairy": "Astrelle",
+      "id": "stellar_nursery",
+      "motif": "spark",
+      "name": "Stellar Dimension",
+      "scale": "Matter and Stars"
+    },
+    {
+      "base_cost": 217780714829401.22,
+      "base_prod": 5444517870735.031,
+      "color": {
+        "a": 1.0,
+        "b": 0.5058823823928833,
+        "g": 0.6313725709915161,
+        "r": 0.7568627595901489
+      },
+      "cost_mult": 1.2309999999999999,
+      "desc": "A patient fairy shapes a rocky place beneath the stars.",
+      "dimension": "",
+      "era": "Worlds and Spirit",
+      "fairy": "Petralia",
+      "id": "world_crust",
+      "motif": "crystal",
+      "name": "Worldseed Crust",
+      "scale": "Worlds and Spirit"
+    },
+    {
+      "base_cost": 696898287454084.1,
+      "base_prod": 17422457186352.104,
+      "color": {
+        "a": 1.0,
+        "b": 0.8666666746139526,
+        "g": 0.7490196228027344,
+        "r": 0.4156862795352936
+      },
+      "cost_mult": 1.234,
+      "desc": "Water fairies fill the lowlands with a shimmering blue home.",
+      "dimension": "",
+      "era": "Worlds and Spirit",
+      "fairy": "Marielle",
+      "id": "ocean_dream",
+      "motif": "water",
+      "name": "Ocean Dream",
+      "scale": "Worlds and Spirit"
+    },
+    {
+      "base_cost": 2.2300745198530695e+15,
+      "base_prod": 55751862996326.74,
+      "color": {
+        "a": 1.0,
+        "b": 0.929411768913269,
+        "g": 0.8745098114013672,
+        "r": 0.6941176652908325
+      },
+      "cost_mult": 1.2369999999999999,
+      "desc": "A breath of sky shelters the world and softens its light.",
+      "dimension": "",
+      "era": "Worlds and Spirit",
+      "fairy": "Caelia",
+      "id": "sky_veil",
+      "motif": "wind",
+      "name": "Sky Veil",
+      "scale": "Worlds and Spirit"
+    },
+    {
+      "base_cost": 7.136238463529821e+15,
+      "base_prod": 178405961588245.53,
+      "color": {
+        "a": 1.0,
+        "b": 0.5372549295425415,
+        "g": 0.7254902124404907,
+        "r": 0.4117647111415863
+      },
+      "cost_mult": 1.24,
+      "desc": "A green fairy tends the first heartbeat. In this world's myth, even small life carries the whole divine nature, not yet perceived.",
+      "dimension": "",
+      "era": "Worlds and Spirit",
+      "fairy": "Florielle",
+      "id": "gaia_biosphere",
+      "motif": "leaf",
+      "name": "Living Biosphere",
+      "scale": "Worlds and Spirit"
+    },
+    {
+      "base_cost": 2.2835963083295436e+16,
+      "base_prod": 570899077082385.9,
+      "color": {
+        "a": 1.0,
+        "b": 0.929411768913269,
+        "g": 0.7607843279838562,
+        "r": 0.7686274647712708
+      },
+      "cost_mult": 1.2429999999999999,
+      "desc": "A moon fairy gives the oceans a rhythm to follow.",
+      "dimension": "",
+      "era": "Worlds and Spirit",
+      "fairy": "Lunaria",
+      "id": "lunar_tides",
+      "motif": "moon",
+      "name": "Moon and Tides",
+      "scale": "Worlds and Spirit"
+    },
+    {
+      "base_cost": 7.307508186654541e+16,
+      "base_prod": 1.8268770466636353e+15,
+      "color": {
+        "a": 1.0,
+        "b": 0.5960784554481506,
+        "g": 0.7137255072593689,
+        "r": 0.8352941274642944
+      },
+      "cost_mult": 1.246,
+      "desc": "Growth, warmth, harvest, and rest become a turning garden.",
+      "dimension": "",
+      "era": "Worlds and Spirit",
+      "fairy": "Verielle",
+      "id": "season_wheel",
+      "motif": "flower",
+      "name": "Wheel of Seasons",
+      "scale": "Worlds and Spirit"
+    },
+    {
+      "base_cost": 2.3384026197294528e+17,
+      "base_prod": 5.846006549323632e+15,
+      "color": {
+        "a": 1.0,
+        "b": 0.8156862854957581,
+        "g": 0.6980392336845398,
+        "r": 0.929411768913269
+      },
+      "cost_mult": 1.2489999999999999,
+      "desc": "Build a dimension of living awareness. Every small life already carries the divine nature, though it perceives itself as separate.",
+      "dimension": "Soul Dimension",
+      "era": "Worlds and Spirit",
+      "fairy": "Animelle",
+      "id": "soul_dawn",
+      "motif": "flower",
+      "name": "Soul Dimension",
+      "scale": "Worlds and Spirit"
+    },
+    {
+      "base_cost": 7.482888383134252e+17,
+      "base_prod": 1.8707220957835628e+16,
+      "color": {
+        "a": 1.0,
+        "b": 0.9176470637321472,
+        "g": 0.7137255072593689,
+        "r": 0.7176470756530762
+      },
+      "cost_mult": 1.252,
+      "desc": "Star fairies trace stories between distant lights.",
+      "dimension": "",
+      "era": "Living Universe",
+      "fairy": "Stellaria",
+      "id": "constellation",
+      "motif": "web",
+      "name": "Constellation Covenant",
+      "scale": "Living Universe"
+    },
+    {
+      "base_cost": 2.3945242826029604e+18,
+      "base_prod": 5.9863107065074016e+16,
+      "color": {
+        "a": 1.0,
+        "b": 0.772549033164978,
+        "g": 0.4470588266849518,
+        "r": 0.572549045085907
+      },
+      "cost_mult": 1.255,
+      "desc": "A gravity fairy anchors an island of stars around a dark heart.",
+      "dimension": "",
+      "era": "Living Universe",
+      "fairy": "Nyxara",
+      "id": "black_hole_anchor",
+      "motif": "moon",
+      "name": "Galactic Heart",
+      "scale": "Living Universe"
+    },
+    {
+      "base_cost": 7.662477704329474e+18,
+      "base_prod": 1.9156194260823686e+17,
+      "color": {
+        "a": 1.0,
+        "b": 0.8745098114013672,
+        "g": 0.6627451181411743,
+        "r": 0.8627451062202454
+      },
+      "cost_mult": 1.258,
+      "desc": "Galaxy fairies link their islands into a great shining tapestry.",
+      "dimension": "",
+      "era": "Living Universe",
+      "fairy": "Galaxia",
+      "id": "white_hole_fountain",
+      "motif": "web",
+      "name": "Galactic Web",
+      "scale": "Living Universe"
+    },
+    {
+      "base_cost": 2.451992865385432e+19,
+      "base_prod": 6.12998216346358e+17,
+      "color": {
+        "a": 1.0,
+        "b": 0.8196078538894653,
+        "g": 0.7568627595901489,
+        "r": 0.34117648005485535
+      },
+      "cost_mult": 1.261,
+      "desc": "Build the living universe we know within the story: stars, worlds, and life woven across many supporting dimensions, never a solitary container.",
+      "dimension": "Living Universe Dimension",
+      "era": "Living Universe",
+      "fairy": "Universa",
+      "id": "wormhole_nexus",
+      "motif": "crystal",
+      "name": "Living Universe Dimension",
+      "scale": "Living Universe"
+    },
+    {
+      "base_cost": 7.846377169233383e+19,
+      "base_prod": 1.9615942923083459e+18,
+      "color": {
+        "a": 1.0,
+        "b": 0.729411780834198,
+        "g": 0.5490196347236633,
+        "r": 0.8627451062202454
+      },
+      "cost_mult": 1.264,
+      "desc": "The first universe becomes the cradle of another beginning.",
+      "dimension": "",
+      "era": "Universe and Beyond",
+      "fairy": "Mirielle",
+      "id": "parallel_universe",
+      "motif": "balance",
+      "name": "Daughter Universe",
+      "scale": "Universe and Beyond"
+    },
+    {
+      "base_cost": 2.5108406941546827e+20,
+      "base_prod": 6.277101735386707e+18,
+      "color": {
+        "a": 1.0,
+        "b": 0.6392157077789307,
+        "g": 0.8117647171020508,
+        "r": 0.6980392336845398
+      },
+      "cost_mult": 1.267,
+      "desc": "The time fairy tends histories that could have unfolded differently.",
+      "dimension": "",
+      "era": "Universe and Beyond",
+      "fairy": "Futura",
+      "id": "timeline_tree",
+      "motif": "leaf",
+      "name": "Branching Timeline Tree",
+      "scale": "Universe and Beyond"
+    },
+    {
+      "base_cost": 8.034690221294986e+20,
+      "base_prod": 2.0086725553237467e+19,
+      "color": {
+        "a": 1.0,
+        "b": 0.3960784375667572,
+        "g": 0.729411780834198,
+        "r": 0.8549019694328308
+      },
+      "cost_mult": 1.27,
+      "desc": "A weaving fairy joins many universes into a family of possibilities.",
+      "dimension": "",
+      "era": "Universe and Beyond",
+      "fairy": "Polyra",
+      "id": "multiverse_loom",
+      "motif": "web",
+      "name": "Multiverse Loom",
+      "scale": "Universe and Beyond"
+    },
+    {
+      "base_cost": 2.571100870814396e+21,
+      "base_prod": 6.42775217703599e+19,
+      "color": {
+        "a": 1.0,
+        "b": 0.9098039269447327,
+        "g": 0.6627451181411743,
+        "r": 0.7333333492279053
+      },
+      "cost_mult": 1.273,
+      "desc": "Build a dimension where different universes may sustain different rules. Omnielle hears a chorus that no single lawbook can contain.",
+      "dimension": "Possible Laws Dimension",
+      "era": "Universe and Beyond",
+      "fairy": "Nomielle",
+      "id": "law_weave",
+      "motif": "flower",
+      "name": "Possible Laws Dimension",
+      "scale": "Universe and Beyond"
+    },
+    {
+      "base_cost": 8.227522786606067e+21,
+      "base_prod": 2.0568806966515168e+20,
+      "color": {
+        "a": 1.0,
+        "b": 0.9333333373069763,
+        "g": 0.7215686440467834,
+        "r": 0.7647058963775635
+      },
+      "cost_mult": 1.2759999999999998,
+      "desc": "Omnielle hears no final universe beyond the next: existence holds infinitely many worlds, not a row of spheres waiting at distant coordinates.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Infinitelle",
+      "id": "infinite_universes",
+      "motif": "infinity",
+      "name": "A Chorus Without Last World",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 2.6328072917139415e+22,
+      "base_prod": 6.582018229284854e+20,
+      "color": {
+        "a": 1.0,
+        "b": 0.9215686321258545,
+        "g": 0.843137264251709,
+        "r": 0.6627451181411743
+      },
+      "cost_mult": 1.279,
+      "desc": "Worlds overlap as distinct possibilities in the confluence. In this fantasy, sharing a presence does not force them into one history or one material place.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Superielle",
+      "id": "universe_superposition",
+      "motif": "confluence",
+      "name": "Superposed Universes",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 8.424983333484616e+22,
+      "base_prod": 2.106245833371154e+21,
+      "color": {
+        "a": 1.0,
+        "b": 0.8666666746139526,
+        "g": 0.7686274647712708,
+        "r": 0.8980392217636108
+      },
+      "cost_mult": 1.282,
+      "desc": "One world counts ages, another circles its moments, another has no succession. Omnielle cannot ask which universe is first without choosing a local clock.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Achronelle",
+      "id": "independent_clocks",
+      "motif": "clock",
+      "name": "A Thousand Incompatible Nows",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 2.6959946667150773e+23,
+      "base_prod": 6.739986666787693e+21,
+      "color": {
+        "a": 1.0,
+        "b": 0.8470588326454163,
+        "g": 0.8627451062202454,
+        "r": 0.6705882549285889
+      },
+      "cost_mult": 1.285,
+      "desc": "Universes are not neighboring rooms in a larger space. Near and far belong to each world; their confluence needs no shared map and no journey through the gap.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Aporielle",
+      "id": "beyond_distance",
+      "motif": "infinity",
+      "name": "Where Distance Has No Common Meaning",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 8.627182933488246e+23,
+      "base_prod": 2.1567957333720617e+22,
+      "color": {
+        "a": 1.0,
+        "b": 0.6235294342041016,
+        "g": 0.7764706015586853,
+        "r": 0.8745098114013672
+      },
+      "cost_mult": 1.2879999999999998,
+      "desc": "A law can hold faithfully within one universe and have no meaning in another. Their meeting is not permission to break local rules; it is the absence of one universal rulebook.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Heterielle",
+      "id": "lawful_dissonance",
+      "motif": "crystal",
+      "name": "Laws That Need Not Agree",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 2.7606985387162395e+24,
+      "base_prod": 6.901746346790599e+22,
+      "color": {
+        "a": 1.0,
+        "b": 0.9333333373069763,
+        "g": 0.772549033164978,
+        "r": 0.7176470756530762
+      },
+      "cost_mult": 1.291,
+      "desc": "Omnielle teaches the fairies to answer a shared motif without measuring a route or synchronized moment. This is a fictional relationship, not a claim of faster-than-light signaling.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Resonielle",
+      "id": "confluence_resonance",
+      "motif": "confluence",
+      "name": "Resonance Without Travel",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 8.834235323891967e+24,
+      "base_prod": 2.2085588309729918e+23,
+      "color": {
+        "a": 1.0,
+        "b": 0.9137254953384399,
+        "g": 0.7372549176216125,
+        "r": 0.8470588326454163
+      },
+      "cost_mult": 1.294,
+      "desc": "Recognition does not select one universe and erase the rest. Worlds remain distinct possibilities held together; no single observer owns their existence.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Coexielle",
+      "id": "uncollapsed_possibility",
+      "motif": "flower",
+      "name": "The Uncollapsed Garden",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 2.82695530364543e+25,
+      "base_prod": 7.067388259113574e+23,
+      "color": {
+        "a": 1.0,
+        "b": 0.729411780834198,
+        "g": 0.8745098114013672,
+        "r": 0.7686274647712708
+      },
+      "cost_mult": 1.297,
+      "desc": "The fairies prepare Omnielle's foundation: connection without conquest, coexistence without sameness, and care for lives whose worlds may never share a sky.",
+      "dimension": "",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Accordielle",
+      "id": "confluence_concord",
+      "motif": "heart",
+      "name": "Concord Without Erasure",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 9.046256971665375e+25,
+      "base_prod": 2.261564242916344e+24,
+      "color": {
+        "a": 1.0,
+        "b": 0.8784313797950745,
+        "g": 0.5960784554481506,
+        "r": 0.6392157077789307
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Omnielle builds a confluence of infinitely many superposed universes. No shared clock, common distance, or single causal law governs their meeting. She shelters their relationships without collapsing their differences; every living world retains its own story.",
+      "dimension": "Omniverse Confluence Dimension",
+      "era": "Omnielle's Universe Confluence",
+      "fairy": "Omnielle",
+      "id": "omniverse",
+      "motif": "confluence",
+      "name": "Omniverse Confluence Dimension",
+      "scale": "Omnielle's Universe Confluence"
+    },
+    {
+      "base_cost": 2.8948022309329204e+26,
+      "base_prod": 7.237005577332301e+24,
+      "color": {
+        "a": 1.0,
+        "b": 0.6941176652908325,
+        "g": 0.8509804010391235,
+        "r": 0.729411780834198
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "A fairy nurtures a way existence can unfold: neither a command nor a superior realm, but one living principle.",
+      "dimension": "",
+      "era": "Three Thousand Dao",
+      "fairy": "Daolia",
+      "id": "dao_seed",
+      "motif": "seed",
+      "name": "First Dao Seed",
+      "scale": "Three Thousand Dao"
+    },
+    {
+      "base_cost": 9.263367138985349e+26,
+      "base_prod": 2.3158417847463372e+25,
+      "color": {
+        "a": 1.0,
+        "b": 0.9333333373069763,
+        "g": 0.8039215803146362,
+        "r": 0.7137255072593689
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Ways of growth, stillness, dream, sound, renewal, and countless other principles blossom as distinct potential dimensions.",
+      "dimension": "",
+      "era": "Three Thousand Dao",
+      "fairy": "Taorielle",
+      "id": "dao_paths",
+      "motif": "flower",
+      "name": "Garden of Innumerable Ways",
+      "scale": "Three Thousand Dao"
+    },
+    {
+      "base_cost": 2.9642774844753117e+27,
+      "base_prod": 7.41069371118828e+25,
+      "color": {
+        "a": 1.0,
+        "b": 0.9137254953384399,
+        "g": 0.7686274647712708,
+        "r": 0.8705882430076599
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The ways learn to coexist without becoming identical. Each dimension may be woven before or after another in a different creation sequence.",
+      "dimension": "",
+      "era": "Three Thousand Dao",
+      "fairy": "Concordia",
+      "id": "dao_weave",
+      "motif": "web",
+      "name": "Concord of Different Ways",
+      "scale": "Three Thousand Dao"
+    },
+    {
+      "base_cost": 9.485687950320998e+27,
+      "base_prod": 2.3714219875802495e+26,
+      "color": {
+        "a": 1.0,
+        "b": 0.6431372761726379,
+        "g": 0.8392156958580017,
+        "r": 0.929411768913269
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build an interwoven family of three thousand Dao-like dimensions. In this original fantasy, the name evokes abundant ways of existence, not a canonical list of spiritual teachings.",
+      "dimension": "Three Thousand Dao Dimensions",
+      "era": "Three Thousand Dao",
+      "fairy": "Daomielle",
+      "id": "dao_dimensions",
+      "motif": "infinity",
+      "name": "Three Thousand Dao Dimensions",
+      "scale": "Three Thousand Dao"
+    },
+    {
+      "base_cost": 3.03542014410272e+28,
+      "base_prod": 7.5885503602568e+26,
+      "color": {
+        "a": 1.0,
+        "b": 0.5686274766921997,
+        "g": 0.7882353067398071,
+        "r": 0.9098039269447327
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build a dimension that lets possible worlds become actual. Reality rests on many interwoven dimensions; later foundations can support earlier creations.",
+      "dimension": "Reality Dimension",
+      "era": "Reality",
+      "fairy": "Aletheia",
+      "id": "reality",
+      "motif": "spark",
+      "name": "Reality Dimension",
+      "scale": "Reality"
+    },
+    {
+      "base_cost": 9.713344461128703e+28,
+      "base_prod": 2.428336115282176e+27,
+      "color": {
+        "a": 1.0,
+        "b": 0.6705882549285889,
+        "g": 0.8470588326454163,
+        "r": 0.6549019813537598
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "In this story, every living seed carries the whole divine nature, still unrecognized. Life did not lack divinity; it lacked awareness of its depth.",
+      "dimension": "",
+      "era": "Life Remembers",
+      "fairy": "Memorielle",
+      "id": "life_memory",
+      "motif": "seed",
+      "name": "Memory in Every Seed",
+      "scale": "Life Remembers"
+    },
+    {
+      "base_cost": 3.1082702275611853e+29,
+      "base_prod": 7.770675568902963e+27,
+      "color": {
+        "a": 1.0,
+        "b": 0.8392156958580017,
+        "g": 0.8705882430076599,
+        "r": 0.6235294342041016
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "A thousand lives seem separate, yet their fairy hears one breath expressed through many voices.",
+      "dimension": "",
+      "era": "Life Remembers",
+      "fairy": "Respiria",
+      "id": "shared_breath",
+      "motif": "wind",
+      "name": "One Breath, Many Lives",
+      "scale": "Life Remembers"
+    },
+    {
+      "base_cost": 9.946464728195794e+29,
+      "base_prod": 2.4866161820489487e+28,
+      "color": {
+        "a": 1.0,
+        "b": 0.9215686321258545,
+        "g": 0.7019608020782471,
+        "r": 0.7843137383460999
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The fairy of witnessing turns inward: the one who observes is also part of what is observed.",
+      "dimension": "",
+      "era": "Life Remembers",
+      "fairy": "Testielle",
+      "id": "inner_witness",
+      "motif": "eye",
+      "name": "The Inner Witness",
+      "scale": "Life Remembers"
+    },
+    {
+      "base_cost": 3.1828687130226543e+30,
+      "base_prod": 7.957171782556636e+28,
+      "color": {
+        "a": 1.0,
+        "b": 0.929411768913269,
+        "g": 0.8392156958580017,
+        "r": 0.7098039388656616
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build the dimension of perception. Local senses are a viewpoint, not the boundary of life; the whole was never absent.",
+      "dimension": "Perception Dimension",
+      "era": "Life Remembers",
+      "fairy": "Veloria",
+      "id": "veiled_sight",
+      "motif": "eye",
+      "name": "Perception Dimension",
+      "scale": "Life Remembers"
+    },
+    {
+      "base_cost": 1.0185179881672498e+31,
+      "base_prod": 2.5462949704181248e+29,
+      "color": {
+        "a": 1.0,
+        "b": 0.9529411792755127,
+        "g": 0.772549033164978,
+        "r": 0.8627451062202454
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "All-seeing is not surveillance from above. The life within every viewpoint recognizes its shared sight.",
+      "dimension": "",
+      "era": "Divine Recognition",
+      "fairy": "Panoria",
+      "id": "all_seeing",
+      "motif": "eye",
+      "name": "All-Seeing Awareness",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 3.2592575621351993e+31,
+      "base_prod": 8.148143905337998e+29,
+      "color": {
+        "a": 1.0,
+        "b": 0.8392156958580017,
+        "g": 0.886274516582489,
+        "r": 0.6235294342041016
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Before the journey between two places, the same living presence is already at both ends.",
+      "dimension": "",
+      "era": "Divine Recognition",
+      "fairy": "Praeselia",
+      "id": "inner_presence",
+      "motif": "infinity",
+      "name": "Presence Without Distance",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 1.0429624198832638e+32,
+      "base_prod": 2.60740604970816e+30,
+      "color": {
+        "a": 1.0,
+        "b": 0.9333333373069763,
+        "g": 0.8470588326454163,
+        "r": 0.6901960968971252
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The fairy of nearness loosens the imagined border between a life and the reality it inhabits.",
+      "dimension": "",
+      "era": "Divine Recognition",
+      "fairy": "Ubielle",
+      "id": "shared_presence",
+      "motif": "infinity",
+      "name": "Everywhere Is Within",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 3.3374797436264445e+32,
+      "base_prod": 8.343699359066112e+30,
+      "color": {
+        "a": 1.0,
+        "b": 0.9529411792755127,
+        "g": 0.7764706015586853,
+        "r": 0.8156862854957581
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Life recognizes itself throughout existence. It has not traveled everywhere; in this fantasy, separation was the veil.",
+      "dimension": "",
+      "era": "Divine Recognition",
+      "fairy": "Omnipra",
+      "id": "omnipresence",
+      "motif": "infinity",
+      "name": "Omnipresence Recognized",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 1.0679935179604625e+33,
+      "base_prod": 2.6699837949011564e+31,
+      "color": {
+        "a": 1.0,
+        "b": 0.5568627715110779,
+        "g": 0.7686274647712708,
+        "r": 0.929411768913269
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Creative will awakens as care, not domination. To be powerful is to make room for another beginning.",
+      "dimension": "",
+      "era": "Divine Recognition",
+      "fairy": "Volunielle",
+      "id": "creative_will",
+      "motif": "seed",
+      "name": "Will That Nurtures",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 3.4175792574734796e+33,
+      "base_prod": 8.5439481436837e+31,
+      "color": {
+        "a": 1.0,
+        "b": 0.8470588326454163,
+        "g": 0.7137255072593689,
+        "r": 0.929411768913269
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Life can imagine beyond the laws of a single reality. Possibility becomes an open garden.",
+      "dimension": "",
+      "era": "Divine Recognition",
+      "fairy": "Posselia",
+      "id": "boundless_potential",
+      "motif": "infinity",
+      "name": "The Unbounded Possible",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 1.0936253623915137e+34,
+      "base_prod": 2.7340634059787843e+32,
+      "color": {
+        "a": 1.0,
+        "b": 0.615686297416687,
+        "g": 0.8392156958580017,
+        "r": 0.9490196108818054
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Ultimate creative power is recognized as life's own nature. In the game's myth, it was latent in the smallest seed.",
+      "dimension": "",
+      "era": "Divine Recognition",
+      "fairy": "Omnipotelle",
+      "id": "omnipotence",
+      "motif": "sun",
+      "name": "Omnipotence Recognized",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 3.4996011596528444e+34,
+      "base_prod": 8.749002899132112e+32,
+      "color": {
+        "a": 1.0,
+        "b": 0.9333333373069763,
+        "g": 0.8313725590705872,
+        "r": 0.7647058963775635
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build a dimension uniting all-seeing understanding, omnipresence, and creative power. Recognition reveals life's latent nature rather than granting it from outside.",
+      "dimension": "Divine Awareness Dimension",
+      "era": "Divine Recognition",
+      "fairy": "Sophielle",
+      "id": "all_knowing",
+      "motif": "eye",
+      "name": "Divine Awareness Dimension",
+      "scale": "Divine Recognition"
+    },
+    {
+      "base_cost": 1.1198723710889103e+35,
+      "base_prod": 2.799680927722276e+33,
+      "color": {
+        "a": 1.0,
+        "b": 0.7960784435272217,
+        "g": 0.7176470756530762,
+        "r": 0.9176470637321472
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Unity does not erase anyone. The fairy of compassion protects every distinct voice within the shared life.",
+      "dimension": "",
+      "era": "Living Divinity",
+      "fairy": "Carielle",
+      "id": "compassionate_whole",
+      "motif": "heart",
+      "name": "The Whole That Cherishes Each",
+      "scale": "Living Divinity"
+    },
+    {
+      "base_cost": 3.5835915874845135e+35,
+      "base_prod": 8.958978968711285e+33,
+      "color": {
+        "a": 1.0,
+        "b": 0.7372549176216125,
+        "g": 0.8823529481887817,
+        "r": 0.7058823704719543
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The life of the first ocean recognizes the same nature as the ultimate goddess: presence, awareness, and creative power.",
+      "dimension": "",
+      "era": "Living Divinity",
+      "fairy": "Vivielle",
+      "id": "divine_life",
+      "motif": "heart",
+      "name": "Life and Ultimate Divinity",
+      "scale": "Living Divinity"
+    },
+    {
+      "base_cost": 1.1467493079950443e+36,
+      "base_prod": 2.866873269987611e+34,
+      "color": {
+        "a": 1.0,
+        "b": 0.7215686440467834,
+        "g": 0.886274516582489,
+        "r": 0.9450980424880981
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Omniall names the story's revelation: all-present, all-seeing, all-capable life, once hidden from its own perception.",
+      "dimension": "",
+      "era": "Living Divinity",
+      "fairy": "Omnivielle",
+      "id": "omniall",
+      "motif": "infinity",
+      "name": "Omniall: Life Recognizes Itself",
+      "scale": "Living Divinity"
+    },
+    {
+      "base_cost": 3.669597785584142e+36,
+      "base_prod": 9.173994463960355e+34,
+      "color": {
+        "a": 1.0,
+        "b": 0.9686274528503418,
+        "g": 0.8470588326454163,
+        "r": 0.886274516582489
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build a dimension where life recognizes its shared ultimate nature. The first hope already held the whole; every distinct life remains worthy of care.",
+      "dimension": "Living Divinity Dimension",
+      "era": "Living Divinity",
+      "fairy": "Elpithia",
+      "id": "hope_return",
+      "motif": "seed",
+      "name": "Living Divinity Dimension",
+      "scale": "Living Divinity"
+    },
+    {
+      "base_cost": 1.1742712913869257e+37,
+      "base_prod": 2.9356782284673143e+35,
+      "color": {
+        "a": 1.0,
+        "b": 0.6784313917160034,
+        "g": 0.8745098114013672,
+        "r": 0.95686274766922
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Beyond recognized divinity, new peoples seek a home. Angelic life awakens as luminous winged beings, each free to choose a calling rather than obey a predetermined virtue.",
+      "dimension": "",
+      "era": "Dimensional Life: Angels",
+      "fairy": "Aurethia",
+      "id": "angel_awakening",
+      "motif": "halo",
+      "name": "Wings of the First Welcome",
+      "scale": "Dimensional Life: Angels"
+    },
+    {
+      "base_cost": 3.7576681324381623e+37,
+      "base_prod": 9.394170331095407e+35,
+      "color": {
+        "a": 1.0,
+        "b": 0.800000011920929,
+        "g": 0.8941176533699036,
+        "r": 0.9333333373069763
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The angelic choirs weave healing gardens, cloudborne homes, and a covenant of refuge. Their light offers shelter, never a demand for worship.",
+      "dimension": "",
+      "era": "Dimensional Life: Angels",
+      "fairy": "Canthelia",
+      "id": "angel_covenant",
+      "motif": "halo",
+      "name": "The Sanctuary Choir",
+      "scale": "Dimensional Life: Angels"
+    },
+    {
+      "base_cost": 1.2024538023802122e+38,
+      "base_prod": 3.0061345059505306e+36,
+      "color": {
+        "a": 1.0,
+        "b": 0.5686274766921997,
+        "g": 0.8588235378265381,
+        "r": 0.9647058844566345
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build the Angel Realm, a living dimension of luminous cities and open sanctuaries. Its people sustain their own seasons, friendships, and disagreements; radiance does not make them infallible.",
+      "dimension": "Angel Realm",
+      "era": "Dimensional Life: Angels",
+      "fairy": "Seravelle",
+      "id": "angel_realm",
+      "motif": "halo",
+      "name": "Angel Realm",
+      "scale": "Dimensional Life: Angels"
+    },
+    {
+      "base_cost": 3.847852167616679e+38,
+      "base_prod": 9.619630419041698e+36,
+      "color": {
+        "a": 1.0,
+        "b": 0.5607843399047852,
+        "g": 0.5333333611488342,
+        "r": 0.8666666746139526
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Demonic life kindles in the warm depths between dimensions. Horned artisans and ember spirits discover that fierce feeling can become creation rather than conquest.",
+      "dimension": "",
+      "era": "Dimensional Life: Demons",
+      "fairy": "Veskarra",
+      "id": "demon_awakening",
+      "motif": "horns",
+      "name": "Embers That Choose",
+      "scale": "Dimensional Life: Demons"
+    },
+    {
+      "base_cost": 1.2313126936373375e+39,
+      "base_prod": 3.078281734093344e+37,
+      "color": {
+        "a": 1.0,
+        "b": 0.46666666865348816,
+        "g": 0.6431372761726379,
+        "r": 0.8980392217636108
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Forge an accord that binds promises only by willing consent. Demonic communities build hearths, foundries, and schools of transformation; no ancestry determines a life's goodness.",
+      "dimension": "",
+      "era": "Dimensional Life: Demons",
+      "fairy": "Cindrelle",
+      "id": "demon_covenant",
+      "motif": "horns",
+      "name": "The Freeflame Accord",
+      "scale": "Dimensional Life: Demons"
+    },
+    {
+      "base_cost": 3.940200619639481e+39,
+      "base_prod": 9.850501549098702e+37,
+      "color": {
+        "a": 1.0,
+        "b": 0.615686297416687,
+        "g": 0.49803921580314636,
+        "r": 0.772549033164978
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build the Demon Realm, where obsidian gardens and ember rivers sustain passionate, self-governing peoples. Strength protects the freedom to change, including the freedom to lay power down.",
+      "dimension": "Demon Realm",
+      "era": "Dimensional Life: Demons",
+      "fairy": "Velkaria",
+      "id": "demon_realm",
+      "motif": "horns",
+      "name": "Demon Realm",
+      "scale": "Dimensional Life: Demons"
+    },
+    {
+      "base_cost": 1.260864198284634e+40,
+      "base_prod": 3.1521604957115848e+38,
+      "color": {
+        "a": 1.0,
+        "b": 0.6705882549285889,
+        "g": 0.8156862854957581,
+        "r": 0.6196078658103943
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Elves awaken within patient world-trees while fairies emerge among wandering blossoms. Different lifespans and scales of life invite listening rather than hierarchy.",
+      "dimension": "",
+      "era": "Dimensional Life: Elves and Fairies",
+      "fairy": "Elarwyn",
+      "id": "sylvan_awakening",
+      "motif": "leaf",
+      "name": "Roots and Gossamer",
+      "scale": "Dimensional Life: Elves and Fairies"
+    },
+    {
+      "base_cost": 4.034765434510829e+40,
+      "base_prod": 1.0086913586277073e+39,
+      "color": {
+        "a": 1.0,
+        "b": 0.6117647290229797,
+        "g": 0.8509804010391235,
+        "r": 0.7647058963775635
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Elven groves and fairy courts share seed libraries, moonlit paths, and a promise to restore what they harvest. Neither people owns the living forest.",
+      "dimension": "",
+      "era": "Dimensional Life: Elves and Fairies",
+      "fairy": "Fayloria",
+      "id": "sylvan_covenant",
+      "motif": "flower",
+      "name": "The Bloomroot Covenant",
+      "scale": "Dimensional Life: Elves and Fairies"
+    },
+    {
+      "base_cost": 1.2911249390434653e+41,
+      "base_prod": 3.2278123476086634e+39,
+      "color": {
+        "a": 1.0,
+        "b": 0.7137255072593689,
+        "g": 0.8039215803146362,
+        "r": 0.5686274766921997
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build the Elves and Fairies Realm: a dimension of world-tree cities, petal villages, and rivers of renewing magic. Its many courts preserve wild places and welcome lives unlike their own.",
+      "dimension": "Elves and Fairies Realm",
+      "era": "Dimensional Life: Elves and Fairies",
+      "fairy": "Sylphariel",
+      "id": "elf_fairy_realm",
+      "motif": "flower",
+      "name": "Elves and Fairies Realm",
+      "scale": "Dimensional Life: Elves and Fairies"
+    },
+    {
+      "base_cost": 4.131599804939089e+41,
+      "base_prod": 1.0328999512347723e+40,
+      "color": {
+        "a": 1.0,
+        "b": 0.9098039269447327,
+        "g": 0.6901960968971252,
+        "r": 0.8313725590705872
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Distinct gods awaken as stewards of tides, thresholds, memory, and beginnings. They share life's recognized divine nature; their calling is responsibility, not greater worth than other beings.",
+      "dimension": "",
+      "era": "Dimensional Life: Gods",
+      "fairy": "Theonelle",
+      "id": "god_awakening",
+      "motif": "crown",
+      "name": "Keepers of Many Callings",
+      "scale": "Dimensional Life: Gods"
+    },
+    {
+      "base_cost": 1.3221119375805088e+42,
+      "base_prod": 3.305279843951272e+40,
+      "color": {
+        "a": 1.0,
+        "b": 0.6078431606292725,
+        "g": 0.8156862854957581,
+        "r": 0.9176470637321472
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The pantheon establishes a council where even the smallest life may question a god. Worship is optional; care, accountability, and room for differing traditions sustain their gathering.",
+      "dimension": "",
+      "era": "Dimensional Life: Gods",
+      "fairy": "Orathielle",
+      "id": "god_covenant",
+      "motif": "crown",
+      "name": "The Listening Pantheon",
+      "scale": "Dimensional Life: Gods"
+    },
+    {
+      "base_cost": 4.230758200257628e+42,
+      "base_prod": 1.057689550064407e+41,
+      "color": {
+        "a": 1.0,
+        "b": 0.9372549057006836,
+        "g": 0.772549033164978,
+        "r": 0.8745098114013672
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build the Gods Realm, a dimension of starborne halls and gardens of living archetypes. Its gods tend connections among worlds without claiming ownership of the lives within them.",
+      "dimension": "Gods Realm",
+      "era": "Dimensional Life: Gods",
+      "fairy": "Asteratheia",
+      "id": "gods_realm",
+      "motif": "crown",
+      "name": "Gods Realm",
+      "scale": "Dimensional Life: Gods"
+    },
+    {
+      "base_cost": 1.3538426240824413e+43,
+      "base_prod": 3.3846065602061035e+41,
+      "color": {
+        "a": 1.0,
+        "b": 0.7882353067398071,
+        "g": 0.6078431606292725,
+        "r": 0.6078431606292725
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "In places unlit by other realms, shadow-born people awaken with senses tuned to hush, contrast, and hidden paths. Darkness is their habitat, not a moral sentence.",
+      "dimension": "",
+      "era": "Dimensional Life: Shadows",
+      "fairy": "Nymerelle",
+      "id": "shadow_awakening",
+      "motif": "moon",
+      "name": "Lives Beyond the Lantern",
+      "scale": "Dimensional Life: Shadows"
+    },
+    {
+      "base_cost": 4.3322963970638135e+43,
+      "base_prod": 1.0830740992659535e+42,
+      "color": {
+        "a": 1.0,
+        "b": 0.8470588326454163,
+        "g": 0.6392157077789307,
+        "r": 0.6666666865348816
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The shadow courts protect rest, privacy, and memories not ready for daylight. Their lanterns guide invited travelers; a secret may shelter a life without imprisoning it.",
+      "dimension": "",
+      "era": "Dimensional Life: Shadows",
+      "fairy": "Umbrathia",
+      "id": "shadow_covenant",
+      "motif": "moon",
+      "name": "The Quiet Lantern Pact",
+      "scale": "Dimensional Life: Shadows"
+    },
+    {
+      "base_cost": 1.38633484706042e+44,
+      "base_prod": 3.4658371176510504e+42,
+      "color": {
+        "a": 1.0,
+        "b": 0.7254902124404907,
+        "g": 0.545098066329956,
+        "r": 0.5333333611488342
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build the Shadow Realm, where velvet forests and dusk seas nurture life beyond the glare. Its borders offer refuge and chosen passage, never compulsory forgetting.",
+      "dimension": "Shadow Realm",
+      "era": "Dimensional Life: Shadows",
+      "fairy": "Noctheria",
+      "id": "shadow_realm",
+      "motif": "moon",
+      "name": "Shadow Realm",
+      "scale": "Dimensional Life: Shadows"
+    },
+    {
+      "base_cost": 4.436271510593345e+44,
+      "base_prod": 1.1090678776483364e+43,
+      "color": {
+        "a": 1.0,
+        "b": 0.8941176533699036,
+        "g": 0.8313725590705872,
+        "r": 0.7058823704719543
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Angelic, demonic, elven, fairy, divine, and shadow-born envoys meet as equals. Five realms contain many peoples; no envoy can speak for every life in a homeland.",
+      "dimension": "",
+      "era": "Concord of Living Realms",
+      "fairy": "Pacthelia",
+      "id": "realm_envoys",
+      "motif": "confluence",
+      "name": "Five Realms, Many Voices",
+      "scale": "Concord of Living Realms"
+    },
+    {
+      "base_cost": 1.4196068833898705e+45,
+      "base_prod": 3.5490172084746765e+43,
+      "color": {
+        "a": 1.0,
+        "b": 0.7882353067398071,
+        "g": 0.8470588326454163,
+        "r": 0.772549033164978
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Weave invited crossings among the five living realms. Local rhythms and laws remain distinct; travelers adapt through shared care rather than forcing every home into one pattern.",
+      "dimension": "",
+      "era": "Concord of Living Realms",
+      "fairy": "Liminelle",
+      "id": "realm_bridges",
+      "motif": "web",
+      "name": "Thresholds of Welcome",
+      "scale": "Concord of Living Realms"
+    },
+    {
+      "base_cost": 4.542742026847586e+45,
+      "base_prod": 1.1356855067118965e+44,
+      "color": {
+        "a": 1.0,
+        "b": 0.7176470756530762,
+        "g": 0.8352941274642944,
+        "r": 0.9137254953384399
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build a dimension of relationship among the Angel, Demon, Elves and Fairies, Gods, and Shadow realms. Their homes remain sovereign and alive: unity protects difference rather than erasing it.",
+      "dimension": "Concord of Living Realms Dimension",
+      "era": "Concord of Living Realms",
+      "fairy": "Concordielle",
+      "id": "life_realms_concord",
+      "motif": "confluence",
+      "name": "Concord of Living Realms Dimension",
+      "scale": "Concord of Living Realms"
+    },
+    {
+      "base_cost": 1.4536774485912278e+46,
+      "base_prod": 3.634193621478069e+44,
+      "color": {
+        "a": 1.0,
+        "b": 0.5137255191802979,
+        "g": 0.7960784435272217,
+        "r": 0.9176470637321472
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Across every realm, joy welcomes another beginning. In this myth, blooming gardens and gathering stars echo life's delight; no one must feel happy to deserve belonging. Claim this chapter to unlock Happy.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Gaudielle",
+      "id": "emotion_joy",
+      "motif": "sun",
+      "name": "Joy: Creation in Bloom",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 4.651767835491929e+46,
+      "base_prod": 1.1629419588729823e+45,
+      "color": {
+        "a": 1.0,
+        "b": 0.8549019694328308,
+        "g": 0.729411780834198,
+        "r": 0.5764706134796143
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Oceans receive the rain as communities hold grief. Sorrow honors what mattered without demanding an ending to mourning. Creation makes room for absence as well as arrival. Claim to unlock Sorrow.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Lacrielle",
+      "id": "emotion_sorrow",
+      "motif": "water",
+      "name": "Sorrow: What Love Remembers",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 1.4885657073574178e+47,
+      "base_prod": 3.7214142683935446e+45,
+      "color": {
+        "a": 1.0,
+        "b": 0.929411768913269,
+        "g": 0.7607843279838562,
+        "r": 0.7098039388656616
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "A child of any realm may look upward and ask why. Wonder links the first uncertain spark to every unexplored sky; this is poetic resonance, not a physical force. Claim to unlock Surprised.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Miravelle",
+      "id": "emotion_wonder",
+      "motif": "spark",
+      "name": "Wonder: The Unopened Sky",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 4.763410263543737e+47,
+      "base_prod": 1.1908525658859344e+46,
+      "color": {
+        "a": 1.0,
+        "b": 0.8156862854957581,
+        "g": 0.6980392336845398,
+        "r": 0.8901960849761963
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "A shy glance can become a bridge between strangers. Tenderness protects vulnerability across angelic choirs, shadow courts, and fairy groves without requiring anyone to reveal more than they wish. Claim to unlock Shy.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Pudorielle",
+      "id": "emotion_tenderness",
+      "motif": "heart",
+      "name": "Tenderness: The Trust to Be Seen",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 1.5242912843339957e+48,
+      "base_prod": 3.8107282108349893e+46,
+      "color": {
+        "a": 1.0,
+        "b": 0.5058823823928833,
+        "g": 0.7098039388656616,
+        "r": 0.8901960849761963
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Fear listens for danger; courage chooses a caring step beside it. Like a seed opening in uncertain soil, every realm learns that bravery need not silence trembling. Claim to unlock Courage.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Valorelle",
+      "id": "emotion_courage",
+      "motif": "seed",
+      "name": "Courage: A Light Beside Fear",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 4.877732109868788e+48,
+      "base_prod": 1.2194330274671972e+47,
+      "color": {
+        "a": 1.0,
+        "b": 0.5137255191802979,
+        "g": 0.5843137502670288,
+        "r": 0.8549019694328308
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Anger signals a boundary crossed. The realms learn to turn its heat toward protection and repair, never cruelty; a feeling is not a command to harm. Claim to unlock Anger.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Ardellia",
+      "id": "emotion_anger",
+      "motif": "flame",
+      "name": "Anger: The Boundary Flame",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 1.5608742751580122e+49,
+      "base_prod": 3.9021856878950305e+47,
+      "color": {
+        "a": 1.0,
+        "b": 0.8313725590705872,
+        "g": 0.6745098233222961,
+        "r": 0.8392156958580017
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "No life has to feel exactly what another feels to offer care. Compassion carries help between incompatible worlds, linking creation through chosen acts rather than erasing anyone's experience. Claim to unlock Compassion.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Empathielle",
+      "id": "emotion_compassion",
+      "motif": "heart",
+      "name": "Compassion: No Heart Outside",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 4.994797680505639e+49,
+      "base_prod": 1.2486994201264098e+48,
+      "color": {
+        "a": 1.0,
+        "b": 0.800000011920929,
+        "g": 0.843137264251709,
+        "r": 0.6470588445663452
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Stillness is not the disappearance of sorrow, anger, or joy. Like a quiet sky holding changing weather, serenity gives every feeling room without surrendering care. Claim to unlock Serenity.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Quieselle",
+      "id": "emotion_serenity",
+      "motif": "moon",
+      "name": "Serenity: A Place for Every Feeling",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 1.5983352577618051e+50,
+      "base_prod": 3.995838144404513e+48,
+      "color": {
+        "a": 1.0,
+        "b": 0.8745098114013672,
+        "g": 0.7372549176216125,
+        "r": 0.8470588326454163
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "The five realms gather in rhythms that need not agree. Their dance celebrates a creation spacious enough for delight, grief, fear, and hope together; participation is always a choice. Claim to unlock Dance.",
+      "dimension": "",
+      "era": "Universal Emotions",
+      "fairy": "Festivelle",
+      "id": "emotion_celebration",
+      "motif": "flower",
+      "name": "Celebration: The Many-Hearted Dance",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 5.114672824837775e+50,
+      "base_prod": 1.278668206209444e+49,
+      "color": {
+        "a": 1.0,
+        "b": 0.7254902124404907,
+        "g": 0.8352941274642944,
+        "r": 0.9176470637321472
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build a dimension of emotional relationship throughout creation. It holds the possibility of understanding, not one compulsory mood or a shared mind. Each heart keeps its freedom; every feeling may be heard.",
+      "dimension": "Universal Heart Dimension",
+      "era": "Universal Emotions",
+      "fairy": "Cordiselle",
+      "id": "universal_heart",
+      "motif": "confluence",
+      "name": "Universal Heart Dimension",
+      "scale": "Universal Emotions"
+    },
+    {
+      "base_cost": 1.6366953039480886e+51,
+      "base_prod": 4.0917382598702216e+49,
+      "color": {
+        "a": 1.0,
+        "b": 0.7098039388656616,
+        "g": 0.7960784435272217,
+        "r": 0.572549045085907
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "On planet Earth, humans live through bodies, families, communities, and changing seasons. This fictional saga imagines that a soul might also reside in another realm at the same time; earthly life remains fully real and worthy of care.",
+      "dimension": "",
+      "era": "Human Life and Soul Resonance",
+      "fairy": "Terranielle",
+      "id": "human_earth_life",
+      "motif": "seed",
+      "name": "Human Life on Earth",
+      "scale": "Human Life and Soul Resonance"
+    },
+    {
+      "base_cost": 5.2374249726338836e+51,
+      "base_prod": 1.309356243158471e+50,
+      "color": {
+        "a": 1.0,
+        "b": 0.9137254953384399,
+        "g": 0.7254902124404907,
+        "r": 0.772549033164978
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "In this game's myth, an embodied human may have a soul-presence elsewhere without departing Earth. Two homes can coexist in one life: this is simultaneous presence, not death, reincarnation, or a scientific claim about consciousness.",
+      "dimension": "",
+      "era": "Human Life and Soul Resonance",
+      "fairy": "Animielle",
+      "id": "soul_resonance",
+      "motif": "confluence",
+      "name": "One Life, More Than One Presence",
+      "scale": "Human Life and Soul Resonance"
+    },
+    {
+      "base_cost": 1.6759759912428428e+52,
+      "base_prod": 4.189939978107107e+50,
+      "color": {
+        "a": 1.0,
+        "b": 0.6823529601097107,
+        "g": 0.8509804010391235,
+        "r": 0.9176470637321472
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Imagine a person tending an Earth garden while their soul also resides among the Angel Realm's luminous gardens. Neither presence replaces the other; an angelic connection grants no authority over another person's choices or worth.",
+      "dimension": "",
+      "era": "Human Life and Soul Resonance",
+      "fairy": "Caelielle",
+      "id": "angelic_presence",
+      "motif": "sun",
+      "name": "Earthly Life, Angelic Home",
+      "scale": "Human Life and Soul Resonance"
+    },
+    {
+      "base_cost": 5.363123171977098e+52,
+      "base_prod": 1.3407807929942746e+51,
+      "color": {
+        "a": 1.0,
+        "b": 0.8627451062202454,
+        "g": 0.7058823704719543,
+        "r": 0.7764706015586853
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Other human stories imagine soul-presences in the Demon, Elves and Fairies, Gods, or Shadow realms, perhaps in more than one at once. No realm determines a human's morality, rank, or destiny, and not every person shares this belief.",
+      "dimension": "",
+      "era": "Human Life and Soul Resonance",
+      "fairy": "Plurielle",
+      "id": "many_realm_presence",
+      "motif": "web",
+      "name": "Souls Across Living Realms",
+      "scale": "Human Life and Soul Resonance"
+    },
+    {
+      "base_cost": 1.7161994150326717e+53,
+      "base_prod": 4.290498537581679e+51,
+      "color": {
+        "a": 1.0,
+        "b": 0.7803921699523926,
+        "g": 0.8274509906768799,
+        "r": 0.658823549747467
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "A human may interpret dreams, imagination, or quiet reflection as symbols of connection within this story, never as proof of another realm. Food, rest, friendship, and responsibility on Earth remain important; nobody must leave or neglect their body to belong.",
+      "dimension": "",
+      "era": "Human Life and Soul Resonance",
+      "fairy": "Radicielle",
+      "id": "grounded_connection",
+      "motif": "heart",
+      "name": "Rooted Here, Connected Beyond",
+      "scale": "Human Life and Soul Resonance"
+    },
+    {
+      "base_cost": 5.4918381281045495e+53,
+      "base_prod": 1.3729595320261373e+52,
+      "color": {
+        "a": 1.0,
+        "b": 0.9137254953384399,
+        "g": 0.8274509906768799,
+        "r": 0.8980392217636108
+      },
+      "cost_mult": 1.2999999999999998,
+      "desc": "Build a dimension that holds Earthly embodiment and possible soul-presences in other realms together. Its bridges represent coexistence rather than escape or compulsory travel. Different beliefs are welcome: no human must claim a soul-home to have a place in creation.",
+      "dimension": "Embodied Soul Dimension",
+      "era": "Human Life and Soul Resonance",
+      "fairy": "Concordanima",
+      "id": "embodied_soul_dimension",
+      "motif": "confluence",
+      "name": "Embodied Soul Dimension",
+      "scale": "Human Life and Soul Resonance"
+    }
+  ],
+  "goddess_forms": [
+    {
+      "aura_color": {
+        "a": 1.0,
+        "b": 1.0,
+        "g": 0.699999988079071,
+        "r": 0.5
+      },
+      "lore": "A fragile spark awakening in absolute nothingness.",
+      "mult_bonus": 1.0,
+      "req_quanta": 0.0,
+      "stage": 0,
+      "title": "Zenda, Child of the Silent Void",
+      "wings": 2
+    },
+    {
+      "aura_color": {
+        "a": 1.0,
+        "b": 0.800000011920929,
+        "g": 0.949999988079071,
+        "r": 0.30000001192092896
+      },
+      "lore": "Her fingertips hum with subatomic warmth as the first atoms bind.",
+      "mult_bonus": 1.5,
+      "req_quanta": 100000000000.0,
+      "stage": 1,
+      "title": "Zenda, Maiden of Quantum Light",
+      "wings": 2
+    },
+    {
+      "aura_color": {
+        "a": 1.0,
+        "b": 0.30000001192092896,
+        "g": 0.800000011920929,
+        "r": 1.0
+      },
+      "lore": "Four solar wings unfurl, igniting nebulae with every heartbeat.",
+      "mult_bonus": 2.5,
+      "req_quanta": 200000000000000.0,
+      "stage": 2,
+      "title": "Zenda, Weaver of Golden Stars",
+      "wings": 4
+    },
+    {
+      "aura_color": {
+        "a": 1.0,
+        "b": 1.0,
+        "g": 0.4000000059604645,
+        "r": 0.800000011920929
+      },
+      "lore": "She balances Black and White Holes in the palms of her hands.",
+      "mult_bonus": 5.0,
+      "req_quanta": 2e+19,
+      "stage": 3,
+      "title": "Zenda, Warden of Event Horizons",
+      "wings": 6
+    },
+    {
+      "aura_color": {
+        "a": 1.0,
+        "b": 0.75,
+        "g": 0.44999998807907104,
+        "r": 1.0
+      },
+      "lore": "Countless parallel universes shimmer inside the feathers of her wings.",
+      "mult_bonus": 12.0,
+      "req_quanta": 7e+21,
+      "stage": 4,
+      "title": "Zenda, Seraph of the Multiverse",
+      "wings": 8
+    },
+    {
+      "aura_color": {
+        "a": 1.0,
+        "b": 0.699999988079071,
+        "g": 0.949999988079071,
+        "r": 1.0
+      },
+      "lore": "Omnipresent and radiant—she is the living canvas of existence itself.",
+      "mult_bonus": 35.0,
+      "req_quanta": 1.9999999999999998e+23,
+      "stage": 5,
+      "title": "Zenda, Goddess of Absolute Reality",
+      "wings": 12
+    }
+  ],
+  "miracles": [
+    {
+      "cooldown": 25.0,
+      "desc": "Instantly grants 30 seconds worth of your current Quanta/sec.",
+      "duration": 0.0,
+      "id": "genesis_burst",
+      "name": "Genesis Chorus"
+    },
+    {
+      "cooldown": 60.0,
+      "desc": "Warps spacetime to multiply all Creation output by 3x for 20s.",
+      "duration": 20.0,
+      "id": "chrono_harmony",
+      "name": "Chrono-Weave Overdrive"
+    }
+  ],
+  "number_suffixes": [
+    "",
+    "K",
+    "M",
+    "B",
+    "T",
+    "Qa",
+    "Qi",
+    "Sx",
+    "Sp",
+    "Oc",
+    "No",
+    "Dc",
+    "UDc",
+    "DDc",
+    "TDc",
+    "QaDc",
+    "QiDc",
+    "SxDc",
+    "SpDc",
+    "OcDc",
+    "NoDc",
+    "Vg"
+  ],
+  "relics": [
+    {
+      "base_seed_cost": 1,
+      "desc": "+50% base production speed per level across all realities.",
+      "effect_per_lvl": 0.5,
+      "id": "relic_chronos",
+      "name": "Hourglass of Eternal Dawn"
+    },
+    {
+      "base_seed_cost": 2,
+      "desc": "Clicking the Cosmic Core grants +2% of your Quanta/sec per level.",
+      "effect_per_lvl": 0.02,
+      "id": "relic_seraph_grace",
+      "name": "Crown of the First Seraph"
+    },
+    {
+      "base_seed_cost": 3,
+      "desc": "Reduces all Creation generator costs by 5% per level (Max 10).",
+      "effect_per_lvl": 0.05,
+      "id": "relic_wormhole_loom",
+      "max_lvl": 10,
+      "name": "Singularity Loom"
+    }
+  ],
+  "schema_version": 1,
+  "source_engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "wardrobe": [
+    {
+      "accent": "58327c",
+      "chapter": "",
+      "id": "ivory_queen",
+      "name": "Ivory Queen",
+      "outfit": "eee3fa",
+      "requirement": "Always available",
+      "scale": 1.0,
+      "wings": "ddcfee"
+    },
+    {
+      "accent": "397c69",
+      "chapter": "first_life",
+      "id": "earth_bloom",
+      "name": "Earth Bloom",
+      "outfit": "d6ead7",
+      "requirement": "Living Biosphere",
+      "scale": 0.8,
+      "wings": "b7ddc5"
+    },
+    {
+      "accent": "b88849",
+      "chapter": "discover_angel_realm",
+      "id": "angel_dawn",
+      "name": "Angel Dawn",
+      "outfit": "fff0d3",
+      "requirement": "Angel Realm",
+      "scale": 1.1,
+      "wings": "fff0d9"
+    },
+    {
+      "accent": "936ca7",
+      "chapter": "discover_elf_fairy_realm",
+      "id": "sylvan_bloom",
+      "name": "Sylvan Bloom",
+      "outfit": "d1e9df",
+      "requirement": "Elves and Fairies Realm",
+      "scale": 0.9,
+      "wings": "b6e6d8"
+    },
+    {
+      "accent": "413654",
+      "chapter": "discover_shadow_realm",
+      "id": "shadow_moon",
+      "name": "Shadow Moon",
+      "outfit": "aaa4cb",
+      "requirement": "Shadow Realm",
+      "scale": 1.0,
+      "wings": "8b90bb"
+    },
+    {
+      "accent": "7676b5",
+      "chapter": "discover_embodied_soul_dimension",
+      "id": "soul_concord",
+      "name": "Soul Concord",
+      "outfit": "ead5e6",
+      "requirement": "Embodied Soul Dimension",
+      "scale": 1.15,
+      "wings": "d3ddef"
+    }
+  ]
+}
