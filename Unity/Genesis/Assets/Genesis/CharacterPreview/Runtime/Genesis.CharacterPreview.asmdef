@@ -1,0 +1,5 @@
+{
+  "name": "Genesis.CharacterPreview",
+  "rootNamespace": "Genesis",
+  "references": ["VRM10"]
+}

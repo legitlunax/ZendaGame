@@ -1,0 +1,14 @@
+Integra el kit Enchanted UI en mi juego Unity para Windows, Android y WebGL, tomando Documentation/STYLE_REFERENCE.png como dirección visual y Documentation/CONTACT_SHEET.jpg como catálogo de las piezas reales.
+
+1. Lee START_HERE_ES.md y Documentation/UNITY_INTEGRATION.md. Inspecciona la versión de Unity, escenas, prefabs, sistema de UI, Input System y controlador narrativo de mi proyecto antes de modificarlo.
+2. Conserva la lógica narrativa, guardado, progresión, localización, escenas y eventos existentes. Haz cambios visuales y adaptadores de presentación, sin sustituir la lógica del juego por EnchantedDemoStory.
+3. Si ya usamos uGUI, ejecuta o adapta EnchantedKitInstaller para generar los prefabs. Integra primero la pantalla de conversación. Si usamos UI Toolkit, reutiliza los PNG y recrea los componentes en ese sistema; no migres todo el proyecto para usar este kit.
+4. Conserva TextMeshPro si ya se utiliza. Adapta EnchantedDialogueView y los labels a TMP en lugar de reemplazar el texto existente por UI.Text. Mantén localización y navegación.
+5. Usa panel_enchanted y button_amethyst como sprites Sliced con las medidas de SPRITE_MANIFEST.json. Usa Pixels Per Unit Multiplier para controlar la escala de las esquinas. No estires directamente todo el sprite ni uses la imagen de referencia como fondo de pantalla completo.
+6. Reutiliza mis personajes y fondos originales. El kit no incluye esos recursos por separado. Conecta las imágenes de retratos, nombres, hablante, diálogo, recursos y capítulo a los datos reales. Mantén los textos como texto editable.
+7. Conecta Continue, Previous, Back y los accesos hexagonales a sus acciones existentes. Evita EventSystems duplicados y revisa qué módulo de entrada usa el proyecto.
+8. Mantén safe areas, anchors, layouts y lectura cómoda en Android vertical. Adapta las ventanas de Windows y WebGL sin deformar los marcos. Comprueba relaciones 9:16, 9:20 y 16:9, cambios de tamaño, textos largos, acentos y estados deshabilitados.
+9. Usa transparencias y efectos moderados. No añadas blur en tiempo real, shaders especiales ni animaciones continuas a toda la pantalla. Evalúa compresión y atlas con medidas del dispositivo antes de aplicarlos.
+10. Comprueba errores de compilación y referencias rotas en Unity. Si tienes acceso al Editor, genera capturas comparables y prueba la interacción. Realiza los builds que el entorno permita. Indica lo realmente probado y lo pendiente, sin afirmar compatibilidad validada en plataformas que no ejecutaste.
+
+Implementa primero una pantalla funcional que podamos revisar. Después extiende los mismos componentes a las demás pantallas equivalentes. No te limites a un plan. No sobrescribas mis escenas originales ni los eventos de mis prefabs sin conservar el comportamiento.

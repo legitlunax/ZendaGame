@@ -1,0 +1,213 @@
+{
+  "version": "1.0.0",
+  "sprites": [
+    {
+      "file": "button_amethyst.png",
+      "width": 2172,
+      "height": 724,
+      "border_LBRT": [
+        540,
+        268,
+        540,
+        268
+      ],
+      "image_type": "Sliced",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 875235,
+      "partial_alpha_pixels": 697171,
+      "sha256": "4c3d4c7cea6f2f22f19bce4b2bba6d2d088bf742e0c75b456be4d0cc444c0e1c"
+    },
+    {
+      "file": "divider_gold.png",
+      "width": 1024,
+      "height": 32,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 32588,
+      "partial_alpha_pixels": 36,
+      "sha256": "3b5610bdac161534bf712e57bf39e9f6762faf4954e643f75dcc7d50b3311981"
+    },
+    {
+      "file": "hex_portrait_socket.png",
+      "width": 1254,
+      "height": 1254,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 645831,
+      "partial_alpha_pixels": 926625,
+      "sha256": "7cac1a706af000cbff295820c4fa2c83b5c0175829da8283f08c4d62657a774e"
+    },
+    {
+      "file": "icon_back.png",
+      "width": 128,
+      "height": 128,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 15172,
+      "partial_alpha_pixels": 326,
+      "sha256": "299dc1ee9aef1fe16bb5f9e19ed8180dcff32e85c7a36794547be24c96f5b177"
+    },
+    {
+      "file": "icon_check.png",
+      "width": 128,
+      "height": 128,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 15127,
+      "partial_alpha_pixels": 330,
+      "sha256": "26c65a6a1890ba8b918d840ae2c3dc49aedaee668d54d654559439ae8f53cb55"
+    },
+    {
+      "file": "icon_close.png",
+      "width": 128,
+      "height": 128,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 14684,
+      "partial_alpha_pixels": 524,
+      "sha256": "b5f99dfa3801050738b2901693874096f2caeebf16f4425f9d4449bd5e60da59"
+    },
+    {
+      "file": "icon_diamond.png",
+      "width": 128,
+      "height": 128,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 11840,
+      "partial_alpha_pixels": 352,
+      "sha256": "71ee1050cc157128d79b839dc1a465fde4fc141b49c36af84e500686595a4159"
+    },
+    {
+      "file": "icon_next.png",
+      "width": 128,
+      "height": 128,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 15172,
+      "partial_alpha_pixels": 326,
+      "sha256": "454d92575e7f25934ce3228cfcb4edb70dc36aa76fd9baa8c638cb5bb5a247d7"
+    },
+    {
+      "file": "icon_spark.png",
+      "width": 128,
+      "height": 128,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 13260,
+      "partial_alpha_pixels": 424,
+      "sha256": "ed0f3e6327e269568f8df41a63aebdde8520e6d2b4580c70b1f9ad550d88623b"
+    },
+    {
+      "file": "ornament_blossom.png",
+      "width": 1254,
+      "height": 1254,
+      "border_LBRT": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "image_type": "Simple",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 1280886,
+      "partial_alpha_pixels": 291615,
+      "sha256": "888927c6569f642eca0b6f6947f773ba4e9f172665569ecdf746bf3a103d1221"
+    },
+    {
+      "file": "panel_enchanted.png",
+      "width": 1254,
+      "height": 1254,
+      "border_LBRT": [
+        320,
+        320,
+        320,
+        320
+      ],
+      "image_type": "Sliced",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 313549,
+      "partial_alpha_pixels": 1257994,
+      "sha256": "0bd6bc386192c7e462fc5551fc1a78dc8d03b05ad82e80ceb765092ff0af75d8"
+    },
+    {
+      "file": "progress_fill.png",
+      "width": 256,
+      "height": 64,
+      "border_LBRT": [
+        24,
+        24,
+        24,
+        24
+      ],
+      "image_type": "Sliced",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 2863,
+      "partial_alpha_pixels": 155,
+      "sha256": "e2acf373fb7bc595df2fd773139ef1bedfc6bb96859c6d985a23abf4faa097c4"
+    },
+    {
+      "file": "progress_track.png",
+      "width": 256,
+      "height": 64,
+      "border_LBRT": [
+        24,
+        24,
+        24,
+        24
+      ],
+      "image_type": "Sliced",
+      "pixels_per_unit": 100,
+      "transparent_pixels": 2285,
+      "partial_alpha_pixels": 733,
+      "sha256": "9b78b22aa804b83895162227d2e5b9417c674ea792b653b200872d6eaa8d62ac"
+    }
+  ]
+}

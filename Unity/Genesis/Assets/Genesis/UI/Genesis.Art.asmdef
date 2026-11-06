@@ -1,0 +1,5 @@
+{
+  "name": "Genesis.Art",
+  "rootNamespace": "Genesis",
+  "references": ["EnchantedUI.Runtime"]
+}

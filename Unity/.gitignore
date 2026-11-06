@@ -1,0 +1,38 @@
+# Unity-generated state and exports
+Genesis/Library/
+Genesis/Temp/
+Genesis/Obj/
+Genesis/Logs/
+Genesis/UserSettings/
+Genesis/Builds/
+Genesis/build/
+Genesis/.utmp/
+Genesis/.plastic/
+Genesis/.vscode/
+Genesis/Assets/_Recovery/
+Genesis/*.csproj
+Genesis/*.sln
+Genesis/*.slnx
+
+# Local tooling output
+**/bin/
+**/obj/
+**/.godot/
+**/__pycache__/
+**/node_modules/
+**/.venv/
+**/.git/
+
+# Signing material and local character assets
+**/*.pfx
+**/*.p12
+**/*.keystore
+**/*.jks
+Genesis/Assets/Genesis/CharacterPreview/Zenda.vrm
+Genesis/Assets/Genesis/CharacterPreview/Zenda.vrm.meta
+Genesis/Assets/Genesis/CharacterPreview/ZendaPreview.unity
+Genesis/Assets/Genesis/CharacterPreview/ZendaPreview.unity.meta
+Genesis/Assets/Genesis/Resources/Genesis/Characters/ZendaGenesis.vrm
+Genesis/Assets/Genesis/Resources/Genesis/Characters/ZendaGenesis.vrm.meta
+Genesis/Migration/CharacterSource/
+Tools/UniVRM/Packages/VRM10/Samples~/

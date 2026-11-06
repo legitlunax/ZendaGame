@@ -1,0 +1,1042 @@
+{
+  "styles": [
+    "angel",
+    "fire",
+    "water",
+    "earth",
+    "wind",
+    "ice",
+    "lightning",
+    "nature",
+    "demon",
+    "shadow",
+    "moon",
+    "sun",
+    "stars",
+    "heart",
+    "time",
+    "arcane"
+  ],
+  "fairies": [
+    {
+      "id": "hope_fluctuation",
+      "style": "arcane"
+    },
+    {
+      "id": "first_intention",
+      "style": "heart"
+    },
+    {
+      "id": "primordial_breath",
+      "style": "demon"
+    },
+    {
+      "id": "yin",
+      "style": "earth"
+    },
+    {
+      "id": "yang",
+      "style": "earth"
+    },
+    {
+      "id": "yin_yang",
+      "style": "arcane"
+    },
+    {
+      "id": "element_wood",
+      "style": "nature"
+    },
+    {
+      "id": "element_fire",
+      "style": "fire"
+    },
+    {
+      "id": "element_earth",
+      "style": "earth"
+    },
+    {
+      "id": "element_metal",
+      "style": "sun"
+    },
+    {
+      "id": "element_water",
+      "style": "water"
+    },
+    {
+      "id": "elemental_harmony",
+      "style": "time"
+    },
+    {
+      "id": "time_seed",
+      "style": "fire"
+    },
+    {
+      "id": "time_flow",
+      "style": "time"
+    },
+    {
+      "id": "space_point",
+      "style": "lightning"
+    },
+    {
+      "id": "space_dimensions",
+      "style": "stars"
+    },
+    {
+      "id": "spacetime",
+      "style": "ice"
+    },
+    {
+      "id": "causality",
+      "style": "earth"
+    },
+    {
+      "id": "quantum_foam",
+      "style": "demon"
+    },
+    {
+      "id": "quark_filament",
+      "style": "angel"
+    },
+    {
+      "id": "electron_song",
+      "style": "demon"
+    },
+    {
+      "id": "hadron_forge",
+      "style": "stars"
+    },
+    {
+      "id": "molecular_bond",
+      "style": "ice"
+    },
+    {
+      "id": "cosmic_dust",
+      "style": "moon"
+    },
+    {
+      "id": "gravity_song",
+      "style": "moon"
+    },
+    {
+      "id": "protostar_core",
+      "style": "fire"
+    },
+    {
+      "id": "stellar_nursery",
+      "style": "angel"
+    },
+    {
+      "id": "world_crust",
+      "style": "sun"
+    },
+    {
+      "id": "ocean_dream",
+      "style": "earth"
+    },
+    {
+      "id": "sky_veil",
+      "style": "heart"
+    },
+    {
+      "id": "gaia_biosphere",
+      "style": "time"
+    },
+    {
+      "id": "lunar_tides",
+      "style": "lightning"
+    },
+    {
+      "id": "season_wheel",
+      "style": "moon"
+    },
+    {
+      "id": "soul_dawn",
+      "style": "wind"
+    },
+    {
+      "id": "constellation",
+      "style": "angel"
+    },
+    {
+      "id": "black_hole_anchor",
+      "style": "fire"
+    },
+    {
+      "id": "white_hole_fountain",
+      "style": "ice"
+    },
+    {
+      "id": "wormhole_nexus",
+      "style": "moon"
+    },
+    {
+      "id": "parallel_universe",
+      "style": "nature"
+    },
+    {
+      "id": "timeline_tree",
+      "style": "heart"
+    },
+    {
+      "id": "multiverse_loom",
+      "style": "stars"
+    },
+    {
+      "id": "law_weave",
+      "style": "angel"
+    },
+    {
+      "id": "infinite_universes",
+      "style": "sun"
+    },
+    {
+      "id": "universe_superposition",
+      "style": "nature"
+    },
+    {
+      "id": "independent_clocks",
+      "style": "heart"
+    },
+    {
+      "id": "beyond_distance",
+      "style": "lightning"
+    },
+    {
+      "id": "lawful_dissonance",
+      "style": "angel"
+    },
+    {
+      "id": "confluence_resonance",
+      "style": "earth"
+    },
+    {
+      "id": "uncollapsed_possibility",
+      "style": "demon"
+    },
+    {
+      "id": "confluence_concord",
+      "style": "arcane"
+    },
+    {
+      "id": "omniverse",
+      "style": "stars"
+    },
+    {
+      "id": "dao_seed",
+      "style": "nature"
+    },
+    {
+      "id": "dao_paths",
+      "style": "fire"
+    },
+    {
+      "id": "dao_weave",
+      "style": "lightning"
+    },
+    {
+      "id": "dao_dimensions",
+      "style": "ice"
+    },
+    {
+      "id": "reality",
+      "style": "demon"
+    },
+    {
+      "id": "life_memory",
+      "style": "arcane"
+    },
+    {
+      "id": "shared_breath",
+      "style": "heart"
+    },
+    {
+      "id": "inner_witness",
+      "style": "wind"
+    },
+    {
+      "id": "veiled_sight",
+      "style": "time"
+    },
+    {
+      "id": "all_seeing",
+      "style": "fire"
+    },
+    {
+      "id": "inner_presence",
+      "style": "water"
+    },
+    {
+      "id": "shared_presence",
+      "style": "sun"
+    },
+    {
+      "id": "omnipresence",
+      "style": "angel"
+    },
+    {
+      "id": "creative_will",
+      "style": "arcane"
+    },
+    {
+      "id": "boundless_potential",
+      "style": "wind"
+    },
+    {
+      "id": "omnipotence",
+      "style": "moon"
+    },
+    {
+      "id": "all_knowing",
+      "style": "wind"
+    },
+    {
+      "id": "compassionate_whole",
+      "style": "lightning"
+    },
+    {
+      "id": "divine_life",
+      "style": "moon"
+    },
+    {
+      "id": "omniall",
+      "style": "time"
+    },
+    {
+      "id": "hope_return",
+      "style": "moon"
+    },
+    {
+      "id": "angel_awakening",
+      "style": "earth"
+    },
+    {
+      "id": "angel_covenant",
+      "style": "heart"
+    },
+    {
+      "id": "angel_realm",
+      "style": "angel"
+    },
+    {
+      "id": "demon_awakening",
+      "style": "earth"
+    },
+    {
+      "id": "demon_covenant",
+      "style": "demon"
+    },
+    {
+      "id": "demon_realm",
+      "style": "demon"
+    },
+    {
+      "id": "sylvan_awakening",
+      "style": "ice"
+    },
+    {
+      "id": "sylvan_covenant",
+      "style": "arcane"
+    },
+    {
+      "id": "elf_fairy_realm",
+      "style": "nature"
+    },
+    {
+      "id": "god_awakening",
+      "style": "demon"
+    },
+    {
+      "id": "god_covenant",
+      "style": "time"
+    },
+    {
+      "id": "gods_realm",
+      "style": "earth"
+    },
+    {
+      "id": "shadow_awakening",
+      "style": "wind"
+    },
+    {
+      "id": "shadow_covenant",
+      "style": "earth"
+    },
+    {
+      "id": "shadow_realm",
+      "style": "shadow"
+    },
+    {
+      "id": "realm_envoys",
+      "style": "moon"
+    },
+    {
+      "id": "realm_bridges",
+      "style": "sun"
+    },
+    {
+      "id": "life_realms_concord",
+      "style": "arcane"
+    },
+    {
+      "id": "emotion_joy",
+      "style": "time"
+    },
+    {
+      "id": "emotion_sorrow",
+      "style": "heart"
+    },
+    {
+      "id": "emotion_wonder",
+      "style": "stars"
+    },
+    {
+      "id": "emotion_tenderness",
+      "style": "time"
+    },
+    {
+      "id": "emotion_courage",
+      "style": "wind"
+    },
+    {
+      "id": "emotion_anger",
+      "style": "demon"
+    },
+    {
+      "id": "emotion_compassion",
+      "style": "time"
+    },
+    {
+      "id": "emotion_serenity",
+      "style": "fire"
+    },
+    {
+      "id": "emotion_celebration",
+      "style": "arcane"
+    },
+    {
+      "id": "universal_heart",
+      "style": "heart"
+    },
+    {
+      "id": "human_earth_life",
+      "style": "ice"
+    },
+    {
+      "id": "soul_resonance",
+      "style": "sun"
+    },
+    {
+      "id": "angelic_presence",
+      "style": "wind"
+    },
+    {
+      "id": "many_realm_presence",
+      "style": "wind"
+    },
+    {
+      "id": "grounded_connection",
+      "style": "demon"
+    },
+    {
+      "id": "embodied_soul_dimension",
+      "style": "moon"
+    },
+    {
+      "id": "resident_primordial_breath_1",
+      "style": "lightning"
+    },
+    {
+      "id": "resident_primordial_breath_2",
+      "style": "heart"
+    },
+    {
+      "id": "resident_primordial_breath_3",
+      "style": "arcane"
+    },
+    {
+      "id": "resident_primordial_breath_4",
+      "style": "moon"
+    },
+    {
+      "id": "resident_primordial_breath_5",
+      "style": "wind"
+    },
+    {
+      "id": "resident_yin_yang_1",
+      "style": "moon"
+    },
+    {
+      "id": "resident_yin_yang_2",
+      "style": "fire"
+    },
+    {
+      "id": "resident_yin_yang_3",
+      "style": "heart"
+    },
+    {
+      "id": "resident_yin_yang_4",
+      "style": "heart"
+    },
+    {
+      "id": "resident_yin_yang_5",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_wood_1",
+      "style": "nature"
+    },
+    {
+      "id": "resident_element_wood_2",
+      "style": "nature"
+    },
+    {
+      "id": "resident_element_wood_3",
+      "style": "nature"
+    },
+    {
+      "id": "resident_element_wood_4",
+      "style": "nature"
+    },
+    {
+      "id": "resident_element_wood_5",
+      "style": "nature"
+    },
+    {
+      "id": "resident_element_wood_6",
+      "style": "nature"
+    },
+    {
+      "id": "resident_element_wood_7",
+      "style": "nature"
+    },
+    {
+      "id": "resident_element_fire_1",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_fire_2",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_fire_3",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_fire_4",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_fire_5",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_fire_6",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_fire_7",
+      "style": "fire"
+    },
+    {
+      "id": "resident_element_earth_1",
+      "style": "earth"
+    },
+    {
+      "id": "resident_element_earth_2",
+      "style": "earth"
+    },
+    {
+      "id": "resident_element_earth_3",
+      "style": "earth"
+    },
+    {
+      "id": "resident_element_earth_4",
+      "style": "earth"
+    },
+    {
+      "id": "resident_element_earth_5",
+      "style": "earth"
+    },
+    {
+      "id": "resident_element_earth_6",
+      "style": "earth"
+    },
+    {
+      "id": "resident_element_earth_7",
+      "style": "earth"
+    },
+    {
+      "id": "resident_element_metal_1",
+      "style": "time"
+    },
+    {
+      "id": "resident_element_metal_2",
+      "style": "time"
+    },
+    {
+      "id": "resident_element_metal_3",
+      "style": "time"
+    },
+    {
+      "id": "resident_element_metal_4",
+      "style": "heart"
+    },
+    {
+      "id": "resident_element_metal_5",
+      "style": "ice"
+    },
+    {
+      "id": "resident_element_metal_6",
+      "style": "ice"
+    },
+    {
+      "id": "resident_element_metal_7",
+      "style": "wind"
+    },
+    {
+      "id": "resident_element_water_1",
+      "style": "water"
+    },
+    {
+      "id": "resident_element_water_2",
+      "style": "water"
+    },
+    {
+      "id": "resident_element_water_3",
+      "style": "water"
+    },
+    {
+      "id": "resident_element_water_4",
+      "style": "water"
+    },
+    {
+      "id": "resident_element_water_5",
+      "style": "water"
+    },
+    {
+      "id": "resident_element_water_6",
+      "style": "water"
+    },
+    {
+      "id": "resident_element_water_7",
+      "style": "water"
+    },
+    {
+      "id": "resident_elemental_harmony_1",
+      "style": "nature"
+    },
+    {
+      "id": "resident_elemental_harmony_2",
+      "style": "moon"
+    },
+    {
+      "id": "resident_elemental_harmony_3",
+      "style": "wind"
+    },
+    {
+      "id": "resident_elemental_harmony_4",
+      "style": "fire"
+    },
+    {
+      "id": "resident_elemental_harmony_5",
+      "style": "moon"
+    },
+    {
+      "id": "resident_elemental_harmony_6",
+      "style": "time"
+    },
+    {
+      "id": "resident_elemental_harmony_7",
+      "style": "lightning"
+    },
+    {
+      "id": "resident_time_flow_1",
+      "style": "time"
+    },
+    {
+      "id": "resident_time_flow_2",
+      "style": "time"
+    },
+    {
+      "id": "resident_time_flow_3",
+      "style": "time"
+    },
+    {
+      "id": "resident_time_flow_4",
+      "style": "time"
+    },
+    {
+      "id": "resident_time_flow_5",
+      "style": "time"
+    },
+    {
+      "id": "resident_time_flow_6",
+      "style": "time"
+    },
+    {
+      "id": "resident_space_dimensions_1",
+      "style": "stars"
+    },
+    {
+      "id": "resident_space_dimensions_2",
+      "style": "stars"
+    },
+    {
+      "id": "resident_space_dimensions_3",
+      "style": "stars"
+    },
+    {
+      "id": "resident_space_dimensions_4",
+      "style": "stars"
+    },
+    {
+      "id": "resident_space_dimensions_5",
+      "style": "stars"
+    },
+    {
+      "id": "resident_space_dimensions_6",
+      "style": "stars"
+    },
+    {
+      "id": "resident_causality_1",
+      "style": "angel"
+    },
+    {
+      "id": "resident_causality_2",
+      "style": "nature"
+    },
+    {
+      "id": "resident_causality_3",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_causality_4",
+      "style": "stars"
+    },
+    {
+      "id": "resident_causality_5",
+      "style": "earth"
+    },
+    {
+      "id": "resident_causality_6",
+      "style": "sun"
+    },
+    {
+      "id": "resident_hadron_forge_1",
+      "style": "arcane"
+    },
+    {
+      "id": "resident_hadron_forge_2",
+      "style": "angel"
+    },
+    {
+      "id": "resident_hadron_forge_3",
+      "style": "time"
+    },
+    {
+      "id": "resident_hadron_forge_4",
+      "style": "nature"
+    },
+    {
+      "id": "resident_stellar_nursery_1",
+      "style": "earth"
+    },
+    {
+      "id": "resident_stellar_nursery_2",
+      "style": "wind"
+    },
+    {
+      "id": "resident_stellar_nursery_3",
+      "style": "sun"
+    },
+    {
+      "id": "resident_soul_dawn_1",
+      "style": "fire"
+    },
+    {
+      "id": "resident_soul_dawn_2",
+      "style": "wind"
+    },
+    {
+      "id": "resident_soul_dawn_3",
+      "style": "demon"
+    },
+    {
+      "id": "resident_wormhole_nexus_1",
+      "style": "ice"
+    },
+    {
+      "id": "resident_wormhole_nexus_2",
+      "style": "angel"
+    },
+    {
+      "id": "resident_wormhole_nexus_3",
+      "style": "angel"
+    },
+    {
+      "id": "resident_wormhole_nexus_4",
+      "style": "wind"
+    },
+    {
+      "id": "resident_law_weave_1",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_law_weave_2",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_law_weave_3",
+      "style": "sun"
+    },
+    {
+      "id": "resident_law_weave_4",
+      "style": "moon"
+    },
+    {
+      "id": "resident_omniverse_1",
+      "style": "time"
+    },
+    {
+      "id": "resident_omniverse_2",
+      "style": "wind"
+    },
+    {
+      "id": "resident_omniverse_3",
+      "style": "moon"
+    },
+    {
+      "id": "resident_dao_dimensions_1",
+      "style": "ice"
+    },
+    {
+      "id": "resident_dao_dimensions_2",
+      "style": "water"
+    },
+    {
+      "id": "resident_dao_dimensions_3",
+      "style": "stars"
+    },
+    {
+      "id": "resident_dao_dimensions_4",
+      "style": "ice"
+    },
+    {
+      "id": "resident_reality_1",
+      "style": "stars"
+    },
+    {
+      "id": "resident_reality_2",
+      "style": "nature"
+    },
+    {
+      "id": "resident_reality_3",
+      "style": "ice"
+    },
+    {
+      "id": "resident_reality_4",
+      "style": "nature"
+    },
+    {
+      "id": "resident_reality_5",
+      "style": "ice"
+    },
+    {
+      "id": "resident_reality_6",
+      "style": "heart"
+    },
+    {
+      "id": "resident_reality_7",
+      "style": "arcane"
+    },
+    {
+      "id": "resident_veiled_sight_1",
+      "style": "stars"
+    },
+    {
+      "id": "resident_veiled_sight_2",
+      "style": "earth"
+    },
+    {
+      "id": "resident_veiled_sight_3",
+      "style": "moon"
+    },
+    {
+      "id": "resident_veiled_sight_4",
+      "style": "angel"
+    },
+    {
+      "id": "resident_all_knowing_1",
+      "style": "angel"
+    },
+    {
+      "id": "resident_all_knowing_2",
+      "style": "demon"
+    },
+    {
+      "id": "resident_all_knowing_3",
+      "style": "ice"
+    },
+    {
+      "id": "resident_hope_return_1",
+      "style": "moon"
+    },
+    {
+      "id": "resident_hope_return_2",
+      "style": "water"
+    },
+    {
+      "id": "resident_hope_return_3",
+      "style": "lightning"
+    },
+    {
+      "id": "resident_hope_return_4",
+      "style": "moon"
+    },
+    {
+      "id": "resident_angel_realm_1",
+      "style": "angel"
+    },
+    {
+      "id": "resident_angel_realm_2",
+      "style": "angel"
+    },
+    {
+      "id": "resident_angel_realm_3",
+      "style": "angel"
+    },
+    {
+      "id": "resident_angel_realm_4",
+      "style": "angel"
+    },
+    {
+      "id": "resident_angel_realm_5",
+      "style": "angel"
+    },
+    {
+      "id": "resident_demon_realm_1",
+      "style": "demon"
+    },
+    {
+      "id": "resident_demon_realm_2",
+      "style": "demon"
+    },
+    {
+      "id": "resident_demon_realm_3",
+      "style": "demon"
+    },
+    {
+      "id": "resident_demon_realm_4",
+      "style": "demon"
+    },
+    {
+      "id": "resident_demon_realm_5",
+      "style": "demon"
+    },
+    {
+      "id": "resident_elf_fairy_realm_1",
+      "style": "nature"
+    },
+    {
+      "id": "resident_elf_fairy_realm_2",
+      "style": "nature"
+    },
+    {
+      "id": "resident_elf_fairy_realm_3",
+      "style": "nature"
+    },
+    {
+      "id": "resident_elf_fairy_realm_4",
+      "style": "nature"
+    },
+    {
+      "id": "resident_elf_fairy_realm_5",
+      "style": "nature"
+    },
+    {
+      "id": "resident_gods_realm_1",
+      "style": "demon"
+    },
+    {
+      "id": "resident_gods_realm_2",
+      "style": "lightning"
+    },
+    {
+      "id": "resident_gods_realm_3",
+      "style": "earth"
+    },
+    {
+      "id": "resident_gods_realm_4",
+      "style": "sun"
+    },
+    {
+      "id": "resident_gods_realm_5",
+      "style": "heart"
+    },
+    {
+      "id": "resident_shadow_realm_1",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_shadow_realm_2",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_shadow_realm_3",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_shadow_realm_4",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_shadow_realm_5",
+      "style": "shadow"
+    },
+    {
+      "id": "resident_life_realms_concord_1",
+      "style": "time"
+    },
+    {
+      "id": "resident_life_realms_concord_2",
+      "style": "ice"
+    },
+    {
+      "id": "resident_life_realms_concord_3",
+      "style": "lightning"
+    },
+    {
+      "id": "resident_life_realms_concord_4",
+      "style": "moon"
+    },
+    {
+      "id": "resident_life_realms_concord_5",
+      "style": "earth"
+    },
+    {
+      "id": "resident_universal_heart_1",
+      "style": "heart"
+    },
+    {
+      "id": "resident_universal_heart_2",
+      "style": "heart"
+    },
+    {
+      "id": "resident_universal_heart_3",
+      "style": "heart"
+    },
+    {
+      "id": "resident_embodied_soul_dimension_1",
+      "style": "arcane"
+    },
+    {
+      "id": "resident_embodied_soul_dimension_2",
+      "style": "moon"
+    },
+    {
+      "id": "resident_embodied_soul_dimension_3",
+      "style": "angel"
+    }
+  ]
+}

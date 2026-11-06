@@ -1,0 +1,5 @@
+{
+  "name": "Genesis.Sanctum",
+  "rootNamespace": "Genesis",
+  "references": ["Genesis.Core", "Genesis.Art", "Genesis.Runtime", "Genesis.CharacterPreview", "VRM10", "EnchantedUI.Runtime", "Unity.ugui"]
+}

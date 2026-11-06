@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f1f15c06405edc8a68874e7346f671, type: 3}
+  m_Name: EnchantedGameTheme
+  m_EditorClassIdentifier: EnchantedUI.Runtime::EnchantedUI.EnchantedTheme
+  panel: {fileID: 21300000, guid: e9d0fcf9543a583f8797dbc298b98edb, type: 3}
+  button: {fileID: 21300000, guid: 727153cf4e295f52b4d46e3a46d01e48, type: 3}
+  blossom: {fileID: 21300000, guid: 3af9f3c9eeb95ec6b124e23871ef613c, type: 3}
+  hexSocket: {fileID: 21300000, guid: 5fbebc8237245469845b1d5a33baec58, type: 3}
+  progressTrack: {fileID: 21300000, guid: cae3a1e55f055c47ae7610d52d42abf1, type: 3}
+  progressFill: {fileID: 21300000, guid: 1f4596b195165a0b84f96851b9e3b3bf, type: 3}
+  divider: {fileID: 21300000, guid: f56cad32e08554b2b2592aa113281071, type: 3}
+  spark: {fileID: 21300000, guid: e9c7543ba4ea58a592ed36fee8b2b167, type: 3}
+  diamond: {fileID: 21300000, guid: 43276c599d575a74a9f543373ea0070c, type: 3}
+  check: {fileID: 21300000, guid: a7fbbeedde815491bfd70d33b33fe08f, type: 3}
+  back: {fileID: 21300000, guid: 0811a7b1e80d5f4ca4a1f95ae5d1517d, type: 3}
+  next: {fileID: 21300000, guid: 5b211301ae405ab6919e0cb5000e0115, type: 3}
+  titleFont: {fileID: 12800000, guid: 405c9c710e3440c48ba265ecd14aa5b5, type: 3}
+  bodyFont: {fileID: 12800000, guid: 4032e531d9fdc114fa0ba3f2a5187d50, type: 3}
+  text: {r: 1, g: 0.95686275, b: 0.88235295, a: 1}
+  mutedText: {r: 0.8392157, g: 0.7647059, b: 0.87058824, a: 1}
+  gold: {r: 0.9411765, g: 0.8, b: 0.5686275, a: 1}
+  secondaryTint: {r: 0.77254903, g: 0.7176471, b: 0.8352941, a: 1}
+  disabledTint: {r: 0.49019608, g: 0.47058824, b: 0.5176471, a: 0.78431374}
+  backgroundTop: {r: 0.22352941, g: 0.13725491, b: 0.31764707, a: 1}
+  backgroundBottom: {r: 0.06666667, g: 0.047058824, b: 0.11764706, a: 1}
+  panelSliceScale: 5
+  buttonSliceScale: 8

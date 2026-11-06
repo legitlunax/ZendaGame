@@ -1,0 +1,5 @@
+{
+  "name": "Genesis.Editor",
+  "references": ["Genesis.Core", "Genesis.Runtime", "Genesis.CharacterPreview", "Genesis.Sanctum", "MCPForUnity.Editor", "UniGLTF.Editor", "VRM10.Editor", "VRM10", "EnchantedUI.Runtime", "EnchantedUI.Editor", "Unity.ugui"],
+  "includePlatforms": ["Editor"]
+}

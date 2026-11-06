@@ -1,0 +1,1307 @@
+{
+  "Inspiration of Love from Agnia Barskaya": [
+    "Inspiración de amor de Agnia Barskaya",
+    "Вдохновение любовью от Agnia Barskaya",
+    "爱的灵感来自 Agnia Barskaya"
+  ],
+  "Inspiration of Fun from Alicia_Neni from everlastingmc": [
+    "Inspiración de diversión de Alicia_Neni de everlastingmc",
+    "Вдохновение весельем от Alicia_Neni из everlastingmc",
+    "欢乐的灵感来自 everlastingmc 的 Alicia_Neni"
+  ],
+  "Inspiration from the Dreams": [
+    "Inspiración de los sueños",
+    "Вдохновение из снов",
+    "灵感来自梦境"
+  ],
+  "Language": [
+    "Idioma",
+    "Язык",
+    "语言"
+  ],
+  "Read": [
+    "Leer",
+    "Читать",
+    "阅读"
+  ],
+  "Revisit story": [
+    "Releer historia",
+    "Перечитать историю",
+    "重温故事"
+  ],
+  "Continue main quest": [
+    "Continuar misión principal",
+    "Продолжить главный квест",
+    "继续主线任务"
+  ],
+  "Play objective in Idle RPG": [
+    "Cumplir objetivo en Idle RPG",
+    "Выполнить цель в Idle RPG",
+    "在放置模式中完成目标"
+  ],
+  "Return to world unlock": [
+    "Volver al desbloqueo del mundo",
+    "Вернуться к открытию мира",
+    "返回世界解锁"
+  ],
+  "Back to Idle RPG": [
+    "Volver a Idle RPG",
+    "Вернуться в Idle RPG",
+    "返回放置模式"
+  ],
+  "Gift received": [
+    "Regalo recibido",
+    "Подарок получен",
+    "已领取礼物"
+  ],
+  "Objective complete / finish the conversation": [
+    "Objetivo cumplido / termina la conversación",
+    "Цель достигнута / завершите разговор",
+    "目标已完成 / 请完成对话"
+  ],
+  "{#}/{#} stories finished / gifts optional": [
+    "{#}/{#} historias terminadas / regalos opcionales",
+    "{#}/{#} историй завершено / подарки необязательны",
+    "已完成 {#}/{#} 篇故事 / 礼物可选"
+  ],
+  "QUEST {#} / FINISHED": [
+    "MISIÓN {#} / TERMINADA",
+    "КВЕСТ {#} / ЗАВЕРШЁН",
+    "任务 {#} / 已完成"
+  ],
+  "QUEST {#} / READY TO READ": [
+    "MISIÓN {#} / LISTA PARA LEER",
+    "КВЕСТ {#} / ГОТОВ К ЧТЕНИЮ",
+    "任务 {#} / 可以阅读"
+  ],
+  "QUEST {#} / IN PROGRESS": [
+    "MISIÓN {#} / EN CURSO",
+    "КВЕСТ {#} / В ПРОЦЕССЕ",
+    "任务 {#} / 进行中"
+  ],
+  "{#} game seconds left. You can leave this tab.": [
+    "Quedan {#} segundos de juego. Puedes salir de esta pestaña.",
+    "Осталось {#} игровых секунд. Можно покинуть вкладку.",
+    "剩余 {#} 游戏秒。你可以离开此页面。"
+  ],
+  "{#} game seconds / no entry cost": [
+    "{#} segundos de juego / gratis",
+    "{#} игровых секунд / бесплатно",
+    "{#} 游戏秒 / 免费"
+  ],
+  "Unlock after {#} claimed trips ({#}/{#})": [
+    "Se desbloquea tras {#} viajes cobrados ({#}/{#})",
+    "Открывается после {#} наград за путешествия ({#}/{#})",
+    "领取 {#} 次旅程奖励后解锁（{#}/{#}）"
+  ],
+  "Travel bond / rank {#}": [
+    "Vínculo de viaje / rango {#}",
+    "Узы путешествий / ранг {#}",
+    "旅途羁绊 / 等级 {#}"
+  ],
+  "From: ": [
+    "Desde: ",
+    "Откуда: ",
+    "出发地："
+  ],
+  " / reserved": [
+    " / reservado",
+    " / отложено",
+    " / 已保留"
+  ],
+  " / reward": [
+    " / recompensa",
+    " / награда",
+    " / 奖励"
+  ],
+  "Claim +": [
+    "Recoger +",
+    "Получить +",
+    "领取 +"
+  ],
+  "Start ": [
+    "Iniciar ",
+    "Начать ",
+    "开始 "
+  ],
+  "Duality Dimension": [
+    "Dimensión de dualidad",
+    "Измерение двойственности",
+    "二元维度"
+  ],
+  "Fire Dimension": [
+    "Dimensión de fuego",
+    "Измерение огня",
+    "火之维度"
+  ],
+  "Earth Dimension": [
+    "Dimensión de tierra",
+    "Измерение земли",
+    "土之维度"
+  ],
+  "Metal Dimension": [
+    "Dimensión de metal",
+    "Измерение металла",
+    "金之维度"
+  ],
+  "Water Dimension": [
+    "Dimensión de agua",
+    "Измерение воды",
+    "水之维度"
+  ],
+  "Interwoven Elemental Dimension": [
+    "Dimensión elemental entrelazada",
+    "Измерение сплетённых стихий",
+    "交织元素维度"
+  ],
+  "Time Dimension": [
+    "Dimensión del tiempo",
+    "Измерение времени",
+    "时间维度"
+  ],
+  "Space Dimension": [
+    "Dimensión del espacio",
+    "Измерение пространства",
+    "空间维度"
+  ],
+  "Causal Dimension": [
+    "Dimensión causal",
+    "Измерение причинности",
+    "因果维度"
+  ],
+  "Quantum Dimension": [
+    "Dimensión cuántica",
+    "Квантовое измерение",
+    "量子维度"
+  ],
+  "Stellar Dimension": [
+    "Dimensión estelar",
+    "Звёздное измерение",
+    "星辰维度"
+  ],
+  "Soul Dimension": [
+    "Dimensión del alma",
+    "Измерение души",
+    "灵魂维度"
+  ],
+  "Living Universe Dimension": [
+    "Dimensión del universo vivo",
+    "Измерение живой вселенной",
+    "生命宇宙维度"
+  ],
+  "Possible Laws Dimension": [
+    "Dimensión de leyes posibles",
+    "Измерение возможных законов",
+    "可能法则维度"
+  ],
+  "Omniverse Confluence Dimension": [
+    "Dimensión de confluencia omniversal",
+    "Измерение слияния вселенных",
+    "全宇宙交汇维度"
+  ],
+  "Three Thousand Dao Dimensions": [
+    "Tres mil dimensiones del Dao",
+    "Три тысячи измерений Дао",
+    "三千大道维度"
+  ],
+  "Reality Dimension": [
+    "Dimensión de la realidad",
+    "Измерение реальности",
+    "现实维度"
+  ],
+  "Perception Dimension": [
+    "Dimensión de la percepción",
+    "Измерение восприятия",
+    "感知维度"
+  ],
+  "Divine Awareness Dimension": [
+    "Dimensión de conciencia divina",
+    "Измерение божественного сознания",
+    "神识维度"
+  ],
+  "Living Divinity Dimension": [
+    "Dimensión de divinidad viva",
+    "Измерение живой божественности",
+    "生命神性维度"
+  ],
+  "Angel Realm": [
+    "Reino de los ángeles",
+    "Мир ангелов",
+    "天使界"
+  ],
+  "Demon Realm": [
+    "Reino de los demonios",
+    "Мир демонов",
+    "恶魔界"
+  ],
+  "Elves and Fairies Realm": [
+    "Reino de elfos y hadas",
+    "Мир эльфов и фей",
+    "精灵与仙子界"
+  ],
+  "Gods Realm": [
+    "Reino de los dioses",
+    "Мир богов",
+    "众神界"
+  ],
+  "Shadow Realm": [
+    "Reino de las sombras",
+    "Мир теней",
+    "暗影界"
+  ],
+  "Concord of Living Realms Dimension": [
+    "Dimensión de armonía de reinos vivos",
+    "Измерение согласия живых миров",
+    "生命诸界和谐维度"
+  ],
+  "Universal Heart Dimension": [
+    "Dimensión del corazón universal",
+    "Измерение сердца вселенной",
+    "宇宙之心维度"
+  ],
+  "Embodied Soul Dimension": [
+    "Dimensión del alma encarnada",
+    "Измерение воплощённой души",
+    "灵魂化身维度"
+  ],
+  "Unfolding Reality": [
+    "Realidad en expansión",
+    "Разворачивающаяся реальность",
+    "展开的现实"
+  ],
+  "The Darkness model could not be loaded. Please choose Light or retry.": [
+    "No se pudo cargar el modelo de Oscuridad. Elige Luz o inténtalo de nuevo.",
+    "Не удалось загрузить модель Тьмы. Выберите Свет или повторите попытку.",
+    "无法加载黑暗角色。请选择光明或重试。"
+  ],
+  "Read stories": [
+    "Leer historias",
+    "Читать истории",
+    "阅读故事"
+  ],
+  "Go to Gather": [
+    "Ir a Recolectar",
+    "Перейти к сбору",
+    "前往采集"
+  ],
+  "Read chapter": [
+    "Leer capítulo",
+    "Читать главу",
+    "阅读章节"
+  ],
+  "Choose your protagonist": [
+    "Elige tu protagonista",
+    "Выберите героя",
+    "选择你的主角"
+  ],
+  "Light or Darkness / the same journey, your own identity.": [
+    "Luz u Oscuridad: el mismo viaje, tu propia identidad.",
+    "Свет или Тьма: один путь, ваша личность.",
+    "光明或黑暗：同一段旅程，属于你的身份。"
+  ],
+  "Light / selected": [
+    "Luz / elegida",
+    "Свет / выбран",
+    "光明 / 已选择"
+  ],
+  "Choose Light": [
+    "Elegir Luz",
+    "Выбрать Свет",
+    "选择光明"
+  ],
+  "Darkness / selected": [
+    "Oscuridad / elegida",
+    "Тьма / выбрана",
+    "黑暗 / 已选择"
+  ],
+  "Choose Darkness": [
+    "Elegir Oscuridad",
+    "Выбрать Тьму",
+    "选择黑暗"
+  ],
+  "Character name (up to 24 characters)": [
+    "Nombre (máximo 24 caracteres)",
+    "Имя (до 24 символов)",
+    "角色名字（最多24个字符）"
+  ],
+  "Random": [
+    "Aleatorio",
+    "Случайно",
+    "随机"
+  ],
+  "Your name appears on the homepage. Tap it later to edit or switch characters.": [
+    "Tu nombre aparece en la página principal. Tócalo para editarlo o cambiar de personaje.",
+    "Ваше имя появится на главной странице. Нажмите на него, чтобы изменить имя или героя.",
+    "你的名字会显示在主页上。之后点击名字即可编辑或切换角色。"
+  ],
+  "Please enter a character name.": [
+    "Introduce un nombre.",
+    "Введите имя героя.",
+    "请输入角色名字。"
+  ],
+  "Save character": [
+    "Guardar personaje",
+    "Сохранить героя",
+    "保存角色"
+  ],
+  "Begin your journey": [
+    "Comenzar tu viaje",
+    "Начать путешествие",
+    "开始旅程"
+  ],
+  "Cancel": [
+    "Cancelar",
+    "Отмена",
+    "取消"
+  ],
+  "Idle RPG": [
+    "RPG incremental",
+    "Idle RPG",
+    "放置角色扮演"
+  ],
+  "Our storyline": [
+    "Nuestra historia",
+    "Наша история",
+    "我们的故事"
+  ],
+  "Main Goddess": [
+    "Diosa principal",
+    "Главная богиня",
+    "主女神"
+  ],
+  "Storyline": [
+    "Historia",
+    "История",
+    "故事"
+  ],
+  "> Storyline": [
+    "> Historia",
+    "> История",
+    "> 故事"
+  ],
+  "Gather": [
+    "Recolectar",
+    "Сбор",
+    "采集"
+  ],
+  "Journey": [
+    "Viaje",
+    "Путешествие",
+    "旅程"
+  ],
+  "Worlds": [
+    "Mundos",
+    "Миры",
+    "世界"
+  ],
+  "Hope": [
+    "Esperanza",
+    "Надежда",
+    "希望"
+  ],
+  "{#} / {#} fairies": [
+    "{#} / {#} hadas",
+    "{#} / {#} фей",
+    "{#} / {#} 位精灵"
+  ],
+  "Unlock": [
+    "Desbloquear",
+    "Открыть",
+    "解锁"
+  ],
+  "Locked": [
+    "Bloqueado",
+    "Закрыто",
+    "未解锁"
+  ],
+  "Selected": [
+    "Elegido",
+    "Выбрано",
+    "已选择"
+  ],
+  "Choose": [
+    "Elegir",
+    "Выбрать",
+    "选择"
+  ],
+  "Read story": [
+    "Leer historia",
+    "Читать историю",
+    "阅读故事"
+  ],
+  "Before unlock": [
+    "Antes de desbloquear",
+    "Перед открытием",
+    "解锁前"
+  ],
+  "Gathering guide": [
+    "Guía de recolección",
+    "Руководство по сбору",
+    "采集指南"
+  ],
+  "Fairy neighbourhood / tap a friend": [
+    "Barrio de hadas / toca a una amiga",
+    "Поселение фей / выберите подругу",
+    "精灵社区 / 点击一位朋友"
+  ],
+  "Recruit this world's fairies below.": [
+    "Recluta las hadas de este mundo abajo.",
+    "Нанимайте фей этого мира ниже.",
+    "在下方招募这个世界的精灵。"
+  ],
+  "They will gather here as neighbours.": [
+    "Se reunirán aquí como vecinas.",
+    "Они поселятся здесь по соседству.",
+    "她们将在这里成为邻居。"
+  ],
+  "This world's fairies revealed": [
+    "Todas las hadas de este mundo reveladas",
+    "Все феи этого мира открыты",
+    "已发现这个世界的所有精灵"
+  ],
+  "Primordial Possibility": [
+    "Posibilidad primordial",
+    "Первозданная возможность",
+    "原初可能性"
+  ],
+  "Wood Dimension": [
+    "Dimensión de madera",
+    "Измерение дерева",
+    "木之维度"
+  ],
+  "Seed Librarian": [
+    "Bibliotecaria de semillas",
+    "Хранительница семян",
+    "种子图书管理员"
+  ],
+  "Acorn Potter": [
+    "Alfarera de bellotas",
+    "Гончар желудей",
+    "橡果陶艺师"
+  ],
+  "First Light": [
+    "Primera luz",
+    "Первый свет",
+    "初光"
+  ],
+  "Moon Garden": [
+    "Jardín lunar",
+    "Лунный сад",
+    "月光花园"
+  ],
+  "Astral Sea": [
+    "Mar astral",
+    "Астральное море",
+    "星海"
+  ],
+  "Journeys / bonus Hope": [
+    "Viajes / Esperanza adicional",
+    "Путешествия / бонус Надежды",
+    "旅程 / 额外希望"
+  ],
+  "Choose a trip, let its timer finish, then claim extra Hope. Free and optional; your fairies keep gathering. No story unlocks are required here.": [
+    "Elige un viaje, espera a que termine y recoge Esperanza adicional. Es gratis y opcional; tus hadas siguen recolectando. No requiere desbloquear historias.",
+    "Выберите путешествие, дождитесь его завершения и получите Надежду. Это бесплатно и необязательно; феи продолжат сбор. Открывать истории не требуется.",
+    "选择旅程，等待计时结束，然后领取额外希望。旅程免费且可选，精灵会继续采集。无需解锁故事。"
+  ],
+  "YOUR GIFT IS READY": [
+    "TU REGALO ESTÁ LISTO",
+    "ВАШ ПОДАРОК ГОТОВ",
+    "礼物已准备好"
+  ],
+  "JOURNEY IN PROGRESS": [
+    "VIAJE EN CURSO",
+    "ПУТЕШЕСТВИЕ ИДЁТ",
+    "旅程进行中"
+  ],
+  "PLAN YOUR NEXT TRIP": [
+    "PLANEA TU PRÓXIMO VIAJE",
+    "ПЛАНИРУЙТЕ ПУТЕШЕСТВИЕ",
+    "计划下一次旅程"
+  ],
+  "Trip complete. Claim once to receive your Hope.": [
+    "Viaje terminado. Recoge tu Esperanza.",
+    "Путешествие завершено. Получите Надежду.",
+    "旅程完成。点击领取希望。"
+  ],
+  "Travelling...": [
+    "Viajando...",
+    "В пути...",
+    "旅行中……"
+  ],
+  "Recruit a fairy first": [
+    "Recluta primero un hada",
+    "Сначала наймите фею",
+    "请先招募一位精灵"
+  ],
+  "Choose your route": [
+    "Elige tu ruta",
+    "Выберите маршрут",
+    "选择路线"
+  ],
+  "Follow lanterns through the morning mist.": [
+    "Sigue los faroles entre la niebla matinal.",
+    "Следуйте за фонарями сквозь утренний туман.",
+    "循着灯笼穿过晨雾。"
+  ],
+  "Gather silver dew among moonlit flowers.": [
+    "Recoge rocío plateado entre flores a la luz de la luna.",
+    "Собирайте серебряную росу среди лунных цветов.",
+    "在月光下的花丛中采集银色露珠。"
+  ],
+  "Sail the constellations beyond the garden.": [
+    "Navega por las constelaciones más allá del jardín.",
+    "Плывите к созвездиям за пределами сада.",
+    "驶向花园之外的群星。"
+  ],
+  "Lady gallery": [
+    "Galería de damas",
+    "Галерея фей",
+    "精灵图鉴"
+  ],
+  "> Lady gallery": [
+    "> Galería de damas",
+    "> Галерея фей",
+    "> 精灵图鉴"
+  ],
+  "< Lady gallery": [
+    "< Galería de damas",
+    "< Галерея фей",
+    "< 精灵图鉴"
+  ],
+  "< Storyline": [
+    "< Historia",
+    "< История",
+    "< 故事"
+  ],
+  "< All Ladies": [
+    "< Todas las damas",
+    "< Все феи",
+    "< 所有精灵"
+  ],
+  "Friend / History": [
+    "Amiga / Historia",
+    "Подруга / История",
+    "朋友 / 经历"
+  ],
+  "Select / History": [
+    "Elegir / Historia",
+    "Выбрать / История",
+    "选择 / 经历"
+  ],
+  "Visit Zenda": [
+    "Visitar a Zenda",
+    "Посетить Зенду",
+    "拜访 Zenda"
+  ],
+  "Full story": [
+    "Historia completa",
+    "Полная история",
+    "完整故事"
+  ],
+  "Zenda's friend": [
+    "Amiga de Zenda",
+    "Подруга Зенды",
+    "Zenda 的朋友"
+  ],
+  "Chibi portrait unavailable": [
+    "Retrato chibi no disponible",
+    "Чиби-портрет недоступен",
+    "暂无Q版肖像"
+  ],
+  "Send companion home": [
+    "Enviar a la compañera a casa",
+    "Отправить спутницу домой",
+    "让同伴回家"
+  ],
+  "Accompany Zenda as a friend": [
+    "Acompañar a Zenda como amiga",
+    "Стать спутницей Зенды",
+    "作为朋友陪伴 Zenda"
+  ],
+  "Continue conversation": [
+    "Continuar conversación",
+    "Продолжить разговор",
+    "继续对话"
+  ],
+  "Finish their story": [
+    "Terminar su historia",
+    "Завершить историю",
+    "读完故事"
+  ],
+  "Previous": [
+    "Anterior",
+    "Назад",
+    "上一页"
+  ],
+  "Continue": [
+    "Continuar",
+    "Продолжить",
+    "继续"
+  ],
+  "Memory treasured": [
+    "Recuerdo atesorado",
+    "Воспоминание сохранено",
+    "珍藏回忆"
+  ],
+  "Read next required chapter": [
+    "Leer el siguiente capítulo requerido",
+    "Читать следующую нужную главу",
+    "阅读下一篇必需章节"
+  ],
+  "Return / unlock next world": [
+    "Volver / desbloquear mundo",
+    "Назад / открыть мир",
+    "返回 / 解锁下个世界"
+  ],
+  "< Return to world unlock": [
+    "< Volver al desbloqueo",
+    "< Назад к открытию мира",
+    "< 返回世界解锁"
+  ],
+  "speaking": [
+    "hablando",
+    "говорит",
+    "说话中"
+  ],
+  "listening": [
+    "escuchando",
+    "слушает",
+    "聆听中"
+  ],
+  "Neutral": [
+    "Neutral",
+    "Спокойствие",
+    "平静"
+  ],
+  "Happy": [
+    "Feliz",
+    "Радость",
+    "开心"
+  ],
+  "Close": [
+    "Cerrar",
+    "Закрыть",
+    "关闭"
+  ],
+  "Apply code": [
+    "Aplicar código",
+    "Применить код",
+    "使用兑换码"
+  ],
+  "Cancel reset": [
+    "Cancelar reinicio",
+    "Отменить сброс",
+    "取消重置"
+  ],
+  "Confirm RESET": [
+    "Confirmar REINICIO",
+    "Подтвердить СБРОС",
+    "确认重置"
+  ],
+  "Code not recognized. Check the code and try again.": [
+    "Código no reconocido. Revísalo e inténtalo de nuevo.",
+    "Код не распознан. Проверьте его и повторите попытку.",
+    "无法识别兑换码。请检查后重试。"
+  ],
+  "Enter an unlock code.": [
+    "Introduce un código.",
+    "Введите код.",
+    "请输入兑换码。"
+  ],
+  "Unlock code / {#}x": [
+    "Código / {#}x",
+    "Код / {#}x",
+    "兑换码 / {#}倍"
+  ],
+  "Enter an unlock code. Current speed: {#}x.": [
+    "Introduce un código. Velocidad actual: {#}x.",
+    "Введите код. Текущая скорость: {#}x.",
+    "请输入兑换码。当前速度：{#}倍。"
+  ],
+  "Music, fonts & licenses": [
+    "Música, fuentes y licencias",
+    "Музыка, шрифты и лицензии",
+    "音乐、字体与许可"
+  ],
+  "Music & enchanted lettering": [
+    "Música y letras encantadas",
+    "Музыка и волшебные буквы",
+    "音乐与魔法字体"
+  ],
+  "Close / Return to Zenda": [
+    "Cerrar / Volver con Zenda",
+    "Закрыть / Вернуться к Зенде",
+    "关闭 / 返回 Zenda"
+  ],
+  "Close / Continue playing": [
+    "Cerrar / Seguir jugando",
+    "Закрыть / Продолжить игру",
+    "关闭 / 继续游戏"
+  ],
+  "Reset / Start again": [
+    "Reiniciar / Empezar de nuevo",
+    "Сбросить / Начать заново",
+    "重置 / 重新开始"
+  ],
+  "A universe remembered": [
+    "Un universo recordado",
+    "Вселенная в памяти",
+    "铭记宇宙"
+  ],
+  "Tap Zenda": [
+    "Toca a Zenda",
+    "Нажмите на Зенду",
+    "点击 Zenda"
+  ],
+  "+{#}s of inspiration": [
+    "+{#}s de inspiración",
+    "+{#}с вдохновения",
+    "+{#}秒灵感"
+  ],
+  "Inspiration / {#}x": [
+    "Inspiración / {#}x",
+    "Вдохновение / {#}x",
+    "灵感 / {#}倍"
+  ],
+  "Edit character name / Light or Darkness": [
+    "Editar nombre / Luz u Oscuridad",
+    "Изменить имя / Свет или Тьма",
+    "编辑名字 / 光明或黑暗"
+  ],
+  "Mute music and sounds": [
+    "Silenciar música y sonidos",
+    "Выключить музыку и звуки",
+    "关闭音乐和音效"
+  ],
+  "Enable music and sounds": [
+    "Activar música y sonidos",
+    "Включить музыку и звуки",
+    "开启音乐和音效"
+  ],
+  "Creation Potential": [
+    "Potencial creador",
+    "Потенциал творения",
+    "创造潜能"
+  ],
+  "Current RPG world": [
+    "Mundo RPG actual",
+    "Текущий мир RPG",
+    "当前放置世界"
+  ],
+  "WORLD QUESTS / {0} of {1}": [
+    "MISIONES DEL MUNDO / {0} de {1}",
+    "ЗАДАНИЯ МИРА / {0} из {1}",
+    "世界任务 / {0}，共{1}个世界"
+  ],
+  "Optional gift: +{0}": [
+    "Regalo opcional: +{0}",
+    "Необязательный подарок: +{0}",
+    "可选礼物：+{0}"
+  ],
+  "Receive gift / +{0}": [
+    "Recibir regalo / +{0}",
+    "Получить подарок / +{0}",
+    "领取礼物 / +{0}"
+  ],
+  "{0} / {1} / live RPG progress": [
+    "{0} / {1} / progreso actual",
+    "{0} / {1} / текущий прогресс RPG",
+    "{0} / {1} / 实时放置进度"
+  ],
+  "{0} / {1} / {2} of {3}": [
+    "{0} / {1} / {2} de {3}",
+    "{0} / {1} / {2} из {3}",
+    "{0} / {1} / 第{2}页，共{3}页"
+  ],
+  "Remembering together / {0}": [
+    "Recordando juntas / {0}",
+    "Вспоминаем вместе / {0}",
+    "共同回忆 / {0}"
+  ],
+  "illustrated memory": [
+    "recuerdo ilustrado",
+    "иллюстрированное воспоминание",
+    "插画回忆"
+  ],
+  "portrait + chibi": [
+    "retrato + chibi",
+    "портрет + чиби",
+    "肖像与Q版精灵"
+  ],
+  "happy": [
+    "alegre",
+    "радость",
+    "开心"
+  ],
+  "relaxed": [
+    "serena",
+    "спокойствие",
+    "平静"
+  ],
+  "sad": [
+    "triste",
+    "грусть",
+    "难过"
+  ],
+  "angry": [
+    "enfadada",
+    "гнев",
+    "生气"
+  ],
+  "surprised": [
+    "sorprendida",
+    "удивление",
+    "惊讶"
+  ],
+  "{0}s / +{1} {2} at current income": [
+    "{0}s / +{1} {2} con los ingresos actuales",
+    "{0}с / +{1} {2} при текущем доходе",
+    "{0}秒 / 按当前收益获得+{1} {2}"
+  ],
+  "{0} trips claimed. Every 3 claims adds 10% to future journey rewards. Current bonus: +{1}%.": [
+    "{0} viajes cobrados. Cada 3 recompensas aumentan un 10% las futuras recompensas de viaje. Bonificación actual: +{1}%.",
+    "Получены награды за {0} путешествий. Каждые 3 награды повышают будущие награды на 10%. Текущий бонус: +{1}%.",
+    "已领取{0}次旅程奖励。每领取3次，后续旅程奖励增加10%。当前加成：+{1}%。"
+  ],
+  "{0} more claims to the next rank. Timers use game speed and advance offline. Longer routes pay more as your income grows; rewards are fixed when you start.": [
+    "Faltan {0} recompensas para el siguiente rango. Los temporizadores siguen la velocidad del juego y avanzan sin conexión. Las rutas largas dan más según tus ingresos; la recompensa se fija al partir.",
+    "До следующего ранга осталось наград: {0}. Таймеры учитывают скорость игры и работают офлайн. Длинные маршруты приносят больше с ростом дохода; награда фиксируется при отправлении.",
+    "再领取{0}次奖励即可升阶。计时器遵循游戏速度，离线也会推进。收入越高，长途路线奖励越多；奖励在出发时确定。"
+  ],
+  "Your first friend is waiting. Unlock a creation in Idle RPG to welcome its Lady here.": [
+    "Tu primera amiga te espera. Desbloquea una creación en Idle RPG para recibir aquí a su hada.",
+    "Первая подруга ждёт тебя. Открой творение в Idle RPG, чтобы пригласить сюда его фею.",
+    "你的第一位朋友正在等待。解锁一项放置创造，即可在这里迎接对应的精灵。"
+  ],
+  "{#} Ladies met / chibi fairy collection": [
+    "{#} amigas conocidas / colección de hadas chibi",
+    "Знакомых фей: {#} / коллекция чиби",
+    "已结识{#}位精灵 / Q版精灵收藏"
+  ],
+  "Zenda's portrait is unavailable. Her words are still here.": [
+    "El retrato de Zenda no está disponible. Sus palabras siguen aquí.",
+    "Портрет Zenda недоступен. Её слова по-прежнему здесь.",
+    "Zenda的肖像暂不可用，但她的话语仍在这里。"
+  ],
+  "Our friend is here in words; her portrait is unavailable.": [
+    "Nuestra amiga está aquí en sus palabras; su retrato no está disponible.",
+    "Наша подруга с нами в своих словах; её портрет недоступен.",
+    "朋友正通过文字陪伴我们；她的肖像暂不可用。"
+  ],
+  "Chronicle remembered. Its reward is yours.": [
+    "Crónica recordada. La recompensa es tuya.",
+    "Хроника сохранена в памяти. Награда твоя.",
+    "已铭记这段往事。奖励归你所有。"
+  ],
+  "Choose background style": [
+    "Elegir fondo",
+    "Выбрать фон",
+    "选择背景"
+  ],
+  "Toggle portrait and full body": [
+    "Alternar retrato y cuerpo entero",
+    "Портрет или полный рост",
+    "切换肖像与全身视图"
+  ],
+  "Choose Zenda's reaction": [
+    "Elegir la reacción de Zenda",
+    "Выбрать реакцию Zenda",
+    "选择Zenda的反应"
+  ],
+  "Help / Creator credits": [
+    "Ayuda / Créditos del creador",
+    "Помощь / Об авторе",
+    "帮助 / 创作者信息"
+  ],
+  "Invoke possibility": [
+    "Invocar posibilidad",
+    "Призвать возможность",
+    "唤起可能"
+  ],
+  "Secret fairy": [
+    "Hada secreta",
+    "Тайная фея",
+    "秘密精灵"
+  ],
+  "Completion credits / Continue or reset": [
+    "Créditos finales / Continuar o reiniciar",
+    "Финальные титры / Продолжить или сбросить",
+    "通关鸣谢 / 继续或重置"
+  ],
+  "Zenda's reactions": [
+    "Reacciones de Zenda",
+    "Реакции Zenda",
+    "Zenda的反应"
+  ],
+  "Happy / joyful wave": [
+    "Alegría / Saludo alegre",
+    "Радость / Весёлое приветствие",
+    "开心 / 欢快挥手"
+  ],
+  "Relaxed / gentle breath": [
+    "Calma / Respiración suave",
+    "Спокойствие / Мягкий вдох",
+    "平静 / 轻柔呼吸"
+  ],
+  "Sad / tender bow": [
+    "Tristeza / Inclinación tierna",
+    "Грусть / Нежный поклон",
+    "难过 / 轻轻鞠躬"
+  ],
+  "Angry / little pout": [
+    "Enfado / Pequeño puchero",
+    "Гнев / Надутые губки",
+    "生气 / 微微噘嘴"
+  ],
+  "Surprised / delighted gasp": [
+    "Sorpresa / Exclamación de alegría",
+    "Удивление / Восторженный вздох",
+    "惊讶 / 惊喜轻呼"
+  ],
+  "ZendaGenesis / Creator": [
+    "ZendaGenesis / Creador",
+    "ZendaGenesis / Автор",
+    "ZendaGenesis / 创作者"
+  ],
+  "Created by Gonzalo Ciocca": [
+    "Creado por Gonzalo Ciocca",
+    "Автор: Gonzalo Ciocca",
+    "创作者：Gonzalo Ciocca"
+  ],
+  "Tap Zenda: +2s boost, max 60s": [
+    "Toca a Zenda: +2s de impulso, máximo 60s",
+    "Нажми на Zenda: +2с усиления, максимум 60с",
+    "点击Zenda：加成+2秒，最多60秒"
+  ],
+  "Drag Zenda left/right: rotate": [
+    "Arrastra a Zenda a los lados para girarla",
+    "Перетаскивай Zenda влево/вправо для поворота",
+    "左右拖动Zenda以旋转"
+  ],
+  "Star cluster: backgrounds": [
+    "Grupo de estrellas: fondos",
+    "Скопление звёзд: фоны",
+    "星团：背景"
+  ],
+  "Eye: portrait / full body": [
+    "Ojo: retrato / cuerpo entero",
+    "Глаз: портрет / полный рост",
+    "眼睛：肖像 / 全身"
+  ],
+  "Heart: emotion reactions": [
+    "Corazón: reacciones emocionales",
+    "Сердце: эмоциональные реакции",
+    "爱心：情绪反应"
+  ],
+  "Navbar: Goddess / RPG / Storyline": [
+    "Navegación: Diosa / RPG / Historia",
+    "Навигация: Богиня / RPG / Сюжет",
+    "导航：女神 / 放置 / 剧情"
+  ],
+  "Offline gathering: full rate / {0}x speed.": [
+    "Recolección sin conexión: producción completa / velocidad {0}x.",
+    "Офлайн-сбор: полная выработка / скорость {0}x.",
+    "离线采集：完整收益 / {0}倍速度。"
+  ],
+  "Local save ready.": [
+    "Guardado local listo.",
+    "Локальное сохранение готово.",
+    "本地存档已就绪。"
+  ],
+  "Progress saved locally.": [
+    "Progreso guardado localmente.",
+    "Прогресс сохранён локально.",
+    "进度已保存至本地。"
+  ],
+  "I am Zenda. Together, let us give the void a beginning.": [
+    "Soy Zenda. Juntos, demos un comienzo al vacío.",
+    "Я — Zenda. Давай вместе подарим пустоте начало.",
+    "我是Zenda。让我们一起赋予虚无一个开端。"
+  ],
+  "A starlight journey remembered. Our bond grows.": [
+    "Un viaje estelar para recordar. Nuestro vínculo crece.",
+    "Звёздное путешествие стало воспоминанием. Наша связь крепнет.",
+    "铭记一段星光旅程。我们的羁绊更深了。"
+  ],
+  "Storyline finished. You can now unlock the next world.": [
+    "Historia terminada. Ya puedes desbloquear el siguiente mundo.",
+    "Сюжет завершён. Теперь можно открыть следующий мир.",
+    "剧情已完成。现在可以解锁下一个世界。"
+  ],
+  "Complete the previous world's story objectives, then finish reading before unlocking.": [
+    "Cumple los objetivos del mundo anterior y termina de leer su historia antes de desbloquear.",
+    "Выполни сюжетные цели предыдущего мира и дочитай историю перед открытием.",
+    "请先完成前一个世界的剧情目标并读完故事，再进行解锁。"
+  ],
+  "Reset cancelled. Your progress is unchanged.": [
+    "Reinicio cancelado. Tu progreso no ha cambiado.",
+    "Сброс отменён. Прогресс не изменён.",
+    "已取消重置。你的进度未改变。"
+  ],
+  "Reset complete. A new beginning at 1x speed.": [
+    "Reinicio completado. Un nuevo comienzo a velocidad 1x.",
+    "Сброс завершён. Новое начало со скоростью 1x.",
+    "重置完成。以1倍速度重新开始。"
+  ],
+  "Reset everything to the beginning? This clears this game's progress and speed boost. This cannot be undone.": [
+    "¿Reiniciar todo desde el principio? Se borrarán el progreso y la bonificación de velocidad. Esta acción no se puede deshacer.",
+    "Начать всё сначала? Прогресс и ускорение будут удалены. Это действие нельзя отменить.",
+    "要将一切重置到最初吗？这将清除游戏进度与速度加成，且无法撤销。"
+  ],
+  "Speed set to {#}x, including offline gathering and journeys. Codes do not stack.": [
+    "Velocidad fijada en {#}x, incluida la recolección sin conexión y los viajes. Los códigos no se acumulan.",
+    "Установлена скорость {#}x, включая офлайн-сбор и путешествия. Коды не складываются.",
+    "速度已设为{#}倍，包括离线采集与旅程。兑换码效果不叠加。"
+  ],
+  "Speed set to {#}x gathering and journeys. Codes do not stack.": [
+    "Recolección y viajes a velocidad {#}x. Los códigos no se acumulan.",
+    "Сбор и путешествия ускорены до {#}x. Коды не складываются.",
+    "采集与旅程速度已设为{#}倍。兑换码效果不叠加。"
+  ],
+  "You have completed every chapter. Your universe and fairies can keep growing.": [
+    "Has completado todos los capítulos. Tu universo y tus hadas pueden seguir creciendo.",
+    "Ты завершил все главы. Твоя вселенная и феи могут развиваться дальше.",
+    "你已完成所有章节。你的宇宙与精灵仍可继续成长。"
+  ],
+  "Thank you for sharing this journey with Zenda.": [
+    "Gracias por compartir este viaje con Zenda.",
+    "Спасибо, что разделили это путешествие с Zenda.",
+    "感谢你与Zenda共同走过这段旅程。"
+  ],
+  "Reopen these credits using the fairy hexagon on the main page. Reset erases all progress and speed codes.": [
+    "Abre estos créditos desde el hexágono de hada de la página principal. Reiniciar borra todo el progreso y los códigos de velocidad.",
+    "Эти титры можно открыть через шестиугольник феи на главной странице. Сброс удаляет весь прогресс и ускорения.",
+    "可通过主页的精灵六边形按钮重新打开鸣谢。重置会清除全部进度和速度兑换码效果。"
+  ],
+  "Fairy halos / {#} of {#}": [
+    "Halos de hadas / {#} de {#}",
+    "Нимбы фей / {#} из {#}",
+    "精灵光环 / {#}，共{#}种"
+  ],
+  "Fairy halos / {#} unlocked": [
+    "Halos de hadas / {#} desbloqueados",
+    "Нимбы фей / открыто: {#}",
+    "精灵光环 / 已解锁{#}种"
+  ],
+  "Recruit fairies to unlock their halos for Zenda. Tap an unlocked halo to wear it.": [
+    "Recluta hadas para desbloquear sus halos para Zenda. Toca un halo desbloqueado para equiparlo.",
+    "Приглашай фей, чтобы открывать их нимбы для Zenda. Нажми на открытый нимб, чтобы надеть его.",
+    "招募精灵可为Zenda解锁对应光环。点击已解锁的光环即可佩戴。"
+  ],
+  "Shared by {0}": [
+    "Compartido por {0}",
+    "Дар от {0}",
+    "由{0}分享"
+  ],
+  "Recruit {0}": [
+    "Recluta a {0}",
+    "Пригласи {0}",
+    "招募{0}"
+  ],
+  "wearing": [
+    "equipado",
+    "надет",
+    "佩戴中"
+  ],
+  "unlocked": [
+    "desbloqueado",
+    "открыт",
+    "已解锁"
+  ],
+  "locked": [
+    "bloqueado",
+    "закрыт",
+    "未解锁"
+  ],
+  "Wear": [
+    "Equipar",
+    "Надеть",
+    "佩戴"
+  ],
+  "Worn": [
+    "Equipado",
+    "Надет",
+    "佩戴中"
+  ],
+  "Zenda's starter halo": [
+    "Halo inicial de Zenda",
+    "Начальный нимб Zenda",
+    "Zenda的初始光环"
+  ],
+  "Angel": [
+    "Ángel",
+    "Ангел",
+    "天使"
+  ],
+  "Demon": [
+    "Demonio",
+    "Демон",
+    "恶魔"
+  ],
+  "Nature": [
+    "Naturaleza",
+    "Природа",
+    "自然"
+  ],
+  "Fire": [
+    "Fuego",
+    "Огонь",
+    "火焰"
+  ],
+  "Water": [
+    "Agua",
+    "Вода",
+    "水流"
+  ],
+  "Earth": [
+    "Tierra",
+    "Земля",
+    "大地"
+  ],
+  "Wind": [
+    "Viento",
+    "Ветер",
+    "风"
+  ],
+  "Lightning": [
+    "Rayo",
+    "Молния",
+    "雷电"
+  ],
+  "Moon": [
+    "Luna",
+    "Луна",
+    "月亮"
+  ],
+  "Stars": [
+    "Estrellas",
+    "Звёзды",
+    "星辰"
+  ],
+  "Time": [
+    "Tiempo",
+    "Время",
+    "时间"
+  ],
+  "Heart": [
+    "Corazón",
+    "Сердце",
+    "心灵"
+  ],
+  "Shadow": [
+    "Sombra",
+    "Тень",
+    "暗影"
+  ],
+  "Arcane": [
+    "Arcano",
+    "Тайная магия",
+    "奥术"
+  ],
+  "App background style": [
+    "Estilo de fondo",
+    "Стиль фона приложения",
+    "应用背景风格"
+  ],
+  "Applied": [
+    "Aplicado",
+    "Применён",
+    "已应用"
+  ],
+  "Unlocked": [
+    "Desbloqueado",
+    "Открыт",
+    "已解锁"
+  ],
+  "Confirm": [
+    "Confirmar",
+    "Подтвердить",
+    "确认"
+  ],
+  "Locked / unlock this world's story": [
+    "Bloqueado / desbloquea la historia de este mundo",
+    "Закрыто / открой историю этого мира",
+    "未解锁 / 请解锁此世界的剧情"
+  ],
+  "Primordial": [
+    "Primordial",
+    "Первородный",
+    "原初"
+  ],
+  "Duality": [
+    "Dualidad",
+    "Двойственность",
+    "二元"
+  ],
+  "Wood": [
+    "Madera",
+    "Дерево",
+    "木"
+  ],
+  "Metal": [
+    "Metal",
+    "Металл",
+    "金"
+  ],
+  "Elements": [
+    "Elementos",
+    "Стихии",
+    "元素"
+  ],
+  "Space": [
+    "Espacio",
+    "Пространство",
+    "空间"
+  ],
+  "Soul": [
+    "Alma",
+    "Душа",
+    "灵魂"
+  ],
+  "Living Universe": [
+    "Universo vivo",
+    "Живая вселенная",
+    "生命宇宙"
+  ],
+  "Omniverse": [
+    "Omniverso",
+    "Омнивселенная",
+    "全宇宙"
+  ],
+  "Awareness": [
+    "Conciencia",
+    "Осознание",
+    "觉知"
+  ],
+  "Concord": [
+    "Concordia",
+    "Согласие",
+    "和谐"
+  ],
+  "Embodied Soul": [
+    "Alma encarnada",
+    "Воплощённая душа",
+    "具身灵魂"
+  ],
+  "Unknown": [
+    "Desconocido",
+    "Неизвестно",
+    "未知"
+  ],
+  "Gather from the starter button. Recruit fairies, then upgrade them.\nFairies gather automatically; timers award Hope.\nRead a world's stories before unlocking the next world.": [
+    "Recolecta con el botón inicial. Recluta hadas y mejóralas.\nLas hadas recolectan solas; los temporizadores otorgan Esperanza.\nLee las historias de un mundo antes de desbloquear el siguiente.",
+    "Собирай стартовой кнопкой. Приглашай фей и улучшай их.\nФеи собирают автоматически; таймеры дают Надежду.\nПрочитай истории мира перед открытием следующего.",
+    "使用初始按钮采集，招募并升级精灵。\n精灵会自动采集，计时结束可获得希望。\n解锁下个世界前，请先读完当前世界的故事。"
+  ],
+  "Choose a world as your journey origin.\nGreen bar: finished stories, gifts optional.\nA lock means its first creation is not owned.\nAll formed worlds keep producing together.": [
+    "Elige un mundo como punto de partida.\nBarra verde: historias terminadas; regalos opcionales.\nUn candado indica que no posees su primera creación.\nTodos los mundos formados siguen produciendo.",
+    "Выбери мир отправления.\nЗелёная полоса: прочитанные истории, подарки необязательны.\nЗамок означает, что первое творение ещё не получено.\nВсе созданные миры продолжают производство.",
+    "选择一个世界作为旅程起点。\n绿条表示已完成的故事，礼物可选。\n锁表示尚未拥有其第一项创造。\n所有已成形世界都会持续产出。"
+  ],
+  "Journeys are optional trips for bonus Hope.\n1. Choose an available route.\n2. Start the trip; keep playing or close the game.\n3. Return here to claim its reward.\nNo Hope is spent and no fairy leaves your roster.": [
+    "Los viajes son opcionales y dan Esperanza adicional.\n1. Elige una ruta disponible.\n2. Inicia el viaje; sigue jugando o cierra el juego.\n3. Vuelve para cobrar la recompensa.\nNo gastas Esperanza ni pierdes hadas.",
+    "Путешествия необязательны и дают дополнительную Надежду.\n1. Выбери доступный маршрут.\n2. Отправляйся; можно играть дальше или закрыть игру.\n3. Вернись за наградой.\nНадежда не тратится, феи остаются с тобой.",
+    "旅程是获取额外希望的可选活动。\n1. 选择可用路线。\n2. 出发后可继续游玩或关闭游戏。\n3. 回到这里领取奖励。\n不会消耗希望，也不会失去任何精灵。"
+  ]
+}

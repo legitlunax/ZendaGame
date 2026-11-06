@@ -2,14 +2,15 @@
 
 A Godot 4 idle-game prototype about nurturing a universe, rather than annihilating one.
 
-## Unity migration handoff
+## Unity project
 
-The Unity recreation package starts at
-`E:\Godot\GenesisIdleRPG\UnityMigration\START_HERE.md`.
-Portable archive: `E:\Godot\GenesisIdleRPG-UnityMigration.zip`.
-It includes runtime-exported catalogs, snapshots, parity fixtures, reusable assets,
-reference geometry, source snapshots, and save conversion tools. It is a handoff,
-not an already compiled Unity project. Player saves and credentials are excluded.
+The Unity implementation is available in [`Unity/Genesis`](Unity/Genesis) and
+requires Unity **6000.6.7f1**. Build instructions are in
+[`Unity/Genesis/BUILDING.md`](Unity/Genesis/BUILDING.md); local package dependencies
+are under `Unity/Tools`, and build/validation tools are under
+`Unity/Genesis/Tools`. Unity editor caches, build outputs, signing material, and
+non-redistributable character models are not included. The Godot project remains
+at the repository root.
 
 ## Play
 

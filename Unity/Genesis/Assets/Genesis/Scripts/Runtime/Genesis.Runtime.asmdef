@@ -1,0 +1,5 @@
+{
+  "name": "Genesis.Runtime",
+  "rootNamespace": "Genesis",
+  "references": ["Genesis.Core", "Genesis.Art"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Genesis.Core",
+  "rootNamespace": "Genesis",
+  "overrideReferences": true,
+  "precompiledReferences": ["Newtonsoft.Json.dll"],
+  "noEngineReferences": true
+}

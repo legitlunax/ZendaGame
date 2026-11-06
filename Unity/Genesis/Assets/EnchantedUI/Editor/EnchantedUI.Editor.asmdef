@@ -1,0 +1,5 @@
+{
+  "name": "EnchantedUI.Editor",
+  "references": ["EnchantedUI.Runtime", "Unity.ugui"],
+  "includePlatforms": ["Editor"]
+}

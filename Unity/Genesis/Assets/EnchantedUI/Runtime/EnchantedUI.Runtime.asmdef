@@ -1,0 +1,4 @@
+{
+  "name": "EnchantedUI.Runtime",
+  "references": ["Unity.ugui"]
+}
